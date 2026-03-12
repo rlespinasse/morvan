@@ -1,0 +1,1601 @@
+{
+  "type": "FeatureCollection",
+  "name": "Points_Vues_remarquables_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "7",
+        "FichierPPP": "Image10515.jpg",
+        "NOM": "Belvédère Vézelay",
+        "CoordY": 2274970.87627884,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          756517.5887730608,
+          6707534.122558044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "8",
+        "FichierPPP": "Image10516.jpg",
+        "NOM": "Pont Pierre-Perthuis",
+        "CoordY": 2271294.521201965,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759259.8344332819,
+          6703837.212099604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "3",
+        "FichierPPP": "Image10511.jpg",
+        "NOM": "Tharoiseau",
+        "CoordY": 2274393.112601173,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          760627.9509636892,
+          6706921.884688818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "30",
+        "FichierPPP": "Image10538.jpg",
+        "NOM": "Crescent/La Brosse",
+        "CoordY": 2263938.9468618273,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768095.2953454144,
+          6696412.0734977545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "29",
+        "FichierPPP": "Image10537.jpg",
+        "NOM": "Crescent/Le Mont",
+        "CoordY": 2264464.9260496465,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769114.0664794163,
+          6696929.003852894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "28",
+        "FichierPPP": "Image10536.jpg",
+        "NOM": "Marigny-l'Eglise",
+        "CoordY": 2263074.9936805274,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770406.6179199433,
+          6695529.117839048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "35a",
+        "FichierPPP": "Image10541.jpg",
+        "NOM": "Belvédère Lormes / La Justice",
+        "CoordY": 2256398.0023788246,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761043.5600363323,
+          6688936.5610634815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "36",
+        "FichierPPP": "Image10543.jpg",
+        "NOM": "Lormes/Eglise",
+        "CoordY": 2255500.93920291,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761460.7585228065,
+          6688036.698094552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "26",
+        "FichierPPP": "Image10534.jpg",
+        "NOM": "Lac de Chaumeçon/Barrage",
+        "CoordY": 2257118.173403576,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769300.8236829175,
+          6689586.128006581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "27",
+        "FichierPPP": "Image10535.jpg",
+        "NOM": "Lac de Chaumeçon/ Bonnétré",
+        "CoordY": 2253839.138262086,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770013.7005872399,
+          6686303.463384095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "11",
+        "FichierPPP": "Image10519.jpg",
+        "NOM": "Rocher de la Perrouse",
+        "CoordY": 2258531.4775336003,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776119.1674809108,
+          6690940.401993467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "12",
+        "FichierPPP": "Image10520.jpg",
+        "NOM": "Vieux-Dun",
+        "CoordY": 2257916.479432922,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774861.3351357344,
+          6690336.560878675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "10",
+        "FichierPPP": "Image10518.jpg",
+        "NOM": "Croisement RD 20/RD 211",
+        "CoordY": 2259548.607402792,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779224.0367206588,
+          6691930.464804172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "15",
+        "FichierPPP": "Image10523.jpg",
+        "NOM": "Saint-Agnan / Barrage",
+        "CoordY": 2261116.6921650846,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781351.0972773079,
+          6693479.325709457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "16",
+        "FichierPPP": "Image10524.jpg",
+        "NOM": "Saint-Agnan / Les Micheaux",
+        "CoordY": 2259378.7038664087,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783386.4807892122,
+          6691725.327831303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "17",
+        "FichierPPP": "Image10525.jpg",
+        "NOM": "Eschamps",
+        "CoordY": 2256154.546536064,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787005.5566741434,
+          6688472.731310344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "57",
+        "FichierPPP": "Image10565.jpg",
+        "NOM": "Butte de Thil",
+        "CoordY": 2267070.7628231063,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800809.0356754597,
+          6699263.35737136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "1",
+        "FichierPPP": "Image10509.jpg",
+        "NOM": "RD 26/La Motte Ternant",
+        "CoordY": 2260114.112362731,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799909.7423103575,
+          6692319.638640965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "18",
+        "FichierPPP": "Image10526.jpg",
+        "NOM": "Island/Lac de Chamboux",
+        "CoordY": 2252053.9481717786,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790314.8844860888,
+          6684347.162409804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "66",
+        "FichierPPP": "Image10574.jpg",
+        "NOM": "Ménessaire Ouest",
+        "CoordY": 2238716.3487144974,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785697.234021445,
+          6671058.911367478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "63",
+        "FichierPPP": "Image10571.jpg",
+        "NOM": "RD 521/Alligny/La Crémaine",
+        "CoordY": 2246516.2156467424,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788154.2392054262,
+          6678831.920608643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "64",
+        "FichierPPP": "Image10572.jpg",
+        "NOM": "RD 516/ Alligny",
+        "CoordY": 2245878.418622436,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790662.9833679835,
+          6678173.27856581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "92",
+        "FichierPPP": null,
+        "NOM": "Croisement RD 149/RD 980",
+        "CoordY": 2240318.1163086826,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791634.2122659776,
+          6672608.908054849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "58",
+        "FichierPPP": "Image10566.jpg",
+        "NOM": "RD 17b / Villiers-en-Morvan",
+        "CoordY": 2241283.4616880263,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795134.3797242761,
+          6673543.714732115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "60",
+        "FichierPPP": "Image10568.jpg",
+        "NOM": "RD 980 / Souvert",
+        "CoordY": 2234867.684184674,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793423.1568398172,
+          6667147.445200999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "80",
+        "FichierPPP": "Image10590.jpg",
+        "NOM": "RD 302 / La Petite Verrière",
+        "CoordY": 2229510.166267009,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787831.3272490631,
+          6661841.539865637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "47",
+        "FichierPPP": "Image10554.jpg",
+        "NOM": "RD 88 / Moncimet",
+        "CoordY": 2233537.6705947383,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784695.3706275235,
+          6665892.675989723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "81",
+        "FichierPPP": "Image10591.jpg",
+        "NOM": "Roussillon-en-Morvan / le Chéset",
+        "CoordY": 2228122.98351682,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785484.3798073946,
+          6660475.466240841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "48",
+        "FichierPPP": "Image10555.jpg",
+        "NOM": "RD 88 / Cussy-en-Morvan",
+        "CoordY": 2233381.9734228267,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788673.8912643177,
+          6665703.310544986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "74",
+        "FichierPPP": "Image10583.jpg",
+        "NOM": "Les Rouelles / Lac Settons",
+        "CoordY": 2246423.301440399,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780599.983863851,
+          6678803.329693253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "62",
+        "FichierPPP": "Image10570.jpg",
+        "NOM": "RD 292 / Fontaine Blanche",
+        "CoordY": 2245524.9780224743,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784002.9167204943,
+          6677876.803737674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "22",
+        "FichierPPP": "Image10530.jpg",
+        "NOM": "Roche",
+        "CoordY": 2248234.727477997,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776487.4629171232,
+          6680648.324022626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "40",
+        "FichierPPP": "Image10547.jpg",
+        "NOM": "Bonin",
+        "CoordY": 2240119.914610811,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765809.276152798,
+          6672630.351799238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "23",
+        "FichierPPP": "Image10531.jpg",
+        "NOM": "Chapelle Savault",
+        "CoordY": 2247799.485714868,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773238.498325183,
+          6680240.997754969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "14",
+        "FichierPPP": "Image10522.jpg",
+        "NOM": "Vermot",
+        "CoordY": 2256208.7369424757,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772891.8745573463,
+          6688646.894233694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "42",
+        "FichierPPP": "Image10549.jpg",
+        "NOM": "La Chapelle du Banquet",
+        "CoordY": 2245621.7875223015,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767329.8858338721,
+          6678115.1863242425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "41",
+        "FichierPPP": "Image10548.jpg",
+        "NOM": "Barrage de Pannecière",
+        "CoordY": 2241594.397762028,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766228.6312387721,
+          6674100.129692556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "37",
+        "FichierPPP": "Image10544.jpg",
+        "NOM": "Belvédère d'Ouroux-en-Morvan",
+        "CoordY": 2244044.8810659423,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771533.8552257982,
+          6676503.694511827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "44",
+        "FichierPPP": "Image10551.jpg",
+        "NOM": "Maison Comte",
+        "CoordY": 2238333.235143583,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771631.7734694725,
+          6670795.568351693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "39",
+        "FichierPPP": "Image10546.jpg",
+        "NOM": "RD 161 / Lac Pannecière",
+        "CoordY": 2239098.431178313,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768138.4122391959,
+          6671589.910693311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "69",
+        "FichierPPP": "Image10578.jpg",
+        "NOM": "RD 11 / Rangleau",
+        "CoordY": 2236329.4503483395,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761346.5018812765,
+          6668880.68214285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "67a",
+        "FichierPPP": "Image10575.jpg",
+        "NOM": "Belvédère Château-Chinon",
+        "CoordY": 2231216.877650356,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770886.5583556481,
+          6663691.072860569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "68",
+        "FichierPPP": "Image10577.jpg",
+        "NOM": "Dommartin",
+        "CoordY": 2230662.944003415,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764323.4998668699,
+          6663193.205347088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "72",
+        "FichierPPP": "Image10581.jpg",
+        "NOM": "Saint-Léger-de-Fougerey",
+        "CoordY": 2225872.87869243,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768316.8859440174,
+          6658372.9126819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "70",
+        "FichierPPP": "Image10579.jpg",
+        "NOM": "Col Mourceau",
+        "CoordY": 2221786.4866926167,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765027.6425432169,
+          6654317.5792962955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "78",
+        "FichierPPP": "Image10587.jpg",
+        "NOM": "Sanglier",
+        "CoordY": 2214538.7203280265,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770687.6616535614,
+          6647027.460416557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "77",
+        "FichierPPP": "Image10586.jpg",
+        "NOM": "Le Mousseau",
+        "CoordY": 2216651.0005035494,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770037.3002555454,
+          6649143.627740798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "73",
+        "FichierPPP": "Image10582.jpg",
+        "NOM": "RD 978 / Arleuf",
+        "CoordY": 2228399.663921652,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776832.72587065,
+          6660825.494644977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "51",
+        "FichierPPP": "Image10558.jpg",
+        "NOM": "Glux-en-Glenne",
+        "CoordY": 2218693.85280109,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778477.4629491236,
+          6651113.089506385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "50",
+        "FichierPPP": "Image10557.jpg",
+        "NOM": "RD 500 / Glux-en-Glenne",
+        "CoordY": 2219100.3381329095,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778416.7611429971,
+          6651519.848998695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "54",
+        "FichierPPP": "Image10563.jpg",
+        "NOM": "Mont-Beuvray",
+        "CoordY": 2214932.0304024727,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778918.9404327685,
+          6647350.484429994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "87",
+        "FichierPPP": "Image10597.jpg",
+        "NOM": "Eperon rocheux du château",
+        "CoordY": 2210132.7996950545,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776169.204902485,
+          6642578.300727244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "52",
+        "FichierPPP": "Image10559.jpg",
+        "NOM": "RD 260 Mont Glandur",
+        "CoordY": 2217719.571160224,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779842.9699941356,
+          6650128.018335244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "84",
+        "FichierPPP": "Image10594.jpg",
+        "NOM": "Montcharmont",
+        "CoordY": 2219489.2946440503,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782068.0587810565,
+          6651877.479779223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "85",
+        "FichierPPP": "Image10595.jpg",
+        "NOM": "RD 3 La Grande Verrière",
+        "CoordY": 2220546.8668250046,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787423.3223462575,
+          6652888.64716167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "89a",
+        "FichierPPP": "Image10599.jpg",
+        "NOM": "Montagne de la Justice",
+        "CoordY": 2206587.509787176,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787048.7857110925,
+          6638943.2267979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "20",
+        "FichierPPP": "Image10528.jpg",
+        "NOM": "La Croix Grenot",
+        "CoordY": 2252621.744480825,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780555.9434067927,
+          6685380.704597781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "90",
+        "FichierPPP": "Image10601.jpg",
+        "NOM": "Les rochers du Carnaval",
+        "CoordY": 2202522.3127666144,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795575.745064747,
+          6634808.696598987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "86",
+        "FichierPPP": "Image10596.jpg",
+        "NOM": "La Croix de la Bresseille",
+        "CoordY": 2208959.6289515845,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776240.1182072441,
+          6641405.450636056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "25",
+        "FichierPPP": "Image10533.jpg",
+        "NOM": "Plainefas1",
+        "CoordY": 2256897.9747542646,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767591.7552413584,
+          6689380.649629665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "13",
+        "FichierPPP": "Image10521.jpg",
+        "NOM": "Mézauguichard",
+        "CoordY": 2255935.378993851,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776382.3977026818,
+          6688344.066612605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "34",
+        "FichierPPP": "Image10540.jpg",
+        "NOM": "La Rivière",
+        "CoordY": 2267897.596148851,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767248.3210841821,
+          6700181.450870121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "31",
+        "FichierPPP": "Image10539.jpg",
+        "NOM": "Barrage du Crescent",
+        "CoordY": 2266092.4713213006,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768207.6218303719,
+          6698563.075191789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "19",
+        "FichierPPP": "Image10527.jpg",
+        "NOM": "La Croix Grenot",
+        "CoordY": 2252987.443798516,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781052.84757229,
+          6684999.049337505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "59",
+        "FichierPPP": "Image10567.jpg",
+        "NOM": "Montagne de Bard",
+        "CoordY": 2240255.906180391,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800937.9270011443,
+          6672467.535539802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "82",
+        "FichierPPP": "Image10592.jpg",
+        "NOM": "Les Pignots",
+        "CoordY": 2227066.5570104197,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782302.470363709,
+          6659446.824772826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "43",
+        "FichierPPP": "Image10550.jpg",
+        "NOM": "Croix Marie",
+        "CoordY": 2249736.935953425,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765463.1074274775,
+          6682243.022326168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "4",
+        "FichierPPP": "Image10512.jpg",
+        "NOM": "Croix de la Montjoie",
+        "CoordY": 2275746.727086925,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          760337.3772168576,
+          6708276.953053748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "71",
+        "FichierPPP": "Image10580.jpg",
+        "NOM": "Vierge d'Onlay",
+        "CoordY": 2220066.714619352,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768066.135963553,
+          6652573.337094575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "6",
+        "FichierPPP": "Image10514.jpg",
+        "NOM": "Vallée des Tannières",
+        "CoordY": 2274417.1717668106,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          754432.0556963838,
+          6706998.470765296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "5",
+        "FichierPPP": "Image10513.jpg",
+        "NOM": "Combe Bourier",
+        "CoordY": 2275738.707365046,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          755600.4797394892,
+          6708309.17668671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "9",
+        "FichierPPP": "Image10517.jpg",
+        "NOM": "Notre Dame de la lumière",
+        "CoordY": 2270136.4733626097,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761062.2814765915,
+          6702664.701181062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "61",
+        "FichierPPP": "Image10569.jpg",
+        "NOM": "Marigny - La Brule",
+        "CoordY": 2262314.8386138356,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769294.0152982959,
+          6694779.026371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "75",
+        "FichierPPP": "Image10584.jpg",
+        "NOM": "Les Settons",
+        "CoordY": 2245489.2329763845,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780297.7213477294,
+          6677872.492674806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "76",
+        "FichierPPP": "Image10585.jpg",
+        "NOM": "La Grande Ile",
+        "CoordY": 2243038.978807381,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781062.9065728976,
+          6675417.643612315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "45",
+        "FichierPPP": "Image10552.jpg",
+        "NOM": "L'Huis Grillot",
+        "CoordY": 2234309.282406972,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772264.3191990191,
+          6666769.392656822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "38",
+        "FichierPPP": "Image10545.jpg",
+        "NOM": "L'Huis Maillot",
+        "CoordY": 2240352.028275486,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768707.7609769945,
+          6672837.644303538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "46",
+        "FichierPPP": "Image10553.jpg",
+        "NOM": "Statue de Notre-Dame de l'Aillant",
+        "CoordY": 2233520.1417740593,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782735.8929482215,
+          6665891.881611678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "83",
+        "FichierPPP": "Image10593.jpg",
+        "NOM": "Les Gorges de la Canche",
+        "CoordY": 2225000.332951974,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783923.038431586,
+          6657368.439496454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "56",
+        "FichierPPP": "Image10564.jpg",
+        "NOM": "Chez Jaclois",
+        "CoordY": 2219063.7911146316,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775175.6228506436,
+          6651510.88546891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "53a",
+        "FichierPPP": "Image10560.jpg",
+        "NOM": "Col de l'Echenault",
+        "CoordY": 2216921.6088332445,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778658.205396619,
+          6649340.709363274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "79a",
+        "FichierPPP": "Image10588.jpg",
+        "NOM": "Croix de la Libération",
+        "CoordY": 2216759.2667489187,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797931.7696337112,
+          6649014.5078376625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "49",
+        "FichierPPP": "Image10556.jpg",
+        "NOM": "Vallée du Cousin",
+        "CoordY": 2276910.2741641398,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769014.8995646074,
+          6709365.9560961155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "88",
+        "FichierPPP": "Image10598.jpg",
+        "NOM": "Le Bouchet",
+        "CoordY": 2211599.835961669,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773946.3827016384,
+          6644063.169572001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "21",
+        "FichierPPP": "Image10529.jpg",
+        "NOM": "La Croix des Chazelles",
+        "CoordY": 2247502.526870427,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776792.3349186399,
+          6679914.11565266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "2",
+        "FichierPPP": "Image10510.jpg",
+        "NOM": "Vrilly",
+        "CoordY": 2255172.818010595,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795195.6487161021,
+          6687422.0793225905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "91",
+        "FichierPPP": "Image10602.jpg",
+        "NOM": "Les Guttes Bonnin",
+        "CoordY": 2247989.2094210386,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787238.1524000174,
+          6680311.570211141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "35b",
+        "FichierPPP": "Image10542.jpg",
+        "NOM": "Belvédère Lormes / La Justice",
+        "CoordY": 2256398.0023788246,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761043.5600363323,
+          6688936.5610634815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "53b",
+        "FichierPPP": "Image10561.jpg",
+        "NOM": "Col de l'Echenault",
+        "CoordY": 2216921.6088332445,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778658.205396619,
+          6649340.709363274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "53c",
+        "FichierPPP": "Image10562.jpg",
+        "NOM": "Col de l'Echenault",
+        "CoordY": 2216921.6088332445,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778658.205396619,
+          6649340.709363274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "67b",
+        "FichierPPP": "Image10576.jpg",
+        "NOM": "Belvédère Château-Chinon",
+        "CoordY": 2231216.877650356,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770886.5583556481,
+          6663691.072860569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "79b",
+        "FichierPPP": "Image10589.jpg",
+        "NOM": "Croix de la Libération",
+        "CoordY": 2216759.2667489187,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797931.7696337112,
+          6649014.5078376625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodePPP": "89b",
+        "FichierPPP": "Image10600.jpg",
+        "NOM": "Montagne de la Justice",
+        "CoordY": 2206587.509787176,
+        "URL": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787048.7857110925,
+          6638943.2267979
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a7983d6728b95d201e",
+    "dataset_name": "Points de vue remarquables du Morvan",
+    "resource_id": "8f6d0b71-d8b3-4272-aba1-6eae0537b0bc",
+    "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+    "layer": "paysages/points-vue-remarquables",
+    "fetched_at": "2026-03-12T21:06:16.505009+00:00"
+  }
+}

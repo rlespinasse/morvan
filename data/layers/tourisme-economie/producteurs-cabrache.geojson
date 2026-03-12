@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "name": "Producteurs_Cabrache_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 7,
+        "INSEE_COM": 58037,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Champ de la Fontaine",
+        "NOM_": "Christine PECASSE",
+        "ADRESSE": "Le champ de la Fontaine - La montée",
+        "CP": 58140,
+        "COMMUNE": "Brassy",
+        "URL": "https://www.champdelafontaine.com/fr/",
+        "TELEPHONE": null,
+        "EMAIL": "champdelafontaine.brassy@gmail.com",
+        "URL_FB": "https://www.facebook.com/Champ-De-La-Fontaine-Brassy-208507526202696/",
+        "COORD_X": 773231.1350776753,
+        "COORD_Y": 6684177.138384784,
+        "VENTE": "Vente à la ferme ; Marché de Brassy",
+        "CABRACHE": "Brebis",
+        "DATE": "06-2022",
+        "auxiliary_": 766426.4874551428,
+        "auxiliar_1": 6685539.000589864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773231.1350776753,
+          6684177.138384784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 33,
+        "INSEE_COM": 21584,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "Bergerie de Conrieux",
+        "NOM_": "Didier LOISON",
+        "ADRESSE": "Chemin du Conrieux",
+        "CP": 21210,
+        "COMMUNE": "Saulieu",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "06 40 58 26 18",
+        "EMAIL": null,
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 793477.1072162101,
+        "COORD_Y": 6689578.2345414525,
+        "VENTE": "Marchés d’Alligny en Morvan, Saulieu",
+        "CABRACHE": "Brebis",
+        "DATE": "09-2021",
+        "auxiliary_": 786330.1134809717,
+        "auxiliar_1": 6691036.914143348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793477.1072162101,
+          6689578.2345414525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 44,
+        "INSEE_COM": 21007,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Ferme des Vignes",
+        "NOM_": "Vincent SCHWARTZ  & Olivier CATTENOZ",
+        "ADRESSE": "Les vignes",
+        "CP": 71990,
+        "COMMUNE": "La Grande Verrière",
+        "URL": "https://www.fromagesdesvignes.fr/",
+        "TELEPHONE": null,
+        "EMAIL": "contact@fromagesdesvignes.fr",
+        "URL_FB": "https://www.facebook.com/fermedesvignes71",
+        "COORD_X": 784995.7732211408,
+        "COORD_Y": 6650499.627462779,
+        "VENTE": "Vente à la ferme ; Marché d’Autun",
+        "CABRACHE": "Chèvre - Vache - Brebis",
+        "DATE": "09-2021",
+        "auxiliary_": 781634.2600848955,
+        "auxiliar_1": 6651736.949871769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784995.7732211408,
+          6650499.627462779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 47,
+        "INSEE_COM": 89235,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Les brebis de Pauline",
+        "NOM_": "Pauline TRIMOULINARD",
+        "ADRESSE": "13, grande rue ETREE",
+        "CP": 89200,
+        "COMMUNE": "Magny",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "06 31 22 11 27",
+        "EMAIL": null,
+        "URL_FB": "https://www.facebook.com/LesBrebisdePauline",
+        "COORD_X": 774831.5127549964,
+        "COORD_Y": 6709434.379341666,
+        "VENTE": "Vente à la ferme Marché d’Avallon",
+        "CABRACHE": "Brebis",
+        "DATE": "09-2021",
+        "auxiliary_": 773556.3021432454,
+        "auxiliar_1": 6710629.2442087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774831.5127549964,
+          6709434.379341666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 48,
+        "INSEE_COM": 71440,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "La Ferme du Rebout",
+        "NOM_": "Véronique DIANO & Amélie GUILLOT",
+        "ADRESSE": "Le Rebout",
+        "CP": 71990,
+        "COMMUNE": "Saint-leger-sous-Beuvray",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": null,
+        "EMAIL": "fromage.rebout@gmail.com",
+        "URL_FB": "https://www.facebook.com/FermeRebout",
+        "COORD_X": 780967.2774608791,
+        "COORD_Y": 6648925.438165199,
+        "VENTE": "Vente à la ferme ; Marchés de St Léger sous Beuvray, Nevers, Château-Chinon",
+        "CABRACHE": "Chèvre – Vache",
+        "DATE": "09-2021",
+        "auxiliary_": 770571.589050577,
+        "auxiliar_1": 6650053.102132359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780967.2774608791,
+          6648925.438165198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 57,
+        "INSEE_COM": 89349,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Ferme de l'Abbaye de la Pierre qui Vire",
+        "NOM_": "Véronique et Philippe ABRAHAMSE",
+        "ADRESSE": "1, Huis Saint Benoit",
+        "CP": 89630,
+        "COMMUNE": "Saint-Léger-Vauban",
+        "URL": "http://www.apqv.fr/apqv.php?na=6₇",
+        "TELEPHONE": null,
+        "EMAIL": "fromagerie.pierrequivire@gmail.com",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 780241.6206955337,
+        "COORD_Y": 6695775.374184344,
+        "VENTE": "Vente à la ferme",
+        "CABRACHE": "Vache",
+        "DATE": "06-2022",
+        "auxiliary_": 768805.3785722599,
+        "auxiliar_1": 6697261.088762689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780241.6206955337,
+          6695775.374184344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 4,
+        "INSEE_COM": null,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Ferme des Terres Chaudes",
+        "NOM_": "Yohann DUFOUR",
+        "ADRESSE": null,
+        "CP": 71320,
+        "COMMUNE": "La Boulaye",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": null,
+        "EMAIL": "lachevredesterreschaudes@orange.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 786802.5734904616,
+        "COORD_Y": 6627412.107900703,
+        "VENTE": "Vente à la ferme",
+        "CABRACHE": "Chèvre",
+        "DATE": "06-2022",
+        "auxiliary_": 780726.510455813,
+        "auxiliar_1": 6628783.320821277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786802.5734904616,
+          6627412.107900704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 1,
+        "INSEE_COM": null,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Fromagerie des Montigots",
+        "NOM_": "Anne DUGARDIN",
+        "ADRESSE": null,
+        "CP": 71400,
+        "COMMUNE": "La Celle en Morvan",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "07 49 03 26 11",
+        "EMAIL": null,
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 789978.1788069314,
+        "COORD_Y": 6655382.7183867525,
+        "VENTE": "Vente à la ferme ; Marchés d’Autun, Saulieu, Épinac",
+        "CABRACHE": "Vache",
+        "DATE": "09-2021",
+        "auxiliary_": 784935.3783663162,
+        "auxiliar_1": 6656781.643394081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789978.1788069314,
+          6655382.7183867525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 3,
+        "INSEE_COM": null,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Les Chèvres de Charmasse",
+        "NOM_": "Mélanie MARTIN",
+        "ADRESSE": null,
+        "CP": 71190,
+        "COMMUNE": "Mesvres",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "06 30 81 11 29",
+        "EMAIL": null,
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 796604.1431501184,
+        "COORD_Y": 6641985.585218555,
+        "VENTE": "Vente à la ferme ; Marché de Mesvres",
+        "CABRACHE": "Chèvre",
+        "DATE": "06-2022",
+        "auxiliary_": 792330.1041004478,
+        "auxiliar_1": 6643179.342706018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796604.1431501185,
+          6641985.585218555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 2,
+        "INSEE_COM": null,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "La Ferme de Roussillon",
+        "NOM_": "Emmanuelle BERNARDIN & Jérôme JOSEPH",
+        "ADRESSE": null,
+        "CP": 71550,
+        "COMMUNE": "Roussillon en Morvan",
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "03 85 52 71 01",
+        "EMAIL": null,
+        "URL_FB": "https://fr-fr.facebook.com/FermeDeRoussillon/",
+        "COORD_X": 785786.3862705344,
+        "COORD_Y": 6659976.179980196,
+        "VENTE": "Vente à la ferme ; Marché d’Autun",
+        "CABRACHE": "Chèvre",
+        "DATE": "06-2022",
+        "auxiliary_": 780860.8281638263,
+        "auxiliar_1": 6661335.157948953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785786.3862705344,
+          6659976.179980196
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "62f2f65931122d61170505d1",
+    "dataset_name": "Producteurs de Cabrache du Morvan",
+    "resource_id": "e4314be1-b8f9-4e8d-ad39-9a0dcef426ca",
+    "dataset_url": "https://www.data.gouv.fr/datasets/producteurs-de-cabrache-dans-le-parc-naturel-regional-du-morvan",
+    "layer": "tourisme-economie/producteurs-cabrache",
+    "fetched_at": "2026-03-12T21:06:52.236410+00:00"
+  }
+}

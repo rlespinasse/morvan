@@ -1,0 +1,4 @@
+[tools]
+python = "3"
+just = "latest"
+"npm:markdownlint-cli" = "latest"

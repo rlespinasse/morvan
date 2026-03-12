@@ -1,0 +1,4013 @@
+{
+  "type": "FeatureCollection",
+  "name": "Etablissements_Scolaires_Fermes_MENJ_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210281S",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-08-25",
+        "date_ferme": "1981-08-31",
+        "localite_a": "CHAMPEAU EN MORVAN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21139",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Champeau-en-Morvan",
+        "Communes_I": "21139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789966.0999321416,
+          6685055.304503386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210323M",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-08-24",
+        "date_ferme": "2001-08-31",
+        "localite_a": "BRAZEY EN MORVAN",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21102",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Brazey-en-Morvan",
+        "Communes_I": "21102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797673.6999263657,
+          6675542.204508253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210625R",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-14",
+        "date_ferme": "1992-08-31",
+        "localite_a": "ST MARTIN DE LA MER",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21560",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Martin-de-la-Mer",
+        "Communes_I": "21560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793356.1999296024,
+          6682498.704504167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710709K",
+        "appellatio": "Ecole primaire de l'Orme",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "ECOLE DE L ORME",
+        "secteur_pu": "Public",
+        "date_ouver": "1949-10-01",
+        "date_ferme": "1992-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799486.8999251808,
+          6651816.9045151565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711355M",
+        "appellatio": "Ecole maternelle Chancelier Rolin",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "CHANCELIER ROLIN",
+        "secteur_pu": "Public",
+        "date_ouver": "1975-09-01",
+        "date_ferme": "2010-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798766.8999257293,
+          6650903.704515413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711675K",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1989-09-01",
+        "date_ferme": "1997-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "CENTRE_PARCELLE_PROJETE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798916.6999256235,
+          6650032.304515653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711737C",
+        "appellatio": "Section d'enseignement technologique du Vallon",
+        "denominati": "SECTION ENSEIGNT TECHNOLOGIQUE",
+        "patronyme_": "DU VALLON",
+        "secteur_pu": "Public",
+        "date_ouver": "1993-05-01",
+        "date_ferme": "1998-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 336,
+        "nature_u_1": "SECTION ENSEIGNT TECHNO (1ER CYCLE)",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799486.8999251808,
+          6651816.9045151565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580111F",
+        "appellatio": "Ecole primaire Groupe B",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "GROUPE B",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1980-08-31",
+        "localite_a": "CHATEAU CHINON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58062",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Château-Chinon (Ville)",
+        "Communes_I": "58062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770864.9999466419,
+          6662965.90451218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580248E",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "1981-08-31",
+        "localite_a": "GIEN SUR CURE",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58125",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Gien-sur-Cure",
+        "Communes_I": "58125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783279.3999372427,
+          6671272.704509647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580294E",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "1987-08-31",
+        "localite_a": "ST MARTIN DU PUY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58255",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Martin-du-Puy",
+        "Communes_I": "58255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765654.1999504392,
+          6693132.304500936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580627S",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1973-06-05",
+        "date_ferme": "1997-08-31",
+        "localite_a": "CHATILLON EN BAZOIS",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58065",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Châtillon-en-Bazois",
+        "Communes_I": "58065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          749777.6999625245,
+          6661518.704512699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580738M",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1984-03-01",
+        "date_ferme": "2006-08-31",
+        "localite_a": "ALLIGNY EN MORVAN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58003",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Alligny-en-Morvan",
+        "Communes_I": "58003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789096.2999328425,
+          6678241.104505511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580959C",
+        "appellatio": "A COMPLETER",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "2004-09-01",
+        "date_ferme": "2011-09-01",
+        "localite_a": "PLANCHEZ",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58210",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Planchez",
+        "Communes_I": "58210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777216.1999418121,
+          6671121.504509731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890175G",
+        "appellatio": "Ecole élémentaire",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-05",
+        "date_ferme": "2017-09-01",
+        "localite_a": "ST BRANCHER",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89336",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Brancher",
+        "Communes_I": "89336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775231.7999431557,
+          6703257.804497528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890821J",
+        "appellatio": "Section d'enseignement professionnel",
+        "denominati": "SECTION ENSEIGNT PROFESSIONNEL",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1990-09-01",
+        "date_ferme": "2009-08-31",
+        "localite_a": "AVALLON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 334,
+        "nature_u_1": "SECTION D ENSEIGNEMENT PROFESSIONNEL",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768963.6999478582,
+          6710145.704495205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890891K",
+        "appellatio": "Ecole élémentaire",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1970-10-01",
+        "date_ferme": "2013-08-31",
+        "localite_a": "ST GERMAIN DES CHAMPS",
+        "appariemen": "DIFF_NOM",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89347",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Germain-des-Champs",
+        "Communes_I": "89347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769265.0999476721,
+          6701574.904498127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0891274B",
+        "appellatio": "A COMPLETER",
+        "denominati": "SECTION ENSEIGT PROFES.PRIVEE",
+        "patronyme_": "JEANNE D'ARC",
+        "secteur_pu": "Privé",
+        "date_ouver": "2003-03-31",
+        "date_ferme": "2012-10-01",
+        "localite_a": "AVALLON",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 334,
+        "nature_u_1": "SECTION D ENSEIGNEMENT PROFESSIONNEL",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768309.7999483534,
+          6710021.504495249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210045K",
+        "appellatio": "Lycée général",
+        "denominati": "LYCEE GENERAL",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-05-01",
+        "date_ferme": "1984-06-29",
+        "localite_a": "SAULIEU",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 302,
+        "nature_u_1": "LYCEE D ENSEIGNEMENT GENERAL",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21584",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saulieu",
+        "Communes_I": "21584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793129.8999297421,
+          6687034.204502739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210282T",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-08-25",
+        "date_ferme": "2004-08-31",
+        "localite_a": "CHAMPEAU EN MORVAN",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21139",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Champeau-en-Morvan",
+        "Communes_I": "21139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786500.3999347439,
+          6686864.704502838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210472Z",
+        "appellatio": "A COMPLETER",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": "R.P.I.",
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-16",
+        "date_ferme": "2016-08-31",
+        "localite_a": "VILLARGOIX",
+        "appariemen": "MANUEL",
+        "localisati": "BATIMENT",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21687",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Villargoix",
+        "Communes_I": "21687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798039.1999260277,
+          6688611.504502202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210484M",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-16",
+        "date_ferme": "2004-08-31",
+        "localite_a": "VIC SOUS THIL",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21678",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Vic-sous-Thil",
+        "Communes_I": "21678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798821.4999253746,
+          6697448.904499321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210639F",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-14",
+        "date_ferme": "1978-08-31",
+        "localite_a": "ST GERMAIN DE MODEON",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21548",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Germain-de-Modéon",
+        "Communes_I": "21548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785870.5999351594,
+          6696442.3044997435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210642J",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-14",
+        "date_ferme": "1987-09-07",
+        "localite_a": "ST DIDIER",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21546",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Didier",
+        "Communes_I": "21546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789286.8999326035,
+          6692804.604500909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210763R",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-09",
+        "date_ferme": "1999-08-31",
+        "localite_a": "LA MOTTE TERNANT",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21445",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "La Motte-Ternant",
+        "Communes_I": "21445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800641.0999240373,
+          6692396.204500967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210801G",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-09",
+        "date_ferme": "1982-08-31",
+        "localite_a": "MOLPHEY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21422",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Molphey",
+        "Communes_I": "21422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791658.5999308014,
+          6694627.804500305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0211043V",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-17",
+        "date_ferme": "1978-08-31",
+        "localite_a": "LA ROCHE EN BRENIL",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21525",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "La Roche-en-Brenil",
+        "Communes_I": "21525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789270.9999325561,
+          6702164.704497815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580151Z",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2008-08-31",
+        "localite_a": "MONTIGNY EN MORVAN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58177",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Montigny-en-Morvan",
+        "Communes_I": "58177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764656.899951272,
+          6671914.104509559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580185L",
+        "appellatio": "Ecole élémentaire publique",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "2016-08-31",
+        "localite_a": "ST PEREUSE",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58262",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Péreuse",
+        "Communes_I": "58262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761043.399954034,
+          6663545.90451206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580199B",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "2016-08-31",
+        "localite_a": "VILLAPOURCON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58309",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Villapourçon",
+        "Communes_I": "58309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773098.0999450322,
+          6650446.904515716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580222B",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "1989-08-31",
+        "localite_a": "CHAUMARD",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58068",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Chaumard",
+        "Communes_I": "58068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769206.4999478424,
+          6672114.904509475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580360B",
+        "appellatio": "Ecole maternelle de la Gare",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "2 AVE DE LA GARE",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-28",
+        "date_ferme": "2004-08-31",
+        "localite_a": "MOULINS ENGILBERT",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58182",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Moulins-Engilbert",
+        "Communes_I": "58182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761277.6999539008,
+          6654437.504514668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580626R",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1973-06-05",
+        "date_ferme": "1997-08-31",
+        "localite_a": "CHATILLON EN BAZOIS",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58065",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Châtillon-en-Bazois",
+        "Communes_I": "58065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          749983.9999623679,
+          6661827.004512606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580977X",
+        "appellatio": "A COMPLETER",
+        "denominati": "ECOLE 2D DEGRE PROF.PRIVEE",
+        "patronyme_": null,
+        "secteur_pu": "Privé",
+        "date_ouver": "2006-09-01",
+        "date_ferme": "2012-09-12",
+        "localite_a": "ST HONORE LES BAINS",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 320,
+        "nature_u_1": "LYCEE PROFESSIONNEL",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58246",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Honoré-les-Bains",
+        "Communes_I": "58246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763157.7999525313,
+          6645516.504517113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710680D",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-01",
+        "date_ferme": "2009-08-31",
+        "localite_a": "ST EUGENE",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71411",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Eugène",
+        "Communes_I": "71411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791194.1999315994,
+          6627111.404521688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710711M",
+        "appellatio": "Ecole primaire 1",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "GPE SCOLAIRE 1",
+        "secteur_pu": "Public",
+        "date_ouver": "1971-09-01",
+        "date_ferme": "2002-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799486.8999251808,
+          6651816.9045151565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710724B",
+        "appellatio": "Ecole primaire Bernard Renault",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "BERNARD RENAULT",
+        "secteur_pu": "Public",
+        "date_ouver": "1901-09-01",
+        "date_ferme": "2003-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798726.799925757,
+          6651229.504515325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711238K",
+        "appellatio": "Ecole maternelle G1",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "GPE SCOLAIRE 1",
+        "secteur_pu": "Public",
+        "date_ouver": "1971-09-01",
+        "date_ferme": "2000-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799486.8999251808,
+          6651816.9045151565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711304G",
+        "appellatio": "Ecole maternelle Le parc",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "LE PARC",
+        "secteur_pu": "Public",
+        "date_ouver": "1973-09-01",
+        "date_ferme": "2014-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798388.5999260164,
+          6650551.004515516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711674J",
+        "appellatio": "Ecole primaire B",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1989-09-01",
+        "date_ferme": "1997-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "CENTRE_PARCELLE_PROJETE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798916.6999256235,
+          6650032.304515653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711846W",
+        "appellatio": "A COMPLETER",
+        "denominati": "SECTION ENSEIGT PROFES.PRIVEE",
+        "patronyme_": "SAINT LAZARE",
+        "secteur_pu": "Privé",
+        "date_ouver": "2003-03-31",
+        "date_ferme": "2012-10-01",
+        "localite_a": "AUTUN CEDEX",
+        "appariemen": "Correcte",
+        "localisati": "Numéro de rue",
+        "nature_uai": 334,
+        "nature_u_1": "SECTION D ENSEIGNEMENT PROFESSIONNEL",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798511.1999259231,
+          6650694.804515473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890108J",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-04",
+        "date_ferme": "2004-08-31",
+        "localite_a": "ISLAND",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89203",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Island",
+        "Communes_I": "89203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763786.7999517809,
+          6708185.704495903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890525M",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-06",
+        "date_ferme": "2004-08-31",
+        "localite_a": "FOISSY LES VEZELAY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "INTERPOLATION",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89170",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Foissy-lès-Vézelay",
+        "Communes_I": "89170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          757592.1999564794,
+          6704196.004497294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890952B",
+        "appellatio": "Ecole maternelle Victor Hugo",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "VICTOR HUGO",
+        "secteur_pu": "Public",
+        "date_ouver": "1973-06-14",
+        "date_ferme": "2003-08-31",
+        "localite_a": "AVALLON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767550.7999489246,
+          6710584.204495058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710103B",
+        "appellatio": "Collège privé Saint Sacrement Saint Lazare",
+        "denominati": "COLLEGE PRIVE",
+        "patronyme_": "ST SACREMENT ST LAZARE",
+        "secteur_pu": "Privé",
+        "date_ouver": "1907-09-01",
+        "date_ferme": "1995-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "INTERPOLATION",
+        "nature_uai": 340,
+        "nature_u_1": "COLLEGE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798525.5999259122,
+          6650706.204515472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711093C",
+        "appellatio": "Ecole primaire privée Maîtrise de la cathédrale",
+        "denominati": "ECOLE PRIMAIRE PRIVEE",
+        "patronyme_": "MAITRISE DE LA CATHEDRALE",
+        "secteur_pu": "Privé",
+        "date_ouver": "1971-09-01",
+        "date_ferme": "1992-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798844.4999256764,
+          6650240.904515596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711457Y",
+        "appellatio": "Ecole maternelle Bernard Renault",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "BERNARD RENAULT",
+        "secteur_pu": "Public",
+        "date_ouver": "1977-09-01",
+        "date_ferme": "2003-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798726.799925757,
+          6651229.504515325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711852C",
+        "appellatio": "Ecole maternelle publique",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "2003-09-01",
+        "date_ferme": "2006-08-31",
+        "localite_a": "LUCENAY L EVEQUE",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71266",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Lucenay-l'Evêque",
+        "Communes_I": "71266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794501.3999288307,
+          6665251.004511363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210339E",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-08-18",
+        "date_ferme": "1978-08-31",
+        "localite_a": "BLANOT",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21083",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Blanot",
+        "Communes_I": "21083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793478.3999295305,
+          6675199.004508388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890115S",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-04",
+        "date_ferme": "1987-08-31",
+        "localite_a": "PONTAUBERT",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89306",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Pontaubert",
+        "Communes_I": "89306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764830.6999509822,
+          6710308.604495166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210640G",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-14",
+        "date_ferme": "1992-08-31",
+        "localite_a": "ST GERMAIN DE MODEON",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21548",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Germain-de-Modéon",
+        "Communes_I": "21548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785394.4999355075,
+          6698297.60449913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890522J",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-06",
+        "date_ferme": "1986-08-31",
+        "localite_a": "DOMECY SUR CURE",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89145",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Domecy-sur-Cure",
+        "Communes_I": "89145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          760286.4999544561,
+          6701199.904498295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0212216V",
+        "appellatio": "ECOLE ELEMENTAIRE PRIVEE       MONTESSORI DU MORVAN",
+        "denominati": "ECOLE ELEMENTAIRE PRIVEE",
+        "patronyme_": "MONTESSORI DU MORVAN",
+        "secteur_pu": "Privé",
+        "date_ouver": "2013-09-01",
+        "date_ferme": "2020-08-31",
+        "localite_a": "BARD LE REGULIER",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21046",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Bard-le-Régulier",
+        "Communes_I": "21046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798241.0999259611,
+          6672424.704509193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580011X",
+        "appellatio": "Annexe du lycée professionnel de Varzy",
+        "denominati": "LYCEE PROFESSIONNEL",
+        "patronyme_": "ANNEXE DU LEP DE VARZY",
+        "secteur_pu": "Public",
+        "date_ouver": "1965-05-01",
+        "date_ferme": "1987-08-31",
+        "localite_a": "CORBIGNY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 320,
+        "nature_u_1": "LYCEE PROFESSIONNEL",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58083",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Corbigny",
+        "Communes_I": "58083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          751439.0999612027,
+          6684201.104503854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580093L",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-20",
+        "date_ferme": "2007-08-31",
+        "localite_a": "ARLEUF",
+        "appariemen": "DIFF_NOM",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58010",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Arleuf",
+        "Communes_I": "58010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776157.2999426634,
+          6661976.70451244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580117M",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2002-08-31",
+        "localite_a": "CORANCY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58082",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Corancy",
+        "Communes_I": "58082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773130.5999449185,
+          6666115.304511243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580124V",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1989-08-31",
+        "localite_a": "FACHIN",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58111",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Fâchin",
+        "Communes_I": "58111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773537.9999446656,
+          6656613.004513991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580164N",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1989-08-31",
+        "localite_a": "SEMELAY",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58276",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Sémelay",
+        "Communes_I": "58276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764859.6999512842,
+          6639419.104518726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580165P",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2008-08-31",
+        "localite_a": "SERMAGES",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58277",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Sermages",
+        "Communes_I": "58277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764353.4999515675,
+          6658338.404513547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580200C",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "1978-08-31",
+        "localite_a": "VILLAPOURCON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58309",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Villapourçon",
+        "Communes_I": "58309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771010.8999466033,
+          6650154.9045158075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580201D",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "1980-08-31",
+        "localite_a": "VILLAPOURCON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58309",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Villapourçon",
+        "Communes_I": "58309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775775.09994303,
+          6648692.80451618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580209M",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "1989-08-31",
+        "localite_a": "BAZOCHES",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58023",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Bazoches",
+        "Communes_I": "58023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759351.5999551772,
+          6697692.404499469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580221A",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-22",
+        "date_ferme": "1985-08-31",
+        "localite_a": "CHALAUX",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58049",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Chalaux",
+        "Communes_I": "58049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768990.4999479176,
+          6693779.804500708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580266Z",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "1987-08-31",
+        "localite_a": "MONTSAUCHE LES SETTONS",
+        "appariemen": "DIFF_NOM",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58180",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Montsauche-les-Settons",
+        "Communes_I": "58180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780864.8999390488,
+          6677847.204505687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580361C",
+        "appellatio": "Ecole maternelle Marguerite Bramard",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "MARGUERITE BRAMARD",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-28",
+        "date_ferme": "2001-08-31",
+        "localite_a": "LUZY",
+        "appariemen": "DIFF_NOM",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58149",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Luzy",
+        "Communes_I": "58149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773884.2999445469,
+          6632757.704520392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580366H",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-28",
+        "date_ferme": "2014-08-31",
+        "localite_a": "CORBIGNY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58083",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Corbigny",
+        "Communes_I": "58083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          751646.6999610451,
+          6684450.904503778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580943K",
+        "appellatio": "Section d'enseignement général et technologique François Mitterrand",
+        "denominati": "SECTION ENSEIGNT GEN.ET TECHNO",
+        "patronyme_": "FRANCOIS MITTERRAND",
+        "secteur_pu": "Public",
+        "date_ouver": "2001-09-01",
+        "date_ferme": "2009-08-31",
+        "localite_a": "CHATEAU CHINON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 335,
+        "nature_u_1": "SECTION ENSEIGT GENERAL ET TECHNOLOGIQUE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58062",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Château-Chinon (Ville)",
+        "Communes_I": "58062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771211.0999463832,
+          6662638.804512274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710133J",
+        "appellatio": "Lycée professionnel privé Anne-Marie Javouhey",
+        "denominati": "LYCEE PROFESSIONNEL PRIVE",
+        "patronyme_": "A M JAVOUHEY",
+        "secteur_pu": "Privé",
+        "date_ouver": "1960-09-15",
+        "date_ferme": "1993-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 320,
+        "nature_u_1": "LYCEE PROFESSIONNEL",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799011.9999255377,
+          6651854.404515149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710663K",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-01",
+        "date_ferme": "2016-08-31",
+        "localite_a": "ROUSSILLON EN MORVAN",
+        "appariemen": "MANUEL",
+        "localisati": "BATIMENT",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71376",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Roussillon-en-Morvan",
+        "Communes_I": "71376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785209.2999358685,
+          6659056.004513225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710672V",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-01",
+        "date_ferme": "1993-08-31",
+        "localite_a": "BARNAY",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71020",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Barnay",
+        "Communes_I": "71020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          801536.6999235261,
+          6666154.404511041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710694U",
+        "appellatio": "Ecole primaire 1",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "NUMERO 1",
+        "secteur_pu": "Public",
+        "date_ouver": "1970-09-01",
+        "date_ferme": "1980-08-31",
+        "localite_a": "ST LEGER SOUS BEUVRAY",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71440",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Léger-sous-Beuvray",
+        "Communes_I": "71440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783791.4999370109,
+          6647608.8045164235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710723A",
+        "appellatio": "Ecole primaire C",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-27",
+        "date_ferme": "1989-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "CENTRE_PARCELLE_PROJETE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798916.6999256235,
+          6650032.304515653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711336S",
+        "appellatio": "Ecole maternelle G2",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "GPE SCOLAIRE 2",
+        "secteur_pu": "Public",
+        "date_ouver": "1974-09-01",
+        "date_ferme": "2000-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_NOM",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799507.1999251652,
+          6651856.204515148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711387X",
+        "appellatio": "Ecole primaire 2",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "GROUPE SCOLAIRE 2",
+        "secteur_pu": "Public",
+        "date_ouver": "1976-09-01",
+        "date_ferme": "2002-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_NOM",
+        "localisati": "DEFAUT_DE_TRONCON",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799620.199925079,
+          6652012.704515103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210593F",
+        "appellatio": "A COMPLETER",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": "MONGE",
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-14",
+        "date_ferme": "2016-08-31",
+        "localite_a": "SAULIEU",
+        "appariemen": "MANUEL",
+        "localisati": "BATIMENT",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21584",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saulieu",
+        "Communes_I": "21584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792996.1999298403,
+          6687417.704502619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210694R",
+        "appellatio": "Ecole primaire mixte 2",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "MIXTE 2",
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-13",
+        "date_ferme": "1994-08-31",
+        "localite_a": "PRECY SOUS THIL",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21505",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Précy-sous-Thil",
+        "Communes_I": "21505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799002.2999252251,
+          6699320.0044987025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210776E",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": "R.P.I.",
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-09",
+        "date_ferme": "2008-08-31",
+        "localite_a": "MONTLAY EN AUXOIS",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21434",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Montlay-en-Auxois",
+        "Communes_I": "21434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796665.799927018,
+          6695189.004500085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0212010W",
+        "appellatio": "Section d'enseignement technologique François Pompon",
+        "denominati": "SECTION ENSEIGNT TECHNOLOGIQUE",
+        "patronyme_": "FRANCOIS POMPON",
+        "secteur_pu": "Public",
+        "date_ouver": "1993-05-01",
+        "date_ferme": "2000-08-31",
+        "localite_a": "SAULIEU",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 336,
+        "nature_u_1": "SECTION ENSEIGNT TECHNO (1ER CYCLE)",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21584",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saulieu",
+        "Communes_I": "21584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792952.599929873,
+          6687448.304502612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0212234P",
+        "appellatio": "Ecole secondaire privée Montessori",
+        "denominati": "ECOLE SECONDAIRE PRIVEE",
+        "patronyme_": "MONTESSORI DU MORVAN",
+        "secteur_pu": "Privé",
+        "date_ouver": "2015-09-01",
+        "date_ferme": "2020-08-31",
+        "localite_a": "BARD LE REGULIER",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 340,
+        "nature_u_1": "COLLEGE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21046",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Bard-le-Régulier",
+        "Communes_I": "21046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798249.6999259547,
+          6672411.6045092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890169A",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-05",
+        "date_ferme": "1986-08-31",
+        "localite_a": "CHASTELLUX SUR CURE",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89089",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Chastellux-sur-Cure",
+        "Communes_I": "89089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767137.2999492896,
+          6699407.3044988625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890181N",
+        "appellatio": "Ecole élémentaire",
+        "denominati": "ECOLE ÉLÉMENTAIRE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-05",
+        "date_ferme": "2017-09-01",
+        "localite_a": "ST LEGER VAUBAN",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89349",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Léger-Vauban",
+        "Communes_I": "89349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778578.2999406506,
+          6699072.204498914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890862D",
+        "appellatio": "Ecole primaire Jean de La Fontaine",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "JEAN DE LA FONTAINE",
+        "secteur_pu": "Public",
+        "date_ouver": "1970-05-26",
+        "date_ferme": "2001-08-31",
+        "localite_a": "AVALLON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767598.699948889,
+          6710449.504495104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0891153V",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1986-09-01",
+        "date_ferme": "2016-08-31",
+        "localite_a": "QUARRE LES TOMBES",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89318",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Quarré-les-Tombes",
+        "Communes_I": "89318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775459.6999430179,
+          6696797.704499686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580135G",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1992-07-21",
+        "localite_a": "LAROCHEMILLAY",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58140",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Larochemillay",
+        "Communes_I": "58140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776319.7999426593,
+          6642373.404517882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580156E",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2012-08-31",
+        "localite_a": "ONLAY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58199",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Onlay",
+        "Communes_I": "58199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768114.8999487708,
+          6652017.104515307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580158G",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1999-08-31",
+        "localite_a": "PREPORCHE",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58219",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Préporché",
+        "Communes_I": "58219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764776.9999513057,
+          6647218.7045166455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580180F",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2010-08-31",
+        "localite_a": "ST LEGER DE FOUGERET",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58249",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Léger-de-Fougeret",
+        "Communes_I": "58249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768204.899948669,
+          6658356.704513523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580249F",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "2004-08-31",
+        "localite_a": "GOULOUX",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58129",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Gouloux",
+        "Communes_I": "58129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781497.5999385426,
+          6682686.404504185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580258R",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "LE CRESCENT",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "2010-08-31",
+        "localite_a": "MARIGNY L EGLISE",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58157",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Marigny-l'Eglise",
+        "Communes_I": "58157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770706.0999466141,
+          6695447.0045001535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580280P",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "2004-08-31",
+        "localite_a": "PLANCHEZ",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58210",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Planchez",
+        "Communes_I": "58210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777216.1999418121,
+          6671121.504509731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580110E",
+        "appellatio": "Ecole primaire Groupe A",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "GROUPE A",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1980-08-31",
+        "localite_a": "CHATEAU CHINON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58062",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Château-Chinon (Ville)",
+        "Communes_I": "58062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770864.9999466419,
+          6662965.90451218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580116L",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2011-09-01",
+        "localite_a": "CORANCY",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58082",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Corancy",
+        "Communes_I": "58082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771903.5999458365,
+          6667236.804510922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580126X",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "2014-08-31",
+        "localite_a": "FLETY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58114",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Fléty",
+        "Communes_I": "58114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768977.5999482289,
+          6632785.904520417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580129A",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1983-08-31",
+        "localite_a": "GLUX EN GLENNE",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58128",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Glux-en-Glenne",
+        "Communes_I": "58128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778241.3999411598,
+          6651317.6045154445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580142P",
+        "appellatio": "Ecole primaire Groupe B",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "GPE B",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-21",
+        "date_ferme": "1992-07-21",
+        "localite_a": "LUZY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58149",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Luzy",
+        "Communes_I": "58149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774014.3999444493,
+          6632730.6045204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580262V",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "1992-07-21",
+        "localite_a": "MHERE",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58166",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Mhère",
+        "Communes_I": "58166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764789.999951159,
+          6678902.304505448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580291B",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-23",
+        "date_ferme": "1990-09-12",
+        "localite_a": "ST AGNAN",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58226",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Agnan",
+        "Communes_I": "58226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782710.1999375753,
+          6691443.50450139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580625P",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1973-06-05",
+        "date_ferme": "2005-08-31",
+        "localite_a": "CHATILLON EN BAZOIS",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58065",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Châtillon-en-Bazois",
+        "Communes_I": "58065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          749983.9999623679,
+          6661827.004512606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0580773A",
+        "appellatio": "Section d'enseignement technologique Antony Duvivier",
+        "denominati": "SECTION ENSEIGNT TECHNOLOGIQUE",
+        "patronyme_": "ANTONY DUVIVIER",
+        "secteur_pu": "Public",
+        "date_ouver": "1993-05-01",
+        "date_ferme": "2000-08-31",
+        "localite_a": "LUZY",
+        "appariemen": "DIFF_NOM",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 336,
+        "nature_u_1": "SECTION ENSEIGNT TECHNO (1ER CYCLE)",
+        "code_depar": "058",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "58149",
+        "libelle_de": "Nièvre",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Luzy",
+        "Communes_I": "58149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774050.8999444214,
+          6632831.0045203725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710002S",
+        "appellatio": "Section d'enseignement professionnel Bonaparte",
+        "denominati": "SECTION ENSEIGNT PROFESSIONNEL",
+        "patronyme_": "BONAPARTE",
+        "secteur_pu": "Public",
+        "date_ouver": "1985-09-01",
+        "date_ferme": "2009-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 334,
+        "nature_u_1": "SECTION D ENSEIGNEMENT PROFESSIONNEL",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798770.1999257276,
+          6650813.304515439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710693T",
+        "appellatio": "Ecole primaire 2",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "NUMERO 2",
+        "secteur_pu": "Public",
+        "date_ouver": "1970-09-01",
+        "date_ferme": "1980-08-31",
+        "localite_a": "ST LEGER SOUS BEUVRAY",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71440",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Léger-sous-Beuvray",
+        "Communes_I": "71440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783791.4999370109,
+          6647608.8045164235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710695V",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1909-09-01",
+        "date_ferme": "2016-08-31",
+        "localite_a": "ST DIDIER SUR ARROUX",
+        "appariemen": "MANUEL",
+        "localisati": "BATIMENT",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71407",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Didier-sur-Arroux",
+        "Communes_I": "71407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785095.2999360999,
+          6637602.504519079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710700A",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1967-09-01",
+        "date_ferme": "2014-08-31",
+        "localite_a": "LA COMELLE",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71142",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "La Comelle",
+        "Communes_I": "71142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784709.4999363549,
+          6642608.404517763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710720X",
+        "appellatio": "Ecole primaire Fragny",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "FRAGNY",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-01",
+        "date_ferme": "1998-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799558.499925143,
+          6649783.204515716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710727E",
+        "appellatio": "Ecole primaire Chancelier Rolin",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": "CHANCELIER ROLIN",
+        "secteur_pu": "Public",
+        "date_ouver": "1958-10-01",
+        "date_ferme": "2016-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "MANUEL",
+        "localisati": "BATIMENT",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799019.8999255322,
+          6651786.20451517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0710728F",
+        "appellatio": "Ecole primaire A",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-09-27",
+        "date_ferme": "1989-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798951.4999255947,
+          6650365.604515562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711094D",
+        "appellatio": "Ecole primaire privée Anne Marie Javouhey",
+        "denominati": "ECOLE PRIMAIRE PRIVEE",
+        "patronyme_": "ANNE MARIE JAVOUHEY",
+        "secteur_pu": "Privé",
+        "date_ouver": "1960-09-01",
+        "date_ferme": "1997-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798556.9999258884,
+          6650748.704515459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711388Y",
+        "appellatio": "Ecole maternelle Clos Jovet",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "CLOS JOVET",
+        "secteur_pu": "Public",
+        "date_ouver": "1976-09-01",
+        "date_ferme": "2003-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799028.3999255294,
+          6651318.204515303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711492L",
+        "appellatio": "Ecole maternelle Antoine Clément",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": "ANTOINE CLEMENT",
+        "secteur_pu": "Public",
+        "date_ouver": "1978-09-01",
+        "date_ferme": "1999-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799486.8999251808,
+          6651816.9045151565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711542R",
+        "appellatio": "Ecole maternelle",
+        "denominati": "ECOLE MATERNELLE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1980-09-01",
+        "date_ferme": "2021-08-31",
+        "localite_a": "MESVRES",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 101,
+        "nature_u_1": "ECOLE MATERNELLE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71297",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Mesvres",
+        "Communes_I": "71297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794670.9999288815,
+          6641339.604518028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890074X",
+        "appellatio": "Ecole technique privée",
+        "denominati": "ECOLE TECHNIQUE PRIVEE",
+        "patronyme_": null,
+        "secteur_pu": "Privé",
+        "date_ouver": "1959-09-15",
+        "date_ferme": "1979-08-31",
+        "localite_a": "AVALLON",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 320,
+        "nature_u_1": "LYCEE PROFESSIONNEL",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768389.3999482916,
+          6710354.3044951325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890100A",
+        "appellatio": "Ecole primaire Conde",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "CONDE",
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-03",
+        "date_ferme": "1986-08-31",
+        "localite_a": "AVALLON",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768389.3999482916,
+          6710354.3044951325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0890526N",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1966-10-06",
+        "date_ferme": "1980-08-31",
+        "localite_a": "FONTENAY PRES VEZELAY",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89176",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Fontenay-près-Vézelay",
+        "Communes_I": "89176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          755683.5999579302,
+          6702016.2044980405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0891233G",
+        "appellatio": "Section d'enseignement technologique Parc des Chaumes",
+        "denominati": "SECTION ENSEIGNT TECHNOLOGIQUE",
+        "patronyme_": "PARC DES CHAUMES",
+        "secteur_pu": "Public",
+        "date_ouver": "1993-05-01",
+        "date_ferme": "2000-08-31",
+        "localite_a": "AVALLON",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 336,
+        "nature_u_1": "SECTION ENSEIGNT TECHNO (1ER CYCLE)",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89025",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Avallon",
+        "Communes_I": "89025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769281.5999476176,
+          6710224.004495175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0891322D",
+        "appellatio": "Ecole alternative de Saint-Brancher",
+        "denominati": "ECOLE ELEMENTAIRE PRIVEE",
+        "patronyme_": null,
+        "secteur_pu": "Privé",
+        "date_ouver": "2020-09-01",
+        "date_ferme": "2020-09-07",
+        "localite_a": "ST BRANCHER",
+        "appariemen": "Parfaite",
+        "localisati": "Numéro de rue",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "089",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "89336",
+        "libelle_de": "Yonne",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Saint-Brancher",
+        "Communes_I": "89336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775256.0999431374,
+          6703263.304497525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0711095E",
+        "appellatio": "Ecole primaire privée Sainte Marie",
+        "denominati": "ECOLE PRIMAIRE PRIVEE",
+        "patronyme_": "SAINTE MARIE",
+        "secteur_pu": "Privé",
+        "date_ouver": "1960-09-01",
+        "date_ferme": "2013-08-31",
+        "localite_a": "AUTUN",
+        "appariemen": "SIMILAIRE",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "071",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "71014",
+        "libelle_de": "Saône-et-Loire",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Autun",
+        "Communes_I": "71014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799169.8999254275,
+          6650753.904515454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210189S",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE ELEMENTAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-02",
+        "date_ferme": "2014-08-31",
+        "localite_a": "DOMPIERRE EN MORVAN",
+        "appariemen": "COMMUNE",
+        "localisati": "COMMUNE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21232",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Dompierre-en-Morvan",
+        "Communes_I": "21232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793050.9999297145,
+          6700067.104498492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210389J",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-08-17",
+        "date_ferme": "1980-08-31",
+        "localite_a": "BARD LE REGULIER",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21046",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Bard-le-Régulier",
+        "Communes_I": "21046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799676.2999248798,
+          6672392.504509197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210577N",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-15",
+        "date_ferme": "1979-08-31",
+        "localite_a": "SAVILLY",
+        "appariemen": "SIMILAIRE",
+        "localisati": "ZONE_ADRESSAGE",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21593",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Savilly",
+        "Communes_I": "21593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796772.7999270831,
+          6670309.8045098465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210668M",
+        "appellatio": "Ecole primaire",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": null,
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-13",
+        "date_ferme": "1978-08-31",
+        "localite_a": "LA ROCHE EN BRENIL",
+        "appariemen": "DIFF_TYPE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21525",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "La Roche-en-Brenil",
+        "Communes_I": "21525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786986.6999342914,
+          6700513.804498383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0210695S",
+        "appellatio": "Ecole primaire mixte 1",
+        "denominati": "ECOLE PRIMAIRE PUBLIQUE",
+        "patronyme_": "MIXTE 1",
+        "secteur_pu": "Public",
+        "date_ouver": "1965-09-13",
+        "date_ferme": "1994-08-31",
+        "localite_a": "PRECY SOUS THIL",
+        "appariemen": "SIMILAIRE",
+        "localisati": "DEFAUT_DE_NUMERO",
+        "nature_uai": 151,
+        "nature_u_1": "ECOLE DE NIVEAU ELEMENTAIRE",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21505",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Précy-sous-Thil",
+        "Communes_I": "21505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798798.8999253791,
+          6699242.70449873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero_uai": "0212003N",
+        "appellatio": "Section d'enseignement technologique Claude Guyot",
+        "denominati": "SECTION ENSEIGNT TECHNOLOGIQUE",
+        "patronyme_": "CLAUDE GUYOT",
+        "secteur_pu": "Public",
+        "date_ouver": "1993-05-01",
+        "date_ferme": "2000-08-31",
+        "localite_a": "ARNAY LE DUC",
+        "appariemen": "DIFF_NOM",
+        "localisati": "PLAQUE_ADRESSE",
+        "nature_uai": 336,
+        "nature_u_1": "SECTION ENSEIGNT TECHNO (1ER CYCLE)",
+        "code_depar": "021",
+        "code_regio": 27,
+        "code_acade": "07",
+        "code_commu": "21023",
+        "libelle_de": "Côte-d'Or",
+        "libelle_re": "Bourgogne-Franche-Comté",
+        "libelle_ac": "Dijon",
+        "libelle_co": "Arnay-le-Duc",
+        "Communes_I": "21023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          812715.9999150658,
+          6671072.404509492
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a7dadd481d5a7d8b81",
+    "dataset_name": "Établissements scolaires fermés du PNR du Morvan",
+    "resource_id": "34bd1d84-6ee8-415b-8e72-567bae32a258",
+    "dataset_url": "https://www.data.gouv.fr/datasets/etablissements-scolaires-et-nombre-denfants-scolarises-dans-le-parc-naturel-regional-du-morvan",
+    "layer": "demographie/etablissements-scolaires-fermes",
+    "fetched_at": "2026-03-12T21:07:29.347213+00:00"
+  }
+}

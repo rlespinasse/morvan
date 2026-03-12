@@ -1,0 +1,2351 @@
+{
+  "type": "FeatureCollection",
+  "name": "Marque_Parc_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 37,
+        "INSEE_COM": 21007,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Meubles Mathé Pierre",
+        "NOM_": "MATHE Pierre",
+        "ADRESSE": "Lieu dit La Place",
+        "CP": 58230,
+        "COMMUNE": "Alligny en Morvan",
+        "TYP_PDT": "Artisanat",
+        "SS_TYP_PDT": "Mobilier traditionnel",
+        "PDT": null,
+        "PDT_TOUR": null,
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "06 38 86 02 90",
+        "EMAIL": "Non renseigné",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 788789.421888165,
+        "COORD_Y": 6679899.408618388,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/ybffycN58dHAwHT/preview",
+        "PROD_COMB": "Mobiliers traditionnels",
+        "ICONES": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788789.421888165,
+          6679899.408618389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 2,
+        "INSEE_COM": 58111,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Le Moulin des Morvans",
+        "NOM_": "BLANCHET Alain & Marie-Christine ARTIER",
+        "ADRESSE": "Les Champs du Moulin",
+        "CP": 58430,
+        "COMMUNE": "Fâchin",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Chambre d’hôte",
+        "PDT": "3 chbres, 1 gîte",
+        "PDT_TOUR": "Chambres d’hôtes, gîte",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://www.cybevasion.fr/go_annonce.php?id_annonce=39819&from_source=chambres-hotes.fr",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/moulin-des-morvans",
+        "TELEPHONE": "03 86 85 00 46",
+        "EMAIL": "moulindesmorvands@orange.fr",
+        "URL_FB": "https://www.facebook.com/moulindesmorvans",
+        "COORD_X": 774606.4385693675,
+        "COORD_Y": 6657842.810757207,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/djzioeR542cT3aH/preview",
+        "PROD_COMB": "Chambres d’hôtes, gîte - 3 chbres, 1 gîte",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ch_hote.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774606.4385693675,
+          6657842.810757207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 4,
+        "INSEE_COM": 58180,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Camping les Mésanges",
+        "NOM_": "RACITI Jessica & REVIL BAUDARD Léo",
+        "ADRESSE": "L'Huis-Gaumont Rive Gauche",
+        "CP": 58230,
+        "COMMUNE": "Montsauche-les-Settons",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Camping",
+        "PDT": "76 emplts, chalets 4 à pers, cabanons 2 à 3 pers, tentes 4 pers",
+        "PDT_TOUR": "Camping",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://www.campinglesmesanges.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/camping/camping-les-mesanges",
+        "TELEPHONE": "06 59 09 27 78",
+        "EMAIL": "info@campinglesmesanges.fr",
+        "URL_FB": "https://www.facebook.com/CampingNatureSettons/",
+        "COORD_X": 779729.4368137509,
+        "COORD_Y": 6676239.080946006,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/ceCGtAAjMJnNT5Y/preview",
+        "PROD_COMB": "Camping - 76 emplts, chalets 4 à pers, cabanons 2 à 3 pers, tentes 4 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_camping.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779729.4368137509,
+          6676239.080946006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 6,
+        "INSEE_COM": 58129,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Chalets - Domaine des Grands lacs du Morvan",
+        "NOM_": "SARL Domaine des Grands Lacs",
+        "ADRESSE": "Le Matrat",
+        "CP": 58230,
+        "COMMUNE": "Gouloux",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "12 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "www.chalets-marchand.com",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/chalets-domaine-des-grands-lacs-du-morvan",
+        "TELEPHONE": "03 86 78 73 90",
+        "EMAIL": "saboteriemarchand@wanadoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 783287.019142937,
+        "COORD_Y": 6678875.646256231,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/Anej8qKQqBPZnsY/preview",
+        "PROD_COMB": "Gite rural / meublé - 12 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783287.019142937,
+          6678875.646256231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 7,
+        "INSEE_COM": 58037,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Le Champ de la Fontaine",
+        "NOM_": "PECASSE Christine",
+        "ADRESSE": "Le champ de la Fontaine - La montée",
+        "CP": 58140,
+        "COMMUNE": "Brassy",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "4 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.champdelafontaine.com/fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/le-champ-de-la-fontaine",
+        "TELEPHONE": "03 86 26 62 55",
+        "EMAIL": "info@champdelafontaine.com",
+        "URL_FB": "https://www.facebook.com/Champ-De-La-Fontaine-Brassy-208507526202696/",
+        "COORD_X": 773231.1350776753,
+        "COORD_Y": 6684177.138384784,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/3EwEXrdbqZHDwLj/preview",
+        "PROD_COMB": "Gite rural / meublé - 4 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773231.1350776753,
+          6684177.138384784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 8,
+        "INSEE_COM": 58185,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "La longère des Grands Ducs",
+        "NOM_": "ANNET Dominique",
+        "ADRESSE": "Montsermage",
+        "CP": 58230,
+        "COMMUNE": "Moux-en-Morvan",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte de groupe",
+        "PDT": "15 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://domaine-montsermage.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/longere-des-grands-ducs",
+        "TELEPHONE": "06 48 00 93 79",
+        "EMAIL": "contact@morvan-bourgogne.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 785018.5614441965,
+        "COORD_Y": 6674347.663138442,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/3EaKeoA46nP9yoH/preview",
+        "PROD_COMB": "Gite rural / meublé - 15 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gitegrp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785018.5614441965,
+          6674347.663138442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 9,
+        "INSEE_COM": 58107,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Gîte Corcelles",
+        "NOM_": "MERCIER André",
+        "ADRESSE": "Corcelles",
+        "CP": 58110,
+        "COMMUNE": "Dun-sur-Grandry",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "6 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://www.gites-corcelles.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/gite-corcelles-ndeg445-6-personnes",
+        "TELEPHONE": "03 86 84 42 63",
+        "EMAIL": "corcelles@wanadoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 761383.0090319696,
+        "COORD_Y": 6665711.595910898,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/PnmFpop6Mr9Qa89/preview",
+        "PROD_COMB": "Gite rural / meublé - 6 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761383.0090319696,
+          6665711.595910898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 10,
+        "INSEE_COM": 58003,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "La ferme des prés",
+        "NOM_": "GROSCHE Marie Christine",
+        "ADRESSE": "La ferme des prés",
+        "CP": 58230,
+        "COMMUNE": "Alligny-en-Morvan",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "7 pers et 9 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://ungiteenmorvan.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/la-ferme-des-pres",
+        "TELEPHONE": "03 86 76 15 54",
+        "EMAIL": "contact@ungiteenmorvan.com",
+        "URL_FB": "https://www.facebook.com/lafermedespres/",
+        "COORD_X": 789227.2614391091,
+        "COORD_Y": 6682385.801303158,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/cWrAGfbi6eanTEK/preview",
+        "PROD_COMB": "Gite rural / meublé - 7 pers et 9 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789227.2614391091,
+          6682385.801303158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 16,
+        "INSEE_COM": 58128,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Plume de Mouton et Cie",
+        "NOM_": "RIFFET Cécile & BINET Anthony",
+        "ADRESSE": "Les courreaux",
+        "CP": 58370,
+        "COMMUNE": "Glux-en-Glenne",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Chambre d’hôte",
+        "PDT": "4 pers",
+        "PDT_TOUR": "Chambres d’hôtes, gîte",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.plumesdemouton.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/plumes-de-mouton-et-cie",
+        "TELEPHONE": "03 6 86 68 32 67",
+        "EMAIL": "contact@plumesdemouton.fr",
+        "URL_FB": "https://www.facebook.com/plumesdemouton/",
+        "COORD_X": 778107.8421098419,
+        "COORD_Y": 6653771.263330059,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/mCMtYzEBq996zsc/preview",
+        "PROD_COMB": "Chambres d’hôtes, gîte - 4 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ch_hote.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778107.8421098419,
+          6653771.263330059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 17,
+        "INSEE_COM": 71472,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Gite des Fleurs",
+        "NOM_": "ARCELUS Martine & Olivier",
+        "ADRESSE": "La rivière",
+        "CP": 71990,
+        "COMMUNE": "Saint-Prix",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "23 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://www.gitedesfleurs.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/gites-des-fleurs",
+        "TELEPHONE": "03 85 82 44 55",
+        "EMAIL": "olivier.arcelus@orange.fr",
+        "URL_FB": "https://www.facebook.com/Gite-Des-Fleurs-Morvan-681218718677585/",
+        "COORD_X": 782333.1586359399,
+        "COORD_Y": 6653179.365861568,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/dH2Bdea3agiokND/preview",
+        "PROD_COMB": "Gite rural / meublé - 23 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782333.1586359399,
+          6653179.365861567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 43,
+        "INSEE_COM": 71192,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "L'Ouche Fleurie - 7 personnes",
+        "NOM_": "LEMAITRE Charlotte & Jean-Marie",
+        "ADRESSE": "Velet",
+        "CP": 71190,
+        "COMMUNE": "Étang-sur-Arroux",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "7 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://tourisme.parcdumorvan.org/fr/dormir/gites-et-meubles/le-rural_29_REF-MG-HLOBOU0710001426.html",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/louche-fleurie-7-personnes",
+        "TELEPHONE": "03 85 29 55 60 / 06 37 82 10 37",
+        "EMAIL": "lemaitrejm@sfr.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 787897.2110974421,
+        "COORD_Y": 6638931.20482411,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/8k5WrRxyAiqrDro/preview",
+        "PROD_COMB": "Gite rural / meublé - 7 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787897.211097442,
+          6638931.20482411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 28,
+        "INSEE_COM": 89203,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Gîte de la Faille n°186",
+        "NOM_": "LEROY Philippe/Marie-Madeleine",
+        "ADRESSE": "15 rue des Sires",
+        "CP": 89200,
+        "COMMUNE": "Island",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "6 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.gites-de-france.com/en/bourgogne-franche-comte/yonne/le-gite-de-la-faille-89g186",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/gite-de-la-faille-ndeg186-6-personnes",
+        "TELEPHONE": "03 86 34 17 40",
+        "EMAIL": "philippe.leroy89200@orange.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 764293.8653876944,
+        "COORD_Y": 6708181.032105084,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/ZBjtw92p77XcHRG/preview",
+        "PROD_COMB": "Gite rural / meublé - 6 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764293.8653876944,
+          6708181.032105084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 29,
+        "INSEE_COM": 89058,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Chambres d’hôtes La Ferme des Ruats",
+        "NOM_": "VON NAGEL Anette et Fabien",
+        "ADRESSE": "La Ferme des Ruats",
+        "CP": 89630,
+        "COMMUNE": "Bussières",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "9 pers",
+        "PDT_TOUR": "Chambres d’hôtes, gîte",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.lafermedesruats.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/chambres-dhotes-la-ferme-des-ruats",
+        "TELEPHONE": "03 45 02 75 06",
+        "EMAIL": "contact@lafermedesruats.fr",
+        "URL_FB": "https://www.facebook.com/lesruats",
+        "COORD_X": 779282.7744910314,
+        "COORD_Y": 6704840.711017766,
+        "URL_VIDEO": "https://youtu.be/QeRm8bLAzRs",
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/iEZgZJ7MfwFpAP5/preview",
+        "PROD_COMB": "Chambres d’hôtes, gîte - 9 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779282.7744910314,
+          6704840.711017766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 30,
+        "INSEE_COM": 89306,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Hôtel le Moulin des Templiers",
+        "NOM_": "JOUFFRAY",
+        "ADRESSE": "10, route du Cousin",
+        "CP": 89200,
+        "COMMUNE": "Pontaubert",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Hotels",
+        "PDT": "15 chbres",
+        "PDT_TOUR": "Hotels",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://hotel-moulin-des-templiers.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/hotel/hotel-le-moulin-des-templiers",
+        "TELEPHONE": "03 86 34 10 80",
+        "EMAIL": "contact@hotel-moulin-des-templiers.com",
+        "URL_FB": "https://www.facebook.com/hotelmoulindestempliers",
+        "COORD_X": 765346.298678617,
+        "COORD_Y": 6710217.621968057,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/MeLCSwNqqYFygK9/preview",
+        "PROD_COMB": "Hotels - 15 chbres",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_hotel.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765346.2986786171,
+          6710217.621968057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 32,
+        "INSEE_COM": 21560,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "La volière de Montigois",
+        "NOM_": "SCHALLER Martine",
+        "ADRESSE": "3 chemin de Montigois",
+        "CP": 21210,
+        "COMMUNE": "Saint-Martin-de-la-Mer",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Chambre d’hôte",
+        "PDT": "6 pers",
+        "PDT_TOUR": "Chambres d’hôtes, gîte",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.lavolieredemontigois.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/la-voliere-de-montigois",
+        "TELEPHONE": "06 04 45 65 12",
+        "EMAIL": "lavolieremontigois@orange.fr",
+        "URL_FB": "https://www.facebook.com/lavolieredemontigois",
+        "COORD_X": 791831.1648289595,
+        "COORD_Y": 6684302.236567072,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/mCBiMHoCmCwTeRN/preview",
+        "PROD_COMB": "Chambres d’hôtes, gîte - 6 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ch_hote.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791831.1648289595,
+          6684302.236567072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 38,
+        "INSEE_COM": 58185,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "La maison des roseaux",
+        "NOM_": "WILLEM Sylvie",
+        "ADRESSE": "La maison des Roseaux",
+        "CP": 58230,
+        "COMMUNE": "Moux-en-Morvan",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte de groupe",
+        "PDT": "15 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://www.maisondesroseaux.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/la-maison-des-roseaux",
+        "TELEPHONE": "03 86 76 01 92",
+        "EMAIL": "contact@maisondesroseaux.com",
+        "URL_FB": "https://www.facebook.com/La-Maison-des-Roseaux-215910478442190/",
+        "COORD_X": 783598.471057709,
+        "COORD_Y": 6675406.7310762545,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/2gdExao7zrBE3P3/preview",
+        "PROD_COMB": "Gite rural / meublé - 15 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gitegrp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783598.471057709,
+          6675406.7310762545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 45,
+        "INSEE_COM": 21007,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Les gîtes du Moulin de Poil",
+        "NOM_": "GOUEFFON Vincent",
+        "ADRESSE": "48 route du Moulin",
+        "CP": 58170,
+        "COMMUNE": "Poil",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "23 pers",
+        "PDT_TOUR": "Chambres d’hôtes, gîte",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://lesgitesdumoulindepoil.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/gite/les-gites-du-moulin-de-poil",
+        "TELEPHONE": "03 86 30 25 36",
+        "EMAIL": "contact@lesgitesdumoulindepoil.fr",
+        "URL_FB": "https://www.facebook.com/Les-G%C3%AEtes-du-Moulin-de-Poil-892634904272335/",
+        "COORD_X": 781639.067608652,
+        "COORD_Y": 6641313.006904627,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/BBFXdT4X3orZZQY/preview",
+        "PROD_COMB": "Chambres d’hôtes, gîte - 23 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781639.067608652,
+          6641313.006904627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 3,
+        "INSEE_COM": 58168,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Cave Cidricole",
+        "NOM_": "Alexandre LEPOIVRE",
+        "ADRESSE": "Le Petit Montigny",
+        "CP": 58170,
+        "COMMUNE": "Millay",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fruits, fleurs, plantes, légumes & produits associés",
+        "PDT": "Jus de pomme, cidre, vinaigre, eau de vie, compote, gelée de cidre",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/boissons/cave-cidricole-du-morvan",
+        "TELEPHONE": "06 34 29 32 36",
+        "EMAIL": "cave.cidricole@wanadoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 775713.496956125,
+        "COORD_Y": 6636807.906306323,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/xAEHyaxHFdoi37Z/preview",
+        "PROD_COMB": "Jus de pomme, cidre, vinaigre, eau de vie, compote, gelée de cidre",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fruits_plantesetc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775713.496956125,
+          6636807.906306323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 5,
+        "INSEE_COM": 58177,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "GAEC de Velle",
+        "NOM_": "Jérôme SEGUINIER",
+        "ADRESSE": "Velle",
+        "CP": 58120,
+        "COMMUNE": "Montigny-en-Morvan",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande bovine en colis",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "06 72 10 20 19",
+        "EMAIL": "jerome.seguinier@live.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 765786.0373136314,
+        "COORD_Y": 6671240.237825442,
+        "URL_VIDEO": null,
+        "URL_PHOTO": null,
+        "PROD_COMB": "Viande bovine en colis",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765786.0373136314,
+          6671240.237825442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 12,
+        "INSEE_COM": 58063,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Les Ruchers du Morvan",
+        "NOM_": "Jean-Jacques & Dominique COPPIN",
+        "ADRESSE": "Port de l’Homme 37d – Route des Settons",
+        "CP": 58120,
+        "COMMUNE": "Château-Chinon (Campagne)",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Miels et produits de la ruche",
+        "PDT": "Miels, pain d’épices & gâteaux bourguignons",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.achat-nivernais-morvan.com/lerucherdumorvan",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/miel/les-ruchers-du-morvan",
+        "TELEPHONE": "03 86 78 02 43",
+        "EMAIL": "ruchers.du.morvan@wanadoo.fr",
+        "URL_FB": "https://www.facebook.com/Les-Ruchers-du-Morvan-140014632846992/",
+        "COORD_X": 771212.6148930094,
+        "COORD_Y": 6666130.874066877,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/D49PZFdPbACgsid/preview",
+        "PROD_COMB": "Miels, pain d’épices & gâteaux bourguignons",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ruche.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771212.6148930094,
+          6666130.874066877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 13,
+        "INSEE_COM": 58062,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Les Piscicultures du Morvan",
+        "NOM_": "EPLEFPA du Morvan",
+        "ADRESSE": "Chemin de la Bâtisse - Vermenoux",
+        "CP": 58120,
+        "COMMUNE": "Château-Chinon (Campagne)",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Truites et ombles",
+        "PDT": "Truites, truite fumée, oeufs de truites, diverses mousses et rillettes de truites",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.morvanformations.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/poissons/les-piscicultures-du-morvan",
+        "TELEPHONE": "03 86 85 14 34",
+        "EMAIL": "expl.chateau-chinon@educagri.fr",
+        "URL_FB": "https://www.facebook.com/Les-Piscicultures-du-Morvan-280068272689784",
+        "COORD_X": 771214.9198808883,
+        "COORD_Y": 6662636.771245251,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/AmN7HSFXTCyNpFi/preview",
+        "PROD_COMB": "Truites, truite fumée, oeufs de truites, diverses mousses et rillettes de truites",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_poisson.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771214.9198808883,
+          6662636.771245251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 15,
+        "INSEE_COM": 58145,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "GAEC de L’Ecorchien",
+        "NOM_": "VOLEKAERT Jocelyne, Hélène et Nicolas",
+        "ADRESSE": "L’écorchien",
+        "CP": 58140,
+        "COMMUNE": "Lormes",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes de volailles & œufs",
+        "PDT": "Volaille fermière et viande d’agneau",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/gaec-de-lecorchien",
+        "TELEPHONE": "03 86 22 52 45 / 06 30 39 83 60",
+        "EMAIL": "cave.cidricole@wanadoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 762183.548408092,
+        "COORD_Y": 6690670.637190278,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/kitCgL7nbfjYbLK/preview",
+        "PROD_COMB": "Volaille fermière et viande d’agneau",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_volaille.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762183.548408092,
+          6690670.637190278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 18,
+        "INSEE_COM": 71014,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Jean-Paul & Isabelle Chatillon",
+        "NOM_": "Jean-Paul & Isabelle CHATILLON",
+        "ADRESSE": "4 Avenue du 2e Dragon",
+        "CP": 71400,
+        "COMMUNE": "Autun",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Miels et produits de la ruche",
+        "PDT": "Miels et produits de la ruche",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/miel/jean-paul-isabelle-chatillon",
+        "TELEPHONE": "03 85 52 50 93 / 06 25 19 47 06",
+        "EMAIL": "chatillon.isabelle@wanadoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 799447.953781558,
+        "COORD_Y": 6651132.424948036,
+        "URL_VIDEO": null,
+        "URL_PHOTO": null,
+        "PROD_COMB": "Miels et produits de la ruche",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ruche.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799447.953781558,
+          6651132.424948036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 20,
+        "INSEE_COM": 71020,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "GAEC Joly",
+        "NOM_": "Michel JOLY",
+        "ADRESSE": "La Lutarne",
+        "CP": 71400,
+        "COMMUNE": "Monthelon",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande bovine en colis",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/previewhttps://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "03 85 82 80 97 / 06 89 37 09 62",
+        "EMAIL": "bernard.joly@wanadoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 801036.9147722452,
+        "COORD_Y": 6663737.94697157,
+        "URL_VIDEO": null,
+        "URL_PHOTO": null,
+        "PROD_COMB": "Viande bovine en colis",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          801036.9147722452,
+          6663737.94697157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 21,
+        "INSEE_COM": 71349,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "La ferme piscicole du moulin de la petite verriere",
+        "NOM_": "Isabelle & Ludovic HUIN",
+        "ADRESSE": "Le moulin",
+        "CP": 71400,
+        "COMMUNE": "La Petite-Verrière",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Truites et ombles",
+        "PDT": "Truites, truites fumées, rillettes",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.moulinpetiteverriere.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/poissons/la-ferme-piscicole-du-moulin-de-la-petite-verriere",
+        "TELEPHONE": "03 85 54 13 94",
+        "EMAIL": "moulin.petite.verriere@wanadoo.fr",
+        "URL_FB": "https://www.facebook.com/fermepiscicoledumoulindelapetiteverriere/",
+        "COORD_X": 788380.5751047707,
+        "COORD_Y": 6660774.1422278555,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/pp7mxgRXQwsqJDB/preview",
+        "PROD_COMB": "Truites, truites fumées, rillettes",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_poisson.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788380.5751047707,
+          6660774.1422278555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 22,
+        "INSEE_COM": 71407,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Franck & Delphine PAQUERIAUD",
+        "NOM_": "Franck & Delphine PAQUERIAUD",
+        "ADRESSE": "Le Haut Groslier",
+        "CP": 71190,
+        "COMMUNE": "Saint-Didier-sur-Arroux",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande bovine en colis",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/franck-delphine-paqueriaud",
+        "TELEPHONE": "03 85 82 29 42",
+        "EMAIL": "paqueriaud.franck@orange.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 783400.6948441456,
+        "COORD_Y": 6637303.371936595,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/Ae6cyPWoPgo4gmA/preview",
+        "PROD_COMB": "Viande bovine en colis",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783400.6948441456,
+          6637303.371936595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 25,
+        "INSEE_COM": 89318,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Viande prairies du Morvan",
+        "NOM_": "Jean-Lou ROBERT",
+        "ADRESSE": "7 rue des prairies – Charmolin",
+        "CP": 89630,
+        "COMMUNE": "Quarré-les-Tombes",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Colis classique 15 kg, colis à griller 7 kg, colis à mijoter 8 kg. Plats cuisinés bolognaise du terroir et tripes",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://viandesprairiesdumorvan.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/viandes-prairies-du-morvan",
+        "TELEPHONE": "06 82 40 77 16",
+        "EMAIL": "jeanlourobert@gmail.com",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 773903.6610404878,
+        "COORD_Y": 6700705.982404166,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/goBEjPDZyMTNZYZ/preview",
+        "PROD_COMB": "Colis classique 15 kg, colis à griller 7 kg, colis à mijoter 8 kg. Plats cuisinés bolognaise du terroir et tripes",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773903.6610404878,
+          6700705.982404166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 26,
+        "INSEE_COM": 89364,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Vignerons de la colline Eternelle",
+        "NOM_": "Coopérative de 12 Vignerons",
+        "ADRESSE": "4 route de Nanchèvres",
+        "CP": 89450,
+        "COMMUNE": "Saint-Père",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Vins et apéritifs",
+        "PDT": "Vézelay (Chardonnay), Bourgogne Rouge, Rosé, Melon de Bourgogne, Ratafia et Crémant",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.colline-eternelle.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/boissons/vignerons-de-la-colline-eternelle#toc-contact",
+        "TELEPHONE": "03 86 33 29 62",
+        "EMAIL": "contact@collineeternelle.fr",
+        "URL_FB": "https://www.facebook.com/vigneronscollineeternelle/",
+        "COORD_X": 757934.4478149898,
+        "COORD_Y": 6707313.45560587,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/9DrLWq6KXwwkPLM/preview",
+        "PROD_COMB": "Vézelay (Chardonnay), Bourgogne Rouge, Rosé, Melon de Bourgogne, Ratafia et Crémant",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_vin.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          757934.4478149898,
+          6707313.45560587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 27,
+        "INSEE_COM": 89235,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Miel du Morvan",
+        "NOM_": "Maison VIGNAUD",
+        "ADRESSE": "20 Rue Garenne – Marrault",
+        "CP": 89200,
+        "COMMUNE": "Magny",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Miels et produits de la ruche",
+        "PDT": "Miels & pain d’épices",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/miel/miel-du-morvan",
+        "TELEPHONE": "03 86 33 09 04",
+        "EMAIL": "john_marques1@yahoo.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 772090.8583009884,
+        "COORD_Y": 6705102.045521512,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/foo7AAi4sxtfJp6/preview",
+        "PROD_COMB": "Miels & pain d’épices",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ruche.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772090.8583009884,
+          6705102.045521512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 33,
+        "INSEE_COM": 21584,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "Bergerie de Conrieux",
+        "NOM_": "Didier LOISON",
+        "ADRESSE": "Chemin du Conrieux",
+        "CP": 21210,
+        "COMMUNE": "Saulieu",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromage et produits laitiers de brebis",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fromages-et-produits-laitiers/bergerie-de-conrieux",
+        "TELEPHONE": "06 40 58 26 18",
+        "EMAIL": "didier.loison58@orange.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 793477.1072162101,
+        "COORD_Y": 6689578.2345414525,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/5LSkMnQ3GngZnz4/preview",
+        "PROD_COMB": "Fromage et produits laitiers de brebis",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793477.1072162101,
+          6689578.2345414525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 35,
+        "INSEE_COM": 21417,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "Jean-Louis Seguin",
+        "NOM_": "Jean-Louis SEGUIN",
+        "ADRESSE": "Hameau de Saiserey",
+        "CP": 21210,
+        "COMMUNE": "Missery",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Miels et produits de la ruche",
+        "PDT": "Miels & pain d’épices",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/miel/jean-louis-seguin",
+        "TELEPHONE": "03 80 84 30 50 / 06 44 31 32 18",
+        "EMAIL": "seguin21210@gmail.com",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 803647.6739613158,
+        "COORD_Y": 6691674.940567203,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/NQsiks98Q2GsLTM/preview",
+        "PROD_COMB": "Miels & pain d’épices",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ruche.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          803647.6739613158,
+          6691674.940567203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 36,
+        "INSEE_COM": 89318,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Térence ROBERT",
+        "NOM_": "Térence ROBERT",
+        "ADRESSE": "Vélars le Comte",
+        "CP": 89630,
+        "COMMUNE": "Quarré-les-Tombes",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande bovine en colis de 5, 10 ou 20 kg",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://terencerobert.wixsite.com/website",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/robert-terence",
+        "TELEPHONE": "06 89 94 81 23",
+        "EMAIL": "terence89@hotmail.fr",
+        "URL_FB": "https://www.facebook.com/Vente-directe-viande-bovine-bio-parc-du-morvan-109340304097576",
+        "COORD_X": 773623.5656981592,
+        "COORD_Y": 6699628.99531756,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/zpA6azPQHad4D6y/preview",
+        "PROD_COMB": "Viande bovine en colis de 5, 10 ou 20 kg",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773623.5656981592,
+          6699628.99531756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 39,
+        "INSEE_COM": 71020,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "L’escargot Morvandiau",
+        "NOM_": "Martine BELIN",
+        "ADRESSE": "1 rue de l'ouche de Velay",
+        "CP": 71540,
+        "COMMUNE": "Barnay",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Escargots",
+        "PDT": "Escargots transformés : court-bouillons, coquilles, fromentines, terrines…",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.escargot-morvandiau.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/lescargot-morvandiau",
+        "TELEPHONE": "03 85 52 26 45 / 06 31 89 03 51",
+        "EMAIL": "contact@escargot-morvandiau.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 799811.9900609656,
+        "COORD_Y": 6665815.463437896,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/z6yqqxMzCWfGfRG/preview",
+        "PROD_COMB": "Escargots transformés : court-bouillons, coquilles, fromentines, terrines…",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_escargots.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799811.9900609656,
+          6665815.463437896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 41,
+        "INSEE_COM": 58226,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "GAEC des Pompons",
+        "NOM_": "Michel LOISON",
+        "ADRESSE": "20 Les Pompons",
+        "CP": 58230,
+        "COMMUNE": "Saint-Agnan",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande bovine en colis",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "TELEPHONE": "06 75 75 37 46",
+        "EMAIL": "pompons@orange.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 780032.6273516369,
+        "COORD_Y": 6693055.814808641,
+        "URL_VIDEO": null,
+        "URL_PHOTO": null,
+        "PROD_COMB": "Viande bovine en colis",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780032.627351637,
+          6693055.814808641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 19,
+        "INSEE_COM": 71192,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "L'Ouche Fleurie",
+        "NOM_": "Charlotte LEMAIGNEN-LEMAITRE",
+        "ADRESSE": "Velet",
+        "CP": 71190,
+        "COMMUNE": "Étang-sur-Arroux",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fruits, fleurs, plantes, légumes & produits associés",
+        "PDT": "Confitures artisanales, coulis, sorbets avec les fruits rouges du verger",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fruits-et-legumes/louche-fleurie",
+        "TELEPHONE": "03 85 29 55 60",
+        "EMAIL": "lemaitrejm@sfr.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 788102.4527800838,
+        "COORD_Y": 6639299.386468544,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/cEdxyeABfDy8ErM/preview",
+        "PROD_COMB": "Confitures artisanales, coulis, sorbets avec les fruits rouges du verger",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fruits_plantesetc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788102.4527800838,
+          6639299.386468544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 44,
+        "INSEE_COM": 21007,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Gaec de la Voie Lactée",
+        "NOM_": "Vincent SCHWARTZ  & Olivier CATTENOZ",
+        "ADRESSE": "Les vignes",
+        "CP": 71990,
+        "COMMUNE": "La Grande Verrière",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages de chèvres, vaches et brebis. Crème de châtaignes, miel, porcs plein air",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.fromagesdesvignes.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fromages-et-produits-laitiers/gaec-de-la-voie-lactee-ferme-des",
+        "TELEPHONE": "06 02 18 06 52 / 07 86 16 34 03",
+        "EMAIL": "contact@fromagesdesvignes.fr",
+        "URL_FB": "https://www.facebook.com/fermedesvignes71",
+        "COORD_X": 784995.7732211408,
+        "COORD_Y": 6650499.627462779,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/YPc6pMWj4K9H9z7/preview",
+        "PROD_COMB": "Fromages de chèvres, vaches et brebis. Crème de châtaignes, miel, porcs plein air",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784995.7732211408,
+          6650499.627462779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 14,
+        "INSEE_COM": 21007,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "Le Rucher de l'Ecole",
+        "NOM_": "Virginie & William GAY",
+        "ADRESSE": "Solo",
+        "CP": 58120,
+        "COMMUNE": "Saint-Léger-de-Fougeret",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Miels et produits de la ruche",
+        "PDT": "Miels, pain d’épices & confiseries",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://lerucherdelecole.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/miel/le-rucher-de-lecole",
+        "TELEPHONE": "03 86 85 09 47",
+        "EMAIL": "contact@lerucherdelecole.fr",
+        "URL_FB": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "COORD_X": 767523.0144860995,
+        "COORD_Y": 6655531.886642038,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/DRewsAQJbHzRTfN/preview",
+        "PROD_COMB": "Miels, pain d’épices & confiseries",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ruche.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767523.0144860995,
+          6655531.886642038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 46,
+        "INSEE_COM": 89349,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Gaec Charol’Oeufs",
+        "NOM_": "LEPAGE Marine",
+        "ADRESSE": "34 Rue Girard",
+        "CP": 89630,
+        "COMMUNE": "Saint-Léger-Vauban",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes de volailles & œufs",
+        "PDT": "Oeufs de poules pondeuses",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/gaec-charoloeufs",
+        "TELEPHONE": "06 33 69 47 17",
+        "EMAIL": "remi89@wanadoo.fr",
+        "URL_FB": "https://www.facebook.com/Gaec-Charoloeufs-109862144218525",
+        "COORD_X": 778625.0493933199,
+        "COORD_Y": 6699191.524605736,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/yN8oP9s4Z25qd6S/preview",
+        "PROD_COMB": "Oeufs de poules pondeuses",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_volaille.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778625.0493933199,
+          6699191.524605736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 47,
+        "INSEE_COM": 89235,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Les brebis de Pauline",
+        "NOM_": "Pauline TRIMOULINARD",
+        "ADRESSE": "13, grande rue ETREE",
+        "CP": 89200,
+        "COMMUNE": "Magny",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages au lait cru entier de brebis : frais, moelleux, mi-sec et sec, faisselle et yaourts",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fromages-et-produits-laitiers/les-brebis-de-pauline",
+        "TELEPHONE": "06 31 22 11 27",
+        "EMAIL": "lesbrebisdepauline@gmail.com",
+        "URL_FB": "https://www.facebook.com/LesBrebisdePauline",
+        "COORD_X": 774831.5127549964,
+        "COORD_Y": 6709434.379341666,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/fRiZTEq6pXnCsfq/preview",
+        "PROD_COMB": "Fromages au lait cru entier de brebis : frais, moelleux, mi-sec et sec, faisselle et yaourts",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774831.5127549964,
+          6709434.379341666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 48,
+        "INSEE_COM": 71440,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "La Ferme du Rebout",
+        "NOM_": "Véronique DIANO & Amélie GUILLOT",
+        "ADRESSE": "Le Rebout",
+        "CP": 71990,
+        "COMMUNE": "Saint-leger-sous-Beuvray",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages de chèvres et de vaches, porcs plein air",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fromages-et-produits-laitiers/les-fromagers-du-rebout",
+        "TELEPHONE": "07 88 05 94 52",
+        "EMAIL": "lafermedurebout2020@gmail.com",
+        "URL_FB": "https://www.facebook.com/FermeRebout",
+        "COORD_X": 780967.2774608791,
+        "COORD_Y": 6648925.438165199,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/knHNYW5XWjJj8rZ/preview",
+        "PROD_COMB": "Fromages de chèvres et de vaches, porcs plein air",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780967.2774608791,
+          6648925.438165198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 49,
+        "INSEE_COM": 71440,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "La Ferme du Rebout",
+        "NOM_": "Vincent VANDAELE & Ingrid BERTHIER",
+        "ADRESSE": "Le Rebout",
+        "CP": 71990,
+        "COMMUNE": "Saint-leger-sous-Beuvray",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes de volailles & œufs",
+        "PDT": "Oeufs de poules pondeuses",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/les-jardins-du-rebout",
+        "TELEPHONE": "06 08 65 65 23",
+        "EMAIL": "lafermedurebout2020@gmail.com",
+        "URL_FB": "https://www.facebook.com/FermeRebout",
+        "COORD_X": 780947.983343232,
+        "COORD_Y": 6648913.673459316,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/JNNQZeTcQnoWoqb/preview",
+        "PROD_COMB": "Oeufs de poules pondeuses",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_volaille.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780947.983343232,
+          6648913.673459316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 11,
+        "INSEE_COM": 58235,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Le Bistrot du Parc",
+        "NOM_": "GAMET Anne Sophie",
+        "ADRESSE": "Maison du Parc",
+        "CP": 58230,
+        "COMMUNE": "Saint-Brisson",
+        "TYP_PDT": "Restaurants",
+        "SS_TYP_PDT": "Brasserie, salon de thé",
+        "PDT": "produits locaux et bio",
+        "PDT_TOUR": "Restaurant",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.lebistrotduparc-morvan.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/restaurant/le-bistrot-du-parc",
+        "TELEPHONE": "03 86 76 03 25",
+        "EMAIL": "contact@lebistrotduparc-morvan.fr",
+        "URL_FB": "https://www.facebook.com/LeBistrotDuParcDuMorvan",
+        "COORD_X": 783013.443820258,
+        "COORD_Y": 6686693.698088779,
+        "URL_VIDEO": "https://youtu.be/9o_-SW5K9ro",
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/G23oC5ios4tqN7s/preview",
+        "PROD_COMB": "Brasserie, salon de thé - produits locaux et bio",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_rest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783013.443820258,
+          6686693.698088779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 23,
+        "INSEE_COM": 71096,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Auberge de la Grousse",
+        "NOM_": "MEUNIER Eric",
+        "ADRESSE": "Le bourg",
+        "CP": 71190,
+        "COMMUNE": "La Chapelle-sous-Uchon",
+        "TYP_PDT": "Restaurants",
+        "SS_TYP_PDT": "Restaurant",
+        "PDT": "cuisine gourmande et inventive",
+        "PDT_TOUR": "Restaurant",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.aubergedelagrousse.com/fr",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/restaurant/auberge-de-la-grousse",
+        "TELEPHONE": "03 85 54 44 24",
+        "EMAIL": "auberge@lagrousse.fr",
+        "URL_FB": "https://www.facebook.com/aubergedelagrousse71/",
+        "COORD_X": 793995.0287411604,
+        "COORD_Y": 6638062.795936138,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/4HCfeMdMFBM4KfC/preview",
+        "PROD_COMB": "Restaurant - cuisine gourmande et inventive",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_restau.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793995.0287411604,
+          6638062.795936138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 42,
+        "INSEE_COM": 58244,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Domaine de Courcelles",
+        "NOM_": "DUBOURVIEUX Nathalie",
+        "ADRESSE": "Courcelles",
+        "CP": 58120,
+        "COMMUNE": "Saint-Hilaire-en-Morvan",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "10 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://domaine-de-courcelles-fr.webnode.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/domaine-de-courcelles",
+        "TELEPHONE": "06 77 73 74 18",
+        "EMAIL": "domaine.courcelles@gmail.com",
+        "URL_FB": "https://www.facebook.com/domaine.courcelles",
+        "COORD_X": 765227.9840476381,
+        "COORD_Y": 6665296.6220829645,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/gTCs6BEN6N9dDkp/preview",
+        "PROD_COMB": "Gite rural / meublé - 10 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765227.9840476381,
+          6665296.6220829645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 51,
+        "INSEE_COM": 58211,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Auberge de Poil",
+        "NOM_": "CAZIOT Matthieu",
+        "ADRESSE": "16, route de Champrobert",
+        "CP": 58170,
+        "COMMUNE": "Poil",
+        "TYP_PDT": "Restaurants",
+        "SS_TYP_PDT": "Restaurant",
+        "PDT": "20 couverts - Produits locaux et bio",
+        "PDT_TOUR": "Restaurant",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://aubergedepoil.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/restaurant/auberge-de-poil",
+        "TELEPHONE": "09 62 51 01 09",
+        "EMAIL": "contact@aubergedepoil.com",
+        "URL_FB": "https://www.facebook.com/laubergedepoil",
+        "COORD_X": 781761.2513067239,
+        "COORD_Y": 6641361.394913068,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/tyBimaPp6sB4Z7f/preview",
+        "PROD_COMB": "Produits locaux et bio",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_restau.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781761.2513067239,
+          6641361.394913068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 53,
+        "INSEE_COM": 21584,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "SILENES",
+        "NOM_": "Virginie BENOIT",
+        "ADRESSE": "4 rue jules Ferry",
+        "CP": 21210,
+        "COMMUNE": "Saulieu",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fruits, fleurs, plantes, légumes & produits associés",
+        "PDT": "Graines et plants de fleurs sauvages du Morvan",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://silenes-grainesdumorvan.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/silenes-graines-de-fleurs-sauvages-du-morvan",
+        "TELEPHONE": "06 61 94 86 04",
+        "EMAIL": "virginie@silenes-grainesdumorvan.fr",
+        "URL_FB": "https://www.facebook.com/search/top?q=silenes%2C%20graines%20du%20morvan",
+        "COORD_X": 792820.6687003779,
+        "COORD_Y": 6687154.611905217,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/kkEP8sZr5TK48Mj/preview",
+        "PROD_COMB": "Graines et plants de fleurs sauvages du Morvan",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fruits_plantesetc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792820.6687003779,
+          6687154.611905217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 55,
+        "INSEE_COM": 58185,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "La Corne au Cerf",
+        "NOM_": "GSTALDER Mélanie",
+        "ADRESSE": "La Corne au cerf",
+        "CP": 58230,
+        "COMMUNE": "Moux-en-Morvan",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Chambre d’hôte",
+        "PDT": "15 pers",
+        "PDT_TOUR": "Chambres d’hôtes, gîte",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://lacorneaucerf.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/la-corne-au-cerf",
+        "TELEPHONE": "06 61 15 03 05",
+        "EMAIL": "lacorneaucerf@gmail.com",
+        "URL_FB": "https://www.facebook.com/lacorneaucerf",
+        "COORD_X": 781359.5278038962,
+        "COORD_Y": 6675203.849973302,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/98cQEMoCKyHcjHf/preview",
+        "PROD_COMB": null,
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_ch_hote.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781359.5278038962,
+          6675203.849973302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 52,
+        "INSEE_COM": 71063,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Gîte du Plessis",
+        "NOM_": "FORTIN Hélène",
+        "ADRESSE": "2, rue de l'église",
+        "CP": 71190,
+        "COMMUNE": "Broye",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte",
+        "PDT": "10 pers + 4 pers + 5 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.leplessis-broye.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/hebergement-et-restauration/chambre-dhote/le-plessis-gite-chambres-dhotes-et-eco",
+        "TELEPHONE": "06 86 78 16 01",
+        "EMAIL": "seb_fortin@cegetel.net",
+        "URL_FB": null,
+        "COORD_X": 798186.2306385502,
+        "COORD_Y": 6642062.843704627,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/tG356cNNWta55cP/preview",
+        "PROD_COMB": null,
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798186.2306385501,
+          6642062.843704627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 57,
+        "INSEE_COM": 89349,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "SCEA Ferme de l'Abbaye de la Pierre qui Vire",
+        "NOM_": "Véronique et Philippe ABRAHAMSE",
+        "ADRESSE": "1, Huis Saint Benoit",
+        "CP": 89630,
+        "COMMUNE": "Saint-Léger-Vauban",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages et produits laitiers de vache",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://www.apqv.fr/apqv.php?na=6₇",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fromages-et-produits-laitiers/ferme-de-labbaye-de-la-pierre-qui-vire",
+        "TELEPHONE": "03 86 33 03 73",
+        "EMAIL": "fromagerie.pierrequivire@gmail.com",
+        "URL_FB": null,
+        "COORD_X": 780241.6206955337,
+        "COORD_Y": 6695775.374184344,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/sJ8ieAp48tZELyy/preview",
+        "PROD_COMB": "Fromages fermiers et produits laitiers de vache",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780241.6206955337,
+          6695775.374184344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 56,
+        "INSEE_COM": 21531,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "Ferme des Porons de Granit",
+        "NOM_": "Anthony CHANVIN",
+        "ADRESSE": "1 chemin de la Croisette – Le Foulon",
+        "CP": 21530,
+        "COMMUNE": "Rouvray",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages et produits laitiers de chèvre et viande ovine de race solognote",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/fromages-et-produits-laitiers/ferme-des-porons-de-granit",
+        "TELEPHONE": "06 70 04 98 60",
+        "EMAIL": "chanvin@orange.fr",
+        "URL_FB": "https://www.facebook.com/Ferme-des-porons-de-granit-1031425803592029",
+        "COORD_X": 784570.175914939,
+        "COORD_Y": 6702360.961768153,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/zQpPQt2jnaafeid/preview",
+        "PROD_COMB": "Fromages et produits laitiers de chèvre et viande ovine de race Solognote",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784570.175914939,
+          6702360.961768153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 54,
+        "INSEE_COM": 89318,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "GAEC du Lardot",
+        "NOM_": "Laure BEKER et Nicolas BLIN",
+        "ADRESSE": "Moulin Lardot",
+        "CP": 89630,
+        "COMMUNE": "Quarré-les-Tombes",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande de bœuf/brebis au détail et plats cuisinés",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.fermedulardot.com/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/gaec-du-lardot",
+        "TELEPHONE": "07 62 23 00 27",
+        "EMAIL": "laure.beker@orange.fr",
+        "URL_FB": "https://www.facebook.com/search/top?q=la%20ferme%20du%20lardot",
+        "COORD_X": 776340.7676865829,
+        "COORD_Y": 6698965.090778832,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/WZjmw4rzZjttgL6/preview",
+        "PROD_COMB": "Viande de bœuf/brebis au détail et plats cuisinés",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776340.7676865829,
+          6698965.090778831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 58,
+        "INSEE_COM": 71411,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "GAEC Limousin-Bourgogne",
+        "NOM_": "Isabelle et Paul COPRET",
+        "ADRESSE": "Ravetout",
+        "CP": 71320,
+        "COMMUNE": "Saint-Eugène",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Viande bovine limousine en caissette et farines de céréales anciennes",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "http://noslimousinesbio.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/consommer-parc/produits-locaux/viandes/gaec-limousin-bourgogne",
+        "TELEPHONE": "06 44 72 18 04",
+        "EMAIL": "icopret@gmail.com",
+        "URL_FB": "https://www.facebook.com/copretpaul",
+        "COORD_X": 793024.7813859994,
+        "COORD_Y": 6627687.560478113,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/atJYjyxHp9B5r8s/preview",
+        "PROD_COMB": "Viande bovine limousine en caissette et farines de céréales anciennes",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793024.7813859994,
+          6627687.560478113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 34,
+        "INSEE_COM": 58037,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Champ de la Fontaine",
+        "NOM_": "Christine PECASSE",
+        "ADRESSE": "La Velotte",
+        "CP": 58140,
+        "COMMUNE": "Brassy",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages au lait cru entier de brebis corses",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.champdelafontaine.com/fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/fromages-et-produits-laitiers/champ-de-la-fontaine",
+        "TELEPHONE": "03 86 26 62 55 / 06 43 83 03 46",
+        "EMAIL": "champdelafontaine.brassy@gmail.com",
+        "URL_FB": "https://www.facebook.com/Champ-De-La-Fontaine-Brassy-208507526202696/",
+        "COORD_X": 773231.0,
+        "COORD_Y": 6684177.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/YTng77PD343k4sL/preview",
+        "PROD_COMB": "Fromages au lait cru entier de brebis corses",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773231.0,
+          6684177.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 1,
+        "INSEE_COM": 71509,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "La ferme des Montigots",
+        "NOM_": "Anne DUGARDIN-BESSIERE",
+        "ADRESSE": "La ferme des Montigots",
+        "CP": 71400,
+        "COMMUNE": "La Celle-en-Morvan",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages de vache. Viande de bœuf et/ou veau.",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/fromages-et-produits-laitiers/ferme-des-montigots",
+        "TELEPHONE": "07 49 03 26 11",
+        "EMAIL": "anne_bessiere@live.fr",
+        "URL_FB": "https://www.facebook.com/profile.php?id=100064217315182",
+        "COORD_X": 790001.0,
+        "COORD_Y": 6655409.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/5ay4axTYHf6YteP/preview",
+        "PROD_COMB": "Fromages de vache. Viande de bœuf et/ou veau.",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790001.0,
+          6655409.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 50,
+        "INSEE_COM": 58226,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Les Jardins de la Dame du Lac",
+        "NOM_": "Magalie MOREAU",
+        "ADRESSE": "les Gueniffets",
+        "CP": 58230,
+        "COMMUNE": "Saint-Agnan",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fruits, fleurs, plantes, légumes & produits associés",
+        "PDT": "Verger conservatoire. Plants de légumes et aromatiques. Rosiers anciens. Vivaces",
+        "PDT_TOUR": "Pépinière",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://lesjardinsdeladamedulac.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/fruits-et-legumes/les-jardins-de-la-dame-du-lac",
+        "TELEPHONE": "09 88 28 14 43 / 06 89 75 28 50",
+        "EMAIL": "lesjardinsdeladamedulac@lavache.com",
+        "URL_FB": null,
+        "COORD_X": 783301.0,
+        "COORD_Y": 6693134.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/6wCTtzio4zys6oB/preview",
+        "PROD_COMB": "Verger conservatoire. Plants de légumes et aromatiques. Rosiers anciens. Vivaces",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fruits_plantesetc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783301.0,
+          6693134.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 24,
+        "INSEE_COM": 89235,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Les jardins Comestibles de Magny",
+        "NOM_": "Xavier OURRY",
+        "ADRESSE": "17 route du Morvan",
+        "CP": 89200,
+        "COMMUNE": "Magny",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fruits, fleurs, plantes, légumes & produits associés",
+        "PDT": "Maraîchage biologique. Micro ferme. Production et vente de légumes",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.lesgumesdemagny.fr/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/fruits-et-legumes/les-jardins-comestibles-de-magny",
+        "TELEPHONE": "06 63 41 37 78",
+        "EMAIL": "lesjardinscomestibles.magny@gmail.com",
+        "URL_FB": "https://www.facebook.com/lesgumesdemagny",
+        "COORD_X": 773372.0,
+        "COORD_Y": 6708600.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/5ddZ5Z59LksW5Dg/preview",
+        "PROD_COMB": "Maraîchage biologique. Micro ferme. Production et vente de légumes",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fruits_plantesetc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773372.0,
+          6708600.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 31,
+        "INSEE_COM": 58255,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Herbalune",
+        "NOM_": "Anne PERIN",
+        "ADRESSE": "2, place de l’Église",
+        "CP": 58140,
+        "COMMUNE": "Saint Martin du Puy",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fruits, fleurs, plantes, légumes & produits associés",
+        "PDT": "Large gamme de produits sains à base de plantes sauvages comestibles au fil des saisons. Des sirops aux tisanes, des condiments aux huiles aromatisées, des pestos aux mélanges aromatiques, des pâtes de fruits aux gelées.",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/plantes-aromatiques-et-epices/herbalune",
+        "TELEPHONE": "06 25 46 11 72",
+        "EMAIL": "herbalunemorvan@gmail.com",
+        "URL_FB": "https://www.facebook.com/louisenirep",
+        "COORD_X": 765622.0000000001,
+        "COORD_Y": 6693028.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/FCCyBz9fBey2RwH/preview",
+        "PROD_COMB": "Large gamme de produits sains à base de plantes sauvages comestibles au fil des saisons. Des sirops aux tisanes, des condiments aux huiles aromatisées, des pestos aux mélanges aromatiques, des pâtes de fruits aux gelées.",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fruits_plantesetc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765622.0,
+          6693028.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 40,
+        "INSEE_COM": 21102,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "GAEC des Cras",
+        "NOM_": "Cindy FAVRE",
+        "ADRESSE": "Ferme des Cras",
+        "CP": 21430,
+        "COMMUNE": "Brazey-en-Morvan",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "Caissette de viande de bœuf, charcuterie, terrine, tartinades, saucisses, galettes burger... ainsi que des plats cuisinés fermiers",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/viandes/gaec-des-cras",
+        "TELEPHONE": "06 66 19 92 95 / 06 80 26 03 74",
+        "EMAIL": "ben.thouviot@hotmail.fr",
+        "URL_FB": "https://www.facebook.com/enpause.gourmandise.1",
+        "COORD_X": 798009.0,
+        "COORD_Y": 6676606.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/xr3QKRYtcSkyJ4z/preview",
+        "PROD_COMB": "Viande bovine en colis ou en produits transformées (charcuterie, tartinade)",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798009.0,
+          6676606.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 59,
+        "INSEE_COM": 21422,
+        "INSEE_DEP": "Côte d'Or",
+        "NOM_ETBS": "La Mobil'oeufs",
+        "NOM_": "LIGERON Angélique et Benoît",
+        "ADRESSE": "28 rue Grillot",
+        "CP": 21210,
+        "COMMUNE": "Molphey",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes de volailles & œufs",
+        "PDT": "Œufs de poules pondeuses",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://lamobiloeufs.wixsite.com/la-mobil-oeufs?fbclid=IwAR3PlJ522ArDXDaUaszqY5Omr2s1rUflwVkirxnJOvdZNuvJUOeT_5shUlw",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/la-mobiloeufs",
+        "TELEPHONE": "03 80 64 91 22 / 06 84 09 22 40",
+        "EMAIL": "angelique.ligeron@gmail.com",
+        "URL_FB": "https://www.facebook.com/ligeron.angelique",
+        "COORD_X": 791086.0000000001,
+        "COORD_Y": 6694285.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/Zm3TRWsjE2cSwqf/preview",
+        "PROD_COMB": "Œufs de poules pondeuses",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_volaille.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791086.0,
+          6694285.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 60,
+        "INSEE_COM": 71297,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Les chèvres de Charmasse",
+        "NOM_": "MARTIN Mélanie",
+        "ADRESSE": "Charmasse",
+        "CP": 71190,
+        "COMMUNE": "Mesvres",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Fromages et produits laitiers",
+        "PDT": "Fromages et produits laitiers de chèvre",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/fromages-et-produits-laitiers/les-chevres-de-charmasse",
+        "TELEPHONE": "06 30 81 11 29",
+        "EMAIL": "melaniem88@wanadoo.fr",
+        "URL_FB": "https://www.facebook.com/people/Les-ch%C3%A8vres-de-Charmasse/100068306289683/",
+        "COORD_X": 796603.0,
+        "COORD_Y": 6642023.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/eisiJyqQXeZBisX/preview",
+        "PROD_COMB": "Fromages et produits laitiers de chèvre",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_fromage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796603.0,
+          6642023.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 61,
+        "INSEE_COM": 71297,
+        "INSEE_DEP": "Saône et Loire",
+        "NOM_ETBS": "Le Grand Karadok",
+        "NOM_": "GINOLIN Yann",
+        "ADRESSE": "Champ rond",
+        "CP": 71190,
+        "COMMUNE": "Mesvres",
+        "TYP_PDT": "Producteurs",
+        "SS_TYP_PDT": "Viandes bovines",
+        "PDT": "viande bovine haut de gamme : Angus, Wagyu (boeuf de Kobé), Aubrac, Veaux élevés sous la mère, agneaux de races Solognote et Kerry Hill en colis",
+        "PDT_TOUR": "Produits de bouche",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://partage.parcdumorvan.org/index.php/s/w7BfpGJtX4wYyPo/preview",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/produits-locaux/viandes/le-grand-karadok",
+        "TELEPHONE": "06 89 21 51 22",
+        "EMAIL": "legrandkaradok@gmail.com",
+        "URL_FB": "https://www.facebook.com/YannGinolin/",
+        "COORD_X": 794943.0,
+        "COORD_Y": 6643439.0,
+        "URL_VIDEO": null,
+        "URL_PHOTO": "https://partage.parcdumorvan.org/index.php/s/D4HyL7nMSLLLEwJ/preview",
+        "PROD_COMB": "viande bovine haut de gamme : Angus, Wagyu (boeuf de Kobé), Aubrac, Veaux élevés sous la mère, agneaux de races Solognote et Kerry Hill en colis",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_boeuf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794943.0,
+          6643439.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 62,
+        "INSEE_COM": 89025,
+        "INSEE_DEP": "Yonne",
+        "NOM_ETBS": "Le Poirier au Loup",
+        "NOM_": "LIPIETZ Hélène ",
+        "ADRESSE": "7 rue du Maréchal Foch",
+        "CP": 89000,
+        "COMMUNE": "Avallon",
+        "TYP_PDT": "Restaurants",
+        "SS_TYP_PDT": "Restaurant",
+        "PDT": "14 couverts – produits locaux et bio",
+        "PDT_TOUR": "Restaurant",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://www.poirier-au-loup.fr/Le-restaurant",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/hebergement-et-restauration/restaurant/le-poirier-au-loup",
+        "TELEPHONE": "03 86 46 95 63 ",
+        "EMAIL": "rest-o-livre@poirier-au-loup.fr ",
+        "URL_FB": "https://www.facebook.com/pages/Le-Poirier-Au-Loup/1489450511096142",
+        "COORD_X": null,
+        "COORD_Y": null,
+        "URL_VIDEO": null,
+        "URL_PHOTO": null,
+        "PROD_COMB": "Produits locaux et bio ",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_restau.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768449.148488612,
+          6710544.395899765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_MVP": 63,
+        "INSEE_COM": 58205,
+        "INSEE_DEP": "Nièvre",
+        "NOM_ETBS": "Gite de la Loutière",
+        "NOM_": "LARIVE-PERRIOT Stéphane",
+        "ADRESSE": "2, place de la mairie",
+        "CP": 58230,
+        "COMMUNE": "Ouroux-en-Morvan",
+        "TYP_PDT": "Hébergements",
+        "SS_TYP_PDT": "Gîte de groupe",
+        "PDT": "39 pers",
+        "PDT_TOUR": "Gite rural / meublé",
+        "PDT_SF": null,
+        "MAJ_SHP": null,
+        "URL": "https://gitelaloutiere.business.site/",
+        "URL_PNR": "https://www.parcs-naturels-regionaux.fr/valeurs-parc/hebergement-et-restauration/gite/gite-la-loutiere",
+        "TELEPHONE": "07 82 07 71 63",
+        "EMAIL": "laloutiere@gmail.com",
+        "URL_FB": "https://www.facebook.com/gitelaloutiere",
+        "COORD_X": null,
+        "COORD_Y": null,
+        "URL_VIDEO": null,
+        "URL_PHOTO": null,
+        "PROD_COMB": "Gite de groupe – 39 pers",
+        "ICONES": "https://ideobfc.parcdumorvan.net/sigadmin/picto/mvp/picto_gite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771719.3075759943,
+          6676541.757762901
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a6c47eaf3cb47d8b81",
+    "dataset_name": "Bénéficiaires de la marque Valeurs Parc",
+    "resource_id": "ffcab27b-e310-48fc-8f00-5eb79a88c378",
+    "dataset_url": "https://www.data.gouv.fr/datasets/prestataires-de-la-marque-valeurs-parcs-dans-le-parc-naturel-regional-du-morvan",
+    "layer": "tourisme-economie/marque-valeurs-parc",
+    "fetched_at": "2026-03-12T21:06:51.482745+00:00"
+  }
+}

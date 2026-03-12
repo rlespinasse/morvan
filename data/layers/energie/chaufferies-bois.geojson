@@ -1,0 +1,3556 @@
+{
+  "type": "FeatureCollection",
+  "name": "ChaufferiesBois_Communes_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747708",
+        "INSEE_COM": "58211",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Poil",
+        "NOM_MAJUSC": "POIL",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215802117",
+        "SURF_HA": 2703.66,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 502.728,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780416.8706401299,
+          6641986.972635059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747711",
+        "INSEE_COM": "58276",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Sémelay",
+        "NOM_MAJUSC": "SÉMELAY",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215802760",
+        "SURF_HA": 3347.75,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 781.994,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765680.3899043425,
+          6640446.196064877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747258",
+        "INSEE_COM": "58249",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Léger-de-Fougeret",
+        "NOM_MAJUSC": "SAINT-LÉGER-DE-FOUGERET",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802497",
+        "SURF_HA": 3237.62,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 639.823,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768973.2039317742,
+          6656854.672877942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747260",
+        "INSEE_COM": "58182",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Moulins-Engilbert",
+        "NOM_MAJUSC": "MOULINS-ENGILBERT",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215801820",
+        "SURF_HA": 4148.8,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2172.653,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761666.2003140016,
+          6652868.311111279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747939",
+        "INSEE_COM": "58019",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Avrée",
+        "NOM_MAJUSC": "AVRÉE",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215800194",
+        "SURF_HA": 1304.84,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 262.862,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766989.681124657,
+          6636248.991964767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747256",
+        "INSEE_COM": "58111",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Fâchin",
+        "NOM_MAJUSC": "FÂCHIN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801119",
+        "SURF_HA": 1394.69,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 251.262,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773449.2497744847,
+          6656271.886238998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747492",
+        "INSEE_COM": "58309",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Villapourçon",
+        "NOM_MAJUSC": "VILLAPOURÇON",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215803099",
+        "SURF_HA": 5103.99,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1046.078,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772769.0973301566,
+          6649085.898268441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747935",
+        "INSEE_COM": "58168",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Millay",
+        "NOM_MAJUSC": "MILLAY",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215801689",
+        "SURF_HA": 3744.31,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1788.636,
+        "NB_Chauf19": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775509.8027122959,
+          6637665.277168641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747259",
+        "INSEE_COM": "58199",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Onlay",
+        "NOM_MAJUSC": "ONLAY",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801994",
+        "SURF_HA": 1978.47,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 567.336,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768064.815098291,
+          6652282.7138295835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747257",
+        "INSEE_COM": "58277",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Sermages",
+        "NOM_MAJUSC": "SERMAGES",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215802778",
+        "SURF_HA": 2246.04,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 424.769,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763874.2379271432,
+          6657509.464236632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745692",
+        "INSEE_COM": "58226",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Agnan",
+        "NOM_MAJUSC": "SAINT-AGNAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802265",
+        "SURF_HA": 2434.71,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 532.813,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782405.5784498263,
+          6691998.6584373005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745698",
+        "INSEE_COM": "58108",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Empury",
+        "NOM_MAJUSC": "EMPURY",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801085",
+        "SURF_HA": 1180.96,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 230.719,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762079.7770013257,
+          6694437.245762277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745697",
+        "INSEE_COM": "58216",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Pouques-Lormes",
+        "NOM_MAJUSC": "POUQUES-LORMES",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215802166",
+        "SURF_HA": 1414.86,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 386.826,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          758734.7158529661,
+          6691844.591976863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746541",
+        "INSEE_COM": "58183",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Mouron-sur-Yonne",
+        "NOM_MAJUSC": "MOURON-SUR-YONNE",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215801838",
+        "SURF_HA": 1102.27,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 163.903,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          756005.8572195324,
+          6677861.895680171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745696",
+        "INSEE_COM": "58049",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Chalaux",
+        "NOM_MAJUSC": "CHALAUX",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800491",
+        "SURF_HA": 1017.05,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 218.863,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768919.7748049335,
+          6692914.218412969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745699",
+        "INSEE_COM": "58023",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Bazoches",
+        "NOM_MAJUSC": "BAZOCHES",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800236",
+        "SURF_HA": 1477.09,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 425.01,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759942.8526948832,
+          6696812.660091722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746536",
+        "INSEE_COM": "58125",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Gien-sur-Cure",
+        "NOM_MAJUSC": "GIEN-SUR-CURE",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801259",
+        "SURF_HA": 1102.9,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 337.809,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782606.9279436184,
+          6672283.224303655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747710",
+        "INSEE_COM": "58074",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Chiddes",
+        "NOM_MAJUSC": "CHIDDES",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215800749",
+        "SURF_HA": 2612.98,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1051.251,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770813.8702240547,
+          6640627.313252438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747023",
+        "INSEE_COM": "58244",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Hilaire-en-Morvan",
+        "NOM_MAJUSC": "SAINT-HILAIRE-EN-MORVAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802448",
+        "SURF_HA": 2133.62,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 625.582,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767318.4478453365,
+          6663510.680139881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746540",
+        "INSEE_COM": "58166",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Mhère",
+        "NOM_MAJUSC": "MHÈRE",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215801663",
+        "SURF_HA": 2520.64,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1007.583,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765118.4935535258,
+          6677513.940298541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746249",
+        "INSEE_COM": "58180",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Montsauche-les-Settons",
+        "NOM_MAJUSC": "MONTSAUCHE-LES-SETTONS",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801804",
+        "SURF_HA": 4636.77,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1575.081,
+        "NB_Chauf19": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778190.6287159958,
+          6679844.489505921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746776",
+        "INSEE_COM": "58141",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Lavault-de-Frétoy",
+        "NOM_MAJUSC": "LAVAULT-DE-FRÉTOY",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801416",
+        "SURF_HA": 1528.01,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 226.109,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777442.3749708331,
+          6667748.81650659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746539",
+        "INSEE_COM": "58177",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Montigny-en-Morvan",
+        "NOM_MAJUSC": "MONTIGNY-EN-MORVAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801770",
+        "SURF_HA": 2136.65,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 15658.469,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765321.9290839145,
+          6671904.009952719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746775",
+        "INSEE_COM": "58210",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Planchez",
+        "NOM_MAJUSC": "PLANCHEZ",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802109",
+        "SURF_HA": 4397.26,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1005.187,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777773.657149187,
+          6671870.78158667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745972",
+        "INSEE_COM": "58106",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Dun-les-Places",
+        "NOM_MAJUSC": "DUN-LES-PLACES",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801069",
+        "SURF_HA": 4520.92,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1113.153,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777058.4237930198,
+          6688203.149655721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746781",
+        "INSEE_COM": "58034",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Blismes",
+        "NOM_MAJUSC": "BLISMES",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800343",
+        "SURF_HA": 2694.05,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 525.514,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762279.173723744,
+          6669459.09330541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746250",
+        "INSEE_COM": "58129",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Gouloux",
+        "NOM_MAJUSC": "GOULOUX",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801291",
+        "SURF_HA": 2193.89,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 771.666,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781981.361402772,
+          6681708.318838315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747025",
+        "INSEE_COM": "58262",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Péreuse",
+        "NOM_MAJUSC": "SAINT-PÉREUSE",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802620",
+        "SURF_HA": 1646.61,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 506.844,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761428.1557352059,
+          6662360.692874983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745973",
+        "INSEE_COM": "58037",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Brassy",
+        "NOM_MAJUSC": "BRASSY",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800376",
+        "SURF_HA": 5666.18,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1429.936,
+        "NB_Chauf19": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770616.2046433701,
+          6685254.436827987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746252",
+        "INSEE_COM": "58305",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Vauclaix",
+        "NOM_MAJUSC": "VAUCLAIX",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215803057",
+        "SURF_HA": 1456.74,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 413.604,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761930.416389917,
+          6681059.174050375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746535",
+        "INSEE_COM": "58185",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Moux-en-Morvan",
+        "NOM_MAJUSC": "MOUX-EN-MORVAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801853",
+        "SURF_HA": 4462.75,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1486.631,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785615.4401201876,
+          6674973.865628418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746778",
+        "INSEE_COM": "58066",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Châtin",
+        "NOM_MAJUSC": "CHÂTIN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800665",
+        "SURF_HA": 1301.58,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 302.916,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766924.7677355979,
+          6667337.77817198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747020",
+        "INSEE_COM": "58010",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Arleuf",
+        "NOM_MAJUSC": "ARLEUF",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800103",
+        "SURF_HA": 6014.47,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2365.947,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777118.8336080099,
+          6660520.322821164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746251",
+        "INSEE_COM": "58120",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Gâcogne",
+        "NOM_MAJUSC": "GÂCOGNE",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215801200",
+        "SURF_HA": 2562.01,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 888.584,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766449.6878672743,
+          6681808.857780726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746779",
+        "INSEE_COM": "58107",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Dun-sur-Grandry",
+        "NOM_MAJUSC": "DUN-SUR-GRANDRY",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215801077",
+        "SURF_HA": 1189.89,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 339.485,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          760663.7852841378,
+          6665793.368298715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746248",
+        "INSEE_COM": "58003",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Alligny-en-Morvan",
+        "NOM_MAJUSC": "ALLIGNY-EN-MORVAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800038",
+        "SURF_HA": 4893.19,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1742.553,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788817.8901293589,
+          6679490.562430113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745971",
+        "INSEE_COM": "58235",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Brisson",
+        "NOM_MAJUSC": "SAINT-BRISSON",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802356",
+        "SURF_HA": 2991.03,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1178.465,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782793.6984635018,
+          6685790.8645787565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746538",
+        "INSEE_COM": "58068",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Chaumard",
+        "NOM_MAJUSC": "CHAUMARD",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800681",
+        "SURF_HA": 1988.69,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 592.203,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769223.7095921575,
+          6672096.758854454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746537",
+        "INSEE_COM": "58205",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Ouroux-en-Morvan",
+        "NOM_MAJUSC": "OUROUX-EN-MORVAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802059",
+        "SURF_HA": 6069.35,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1743.537,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772155.4691351916,
+          6676983.170256078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747024",
+        "INSEE_COM": "58099",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Dommartin",
+        "NOM_MAJUSC": "DOMMARTIN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800996",
+        "SURF_HA": 1355.02,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 553.223,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764180.5115887257,
+          6663824.948449793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747021",
+        "INSEE_COM": "58063",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Château-Chinon (Campagne)",
+        "NOM_MAJUSC": "CHÂTEAU-CHINON (CAMPAGNE)",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800632",
+        "SURF_HA": 2855.45,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1040.233,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771413.2463666867,
+          6662179.504512757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747022",
+        "INSEE_COM": "58062",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Château-Chinon (Ville)",
+        "NOM_MAJUSC": "CHÂTEAU-CHINON (VILLE)",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800624",
+        "SURF_HA": 417.78,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 4878.543,
+        "NB_Chauf19": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770408.0834500433,
+          6662903.933852065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747709",
+        "INSEE_COM": "58140",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Larochemillay",
+        "NOM_MAJUSC": "LAROCHEMILLAY",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215801408",
+        "SURF_HA": 4040.9,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 886.677,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775006.6967506702,
+          6643817.653267588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747712",
+        "INSEE_COM": "58246",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Honoré-les-Bains",
+        "NOM_MAJUSC": "SAINT-HONORÉ-LES-BAINS",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215802463",
+        "SURF_HA": 2510.99,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1377.738,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764998.5485558807,
+          6644745.607887802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747936",
+        "INSEE_COM": "58149",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Luzy",
+        "NOM_MAJUSC": "LUZY",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215801499",
+        "SURF_HA": 4198.23,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2629.874,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776162.8791370097,
+          6633422.060588623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747493",
+        "INSEE_COM": "58219",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Préporché",
+        "NOM_MAJUSC": "PRÉPORCHÉ",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215802190",
+        "SURF_HA": 2971.41,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 420.265,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765717.3042917203,
+          6648799.310236366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746253",
+        "INSEE_COM": "58047",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Cervon",
+        "NOM_MAJUSC": "CERVON",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215800475",
+        "SURF_HA": 5415.95,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1443.915,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          756917.9808191567,
+          6682459.728518996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745695",
+        "INSEE_COM": "58255",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-Martin-du-Puy",
+        "NOM_MAJUSC": "SAINT-MARTIN-DU-PUY",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802554",
+        "SURF_HA": 3081.95,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 4475.149,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766091.5657257983,
+          6692636.597942541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745694",
+        "INSEE_COM": "58157",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Marigny-l'Église",
+        "NOM_MAJUSC": "MARIGNY-L'ÉGLISE",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801572",
+        "SURF_HA": 3992.8,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 811.969,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771068.575282841,
+          6694321.767680978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745411",
+        "INSEE_COM": "58229",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Saint-André-en-Morvan",
+        "NOM_MAJUSC": "SAINT-ANDRÉ-EN-MORVAN",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215802299",
+        "SURF_HA": 2288.29,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 908.118,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764552.6573906385,
+          6700158.271445116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745975",
+        "INSEE_COM": "58145",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Lormes",
+        "NOM_MAJUSC": "LORMES",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801457",
+        "SURF_HA": 5200.58,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2609.37,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762376.187882267,
+          6687973.574901215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747491",
+        "INSEE_COM": "58128",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Glux-en-Glenne",
+        "NOM_MAJUSC": "GLUX-EN-GLENNE",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215801283",
+        "SURF_HA": 2197.79,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1685.42,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777662.7328995869,
+          6651180.154177445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746777",
+        "INSEE_COM": "58082",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Corancy",
+        "NOM_MAJUSC": "CORANCY",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "COM_SIREN": "215800822",
+        "SURF_HA": 3014.59,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1260.965,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772769.1464218341,
+          6667768.106493084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746542",
+        "INSEE_COM": "58179",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Montreuillon",
+        "NOM_MAJUSC": "MONTREUILLON",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": "215801796",
+        "SURF_HA": 3573.98,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 816.631,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759957.7436730682,
+          6674871.066755644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747938",
+        "INSEE_COM": "58114",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "NOM": "Fléty",
+        "NOM_MAJUSC": "FLÉTY",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": "215801143",
+        "SURF_HA": 2025.82,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 388.053,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769156.4029137478,
+          6633640.81198188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745404",
+        "INSEE_COM": "89349",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Saint-Léger-Vauban",
+        "NOM_MAJUSC": "SAINT-LÉGER-VAUBAN",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903490",
+        "SURF_HA": 3388.93,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 4959.331,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780011.3194262086,
+          6697506.663051448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745693",
+        "INSEE_COM": "89318",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Quarré-les-Tombes",
+        "NOM_MAJUSC": "QUARRÉ-LES-TOMBES",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903185",
+        "SURF_HA": 4664.39,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1403.133,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775741.6749334083,
+          6695765.219799229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745410",
+        "INSEE_COM": "89089",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Chastellux-sur-Cure",
+        "NOM_MAJUSC": "CHASTELLUX-SUR-CURE",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218900892",
+        "SURF_HA": 1054.68,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 373.86,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766724.6874062817,
+          6698737.143044994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745106",
+        "INSEE_COM": "89170",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Foissy-lès-Vézelay",
+        "NOM_MAJUSC": "FOISSY-LÈS-VÉZELAY",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218901700",
+        "SURF_HA": 569.17,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 235.948,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          757201.3267730081,
+          6704375.42000192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745104",
+        "INSEE_COM": "89364",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Saint-Père",
+        "NOM_MAJUSC": "SAINT-PÈRE",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903649",
+        "SURF_HA": 1573.19,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 624.749,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          758468.95544209,
+          6707029.6376656685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745409",
+        "INSEE_COM": "89347",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Saint-Germain-des-Champs",
+        "NOM_MAJUSC": "SAINT-GERMAIN-DES-CHAMPS",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903474",
+        "SURF_HA": 3647.32,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 6119.878,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769452.6642396776,
+          6702321.085946437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745413",
+        "INSEE_COM": "89145",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Domecy-sur-Cure",
+        "NOM_MAJUSC": "DOMECY-SUR-CURE",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218901452",
+        "SURF_HA": 2069.48,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 56262.067,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761377.5984561288,
+          6701422.547293426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745412",
+        "INSEE_COM": "89297",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Pierre-Perthuis",
+        "NOM_MAJUSC": "PIERRE-PERTHUIS",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218902971",
+        "SURF_HA": 747.05,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2750.119,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759638.3628081308,
+          6703915.842253962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745109",
+        "INSEE_COM": "89021",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Asquins",
+        "NOM_MAJUSC": "ASQUINS",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218900215",
+        "SURF_HA": 2174.28,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1038.922,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          756263.5020572664,
+          6709984.221619107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745105",
+        "INSEE_COM": "89248",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Menades",
+        "NOM_MAJUSC": "MENADES",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218902484",
+        "SURF_HA": 573.21,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 138.215,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762616.4211110234,
+          6705061.983762809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745415",
+        "INSEE_COM": "89176",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Fontenay-près-Vézelay",
+        "NOM_MAJUSC": "FONTENAY-PRÈS-VÉZELAY",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218901767",
+        "SURF_HA": 1578.91,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 473.6,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          755790.8812221141,
+          6701926.987403496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745102",
+        "INSEE_COM": "89025",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Avallon",
+        "NOM_MAJUSC": "AVALLON",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218900256",
+        "SURF_HA": 2668.43,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 3771.564,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769001.868439795,
+          6709520.5988778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745099",
+        "INSEE_COM": "89235",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Magny",
+        "NOM_MAJUSC": "MAGNY",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218902351",
+        "SURF_HA": 3052.13,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1610.041,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          773158.0753855052,
+          6708208.473373083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745096",
+        "INSEE_COM": "89351",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Sainte-Magnance",
+        "NOM_MAJUSC": "SAINTE-MAGNANCE",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903516",
+        "SURF_HA": 1945.34,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 636.121,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781742.225660298,
+          6706368.080110571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745101",
+        "INSEE_COM": "89203",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Island",
+        "NOM_MAJUSC": "ISLAND",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218902039",
+        "SURF_HA": 2069.04,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 400.261,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764521.7035502536,
+          6706964.290720385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745406",
+        "INSEE_COM": "89032",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Beauvilliers",
+        "NOM_MAJUSC": "BEAUVILLIERS",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218900322",
+        "SURF_HA": 629.04,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 266.158,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778131.3341627094,
+          6701956.382477746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745405",
+        "INSEE_COM": "89058",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Bussières",
+        "NOM_MAJUSC": "BUSSIÈRES",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218900587",
+        "SURF_HA": 1179.12,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 306.157,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779362.4566743348,
+          6703561.860877618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745100",
+        "INSEE_COM": "89306",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Pontaubert",
+        "NOM_MAJUSC": "PONTAUBERT",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903060",
+        "SURF_HA": 386.57,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 574.918,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765551.8839971549,
+          6710602.6572092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745108",
+        "INSEE_COM": "89446",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Vézelay",
+        "NOM_MAJUSC": "VÉZELAY",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218904464",
+        "SURF_HA": 2203.41,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 675.371,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          753573.5711774839,
+          6705976.899892181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745103",
+        "INSEE_COM": "89409",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Tharoiseau",
+        "NOM_MAJUSC": "THAROISEAU",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218904092",
+        "SURF_HA": 346.17,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 152.147,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761250.7573884156,
+          6707319.230032554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745408",
+        "INSEE_COM": "89336",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "NOM": "Saint-Brancher",
+        "NOM_MAJUSC": "SAINT-BRANCHER",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "COM_SIREN": "218903367",
+        "SURF_HA": 2224.17,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 715.743,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774652.1710554758,
+          6703704.5225339355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745401",
+        "INSEE_COM": "21548",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Saint-Germain-de-Modéon",
+        "NOM_MAJUSC": "SAINT-GERMAIN-DE-MODÉON",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212105480",
+        "SURF_HA": 1659.83,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 357.152,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784836.0837850467,
+          6697479.6948098065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745690",
+        "INSEE_COM": "21422",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Molphey",
+        "NOM_MAJUSC": "MOLPHEY",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212104228",
+        "SURF_HA": 765.8,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 262.458,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791107.1493865781,
+          6693547.564814702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745688",
+        "INSEE_COM": "21328",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Juillenay",
+        "NOM_MAJUSC": "JUILLENAY",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212103287",
+        "SURF_HA": 547.53,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 103.865,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795986.6933048846,
+          6696486.725706353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745687",
+        "INSEE_COM": "21445",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "La Motte-Ternant",
+        "NOM_MAJUSC": "LA MOTTE-TERNANT",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212104459",
+        "SURF_HA": 2171.84,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 451.371,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800265.4694046832,
+          6691520.061398031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745394",
+        "INSEE_COM": "21678",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Vic-sous-Thil",
+        "NOM_MAJUSC": "VIC-SOUS-THIL",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212106785",
+        "SURF_HA": 2153.53,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 504.588,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799405.5042923217,
+          6697119.96792875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745689",
+        "INSEE_COM": "21434",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Montlay-en-Auxois",
+        "NOM_MAJUSC": "MONTLAY-EN-AUXOIS",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212104343",
+        "SURF_HA": 1748.95,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 358.3,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795736.1604333007,
+          6693128.64090283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745403",
+        "INSEE_COM": "21525",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "La Roche-en-Brenil",
+        "NOM_MAJUSC": "LA ROCHE-EN-BRENIL",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212105258",
+        "SURF_HA": 5159.09,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1937.33,
+        "NB_Chauf19": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788369.6703211935,
+          6698594.921192303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745691",
+        "INSEE_COM": "21335",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Lacour-d'Arcenay",
+        "NOM_MAJUSC": "LACOUR-D'ARCENAY",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212103352",
+        "SURF_HA": 2047.59,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 282.635,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793232.3516639548,
+          6696250.598884307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746530",
+        "INSEE_COM": "21675",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Vianges",
+        "NOM_MAJUSC": "VIANGES",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212106751",
+        "SURF_HA": 882.92,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 126.28,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800379.0064633376,
+          6674761.359181961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746769",
+        "INSEE_COM": "21593",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Savilly",
+        "NOM_MAJUSC": "SAVILLY",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212105936",
+        "SURF_HA": 833.21,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 270.462,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796911.9037896402,
+          6669841.071082767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745966",
+        "INSEE_COM": "21687",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Villargoix",
+        "NOM_MAJUSC": "VILLARGOIX",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212106876",
+        "SURF_HA": 1787.27,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 333.625,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797557.987215555,
+          6688777.436185661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746533",
+        "INSEE_COM": "21703",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Villiers-en-Morvan",
+        "NOM_MAJUSC": "VILLIERS-EN-MORVAN",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212107031",
+        "SURF_HA": 671.25,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 127.098,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795455.2288154652,
+          6672177.225131301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746532",
+        "INSEE_COM": "21046",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Bard-le-Régulier",
+        "NOM_MAJUSC": "BARD-LE-RÉGULIER",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212100465",
+        "SURF_HA": 910.49,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 169.338,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798630.4809600787,
+          6672591.249610089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746531",
+        "INSEE_COM": "21102",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Brazey-en-Morvan",
+        "NOM_MAJUSC": "BRAZEY-EN-MORVAN",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212101026",
+        "SURF_HA": 1723.0,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 374.096,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796713.3853810907,
+          6675460.72577839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746245",
+        "INSEE_COM": "21349",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Liernais",
+        "NOM_MAJUSC": "LIERNAIS",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212103493",
+        "SURF_HA": 2850.38,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1250.502,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797521.3205935657,
+          6680725.581330693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746247",
+        "INSEE_COM": "21560",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Saint-Martin-de-la-Mer",
+        "NOM_MAJUSC": "SAINT-MARTIN-DE-LA-MER",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212105605",
+        "SURF_HA": 2343.63,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 798.039,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793017.018610277,
+          6682631.879416437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746773",
+        "INSEE_COM": "21403",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Ménessaire",
+        "NOM_MAJUSC": "MÉNESSAIRE",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212104038",
+        "SURF_HA": 1507.28,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 205.698,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787372.7437588791,
+          6670994.935253957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745968",
+        "INSEE_COM": "21584",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Saulieu",
+        "NOM_MAJUSC": "SAULIEU",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212105845",
+        "SURF_HA": 3265.15,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2864.887,
+        "NB_Chauf19": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793134.0650601863,
+          6687808.782229968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745969",
+        "INSEE_COM": "21139",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Champeau-en-Morvan",
+        "NOM_MAJUSC": "CHAMPEAU-EN-MORVAN",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212101398",
+        "SURF_HA": 3471.62,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 582.885,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787417.1183330767,
+          6686514.56166946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746534",
+        "INSEE_COM": "21083",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Blanot",
+        "NOM_MAJUSC": "BLANOT",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": "212100838",
+        "SURF_HA": 1832.42,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 369.624,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793598.503980019,
+          6676102.769818919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745967",
+        "INSEE_COM": "21629",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Thoisy-la-Berchère",
+        "NOM_MAJUSC": "THOISY-LA-BERCHÈRE",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212106298",
+        "SURF_HA": 3502.99,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 704.685,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800744.4275875521,
+          6685305.229888156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745970",
+        "INSEE_COM": "21546",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Saint-Didier",
+        "NOM_MAJUSC": "SAINT-DIDIER",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212105464",
+        "SURF_HA": 2154.59,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 531.667,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788631.2893140018,
+          6691338.483854861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745402",
+        "INSEE_COM": "21531",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Rouvray",
+        "NOM_MAJUSC": "ROUVRAY",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212105316",
+        "SURF_HA": 943.42,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 766.123,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783744.1525158642,
+          6702513.023758746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745407",
+        "INSEE_COM": "21538",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Saint-Andeux",
+        "NOM_MAJUSC": "SAINT-ANDEUX",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "COM_SIREN": "212105381",
+        "SURF_HA": 1186.48,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 244.047,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782438.6216478398,
+          6699983.690270697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745396",
+        "INSEE_COM": "21505",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Précy-sous-Thil",
+        "NOM_MAJUSC": "PRÉCY-SOUS-THIL",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212105050",
+        "SURF_HA": 862.86,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 845.765,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799309.0003330541,
+          6700927.643350967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745398",
+        "INSEE_COM": "21007",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Aisy-sous-Thil",
+        "NOM_MAJUSC": "AISY-SOUS-THIL",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212100077",
+        "SURF_HA": 847.22,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 397.372,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796460.868207907,
+          6700036.76631653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745400",
+        "INSEE_COM": "21232",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Dompierre-en-Morvan",
+        "NOM_MAJUSC": "DOMPIERRE-EN-MORVAN",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212102321",
+        "SURF_HA": 1533.63,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 643.184,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792881.0278514405,
+          6700754.510898494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009745399",
+        "INSEE_COM": "21430",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "NOM": "Montigny-Saint-Barthélemy",
+        "NOM_MAJUSC": "MONTIGNY-SAINT-BARTHÉLEMY",
+        "EPCI_NOM": "CC des Terres d'Auxois",
+        "SIREN_EPCI": "200071017",
+        "COM_SIREN": "212104301",
+        "SURF_HA": 623.75,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 182.077,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795146.1056401553,
+          6702970.747534377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009748137",
+        "INSEE_COM": "71098",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Charbonnat",
+        "NOM_MAJUSC": "CHARBONNAT",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100981",
+        "SURF_HA": 2233.73,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 474.377,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785028.1329507969,
+          6631600.785634127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747255",
+        "INSEE_COM": "71472",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Saint-Prix",
+        "NOM_MAJUSC": "SAINT-PRIX",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217104728",
+        "SURF_HA": 3419.65,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 603.466,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780646.3629960672,
+          6652937.306381123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747932",
+        "INSEE_COM": "71537",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Thil-sur-Arroux",
+        "NOM_MAJUSC": "THIL-SUR-ARROUX",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217105378",
+        "SURF_HA": 1348.35,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 324.318,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783296.7741521784,
+          6634350.436512232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747487",
+        "INSEE_COM": "71014",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Autun",
+        "NOM_MAJUSC": "AUTUN",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100148",
+        "SURF_HA": 6175.85,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 44747.345,
+        "NB_Chauf19": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799688.615345823,
+          6650356.430719341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747928",
+        "INSEE_COM": "71551",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Uchon",
+        "NOM_MAJUSC": "UCHON",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217105519",
+        "SURF_HA": 1194.74,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 259.777,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796222.5013086919,
+          6635093.534892661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747707",
+        "INSEE_COM": "71142",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Comelle",
+        "NOM_MAJUSC": "LA COMELLE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217101427",
+        "SURF_HA": 2275.47,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 468.88,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785235.6910113354,
+          6642909.40486301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747254",
+        "INSEE_COM": "71223",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Grande-Verrière",
+        "NOM_MAJUSC": "LA GRANDE-VERRIÈRE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217102235",
+        "SURF_HA": 4665.05,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1718.369,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786745.3216379781,
+          6652707.045806369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747705",
+        "INSEE_COM": "71297",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Mesvres",
+        "NOM_MAJUSC": "MESVRES",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217102979",
+        "SURF_HA": 2346.63,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1238.069,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795479.3005884812,
+          6641885.88907345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747933",
+        "INSEE_COM": "71466",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Saint-Nizier-sur-Arroux",
+        "NOM_MAJUSC": "SAINT-NIZIER-SUR-ARROUX",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217104660",
+        "SURF_HA": 1019.31,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 219.335,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788351.225769703,
+          6635620.090819845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747930",
+        "INSEE_COM": "71531",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Tagnière",
+        "NOM_MAJUSC": "LA TAGNIÈRE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217105311",
+        "SURF_HA": 3413.3,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 619.424,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792687.8623897373,
+          6633663.500336406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747251",
+        "INSEE_COM": "71535",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Tavernay",
+        "NOM_MAJUSC": "TAVERNAY",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217105352",
+        "SURF_HA": 2580.74,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 794.847,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793861.0545854543,
+          6657152.709033721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747706",
+        "INSEE_COM": "71192",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Étang-sur-Arroux",
+        "NOM_MAJUSC": "ÉTANG-SUR-ARROUX",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217101922",
+        "SURF_HA": 3460.79,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 3129.405,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789831.3184957382,
+          6640608.486332065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747252",
+        "INSEE_COM": "71509",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Celle-en-Morvan",
+        "NOM_MAJUSC": "LA CELLE-EN-MORVAN",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217105097",
+        "SURF_HA": 2018.41,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 810.153,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789585.5306200463,
+          6657009.885483181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009748134",
+        "INSEE_COM": "71411",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Saint-Eugène",
+        "NOM_MAJUSC": "SAINT-EUGÈNE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217104116",
+        "SURF_HA": 3534.2,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 451.128,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793131.8961330133,
+          6626256.229682642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009748135",
+        "INSEE_COM": "71172",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Dettey",
+        "NOM_MAJUSC": "DETTEY",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217101724",
+        "SURF_HA": 2253.1,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 347.593,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790596.2402731258,
+          6630407.523677943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009748138",
+        "INSEE_COM": "71046",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Boulaye",
+        "NOM_MAJUSC": "LA BOULAYE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100460",
+        "SURF_HA": 1392.57,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 175.712,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787861.5689842016,
+          6627002.6625526715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746768",
+        "INSEE_COM": "71020",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Barnay",
+        "NOM_MAJUSC": "BARNAY",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100205",
+        "SURF_HA": 1550.89,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 233.654,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800235.7998272452,
+          6665848.496441995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746767",
+        "INSEE_COM": "71266",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Lucenay-l'Évêque",
+        "NOM_MAJUSC": "LUCENAY-L'ÉVÊQUE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217102664",
+        "SURF_HA": 2537.71,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 540.514,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795659.9277688342,
+          6665646.234969983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747019",
+        "INSEE_COM": "71349",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Petite-Verrière",
+        "NOM_MAJUSC": "LA PETITE-VERRIÈRE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217103498",
+        "SURF_HA": 983.38,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 125.168,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788590.8975827874,
+          6661230.364350476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746772",
+        "INSEE_COM": "71165",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Cussy-en-Morvan",
+        "NOM_MAJUSC": "CUSSY-EN-MORVAN",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217101658",
+        "SURF_HA": 3500.78,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1430.153,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788203.5584161141,
+          6666554.838859009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747017",
+        "INSEE_COM": "71527",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Sommant",
+        "NOM_MAJUSC": "SOMMANT",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217105279",
+        "SURF_HA": 2059.18,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 445.561,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791824.4418642961,
+          6662184.517675205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746771",
+        "INSEE_COM": "71129",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Chissey-en-Morvan",
+        "NOM_MAJUSC": "CHISSEY-EN-MORVAN",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217101294",
+        "SURF_HA": 2996.49,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 667.484,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792107.6322130463,
+          6669714.055715069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746774",
+        "INSEE_COM": "71009",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Anost",
+        "NOM_MAJUSC": "ANOST",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100098",
+        "SURF_HA": 5193.38,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 2070.082,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782888.0230411171,
+          6664632.226947418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747704",
+        "INSEE_COM": "71063",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Broye",
+        "NOM_MAJUSC": "BROYE",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100635",
+        "SURF_HA": 2867.07,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 1281.581,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          799609.5938886286,
+          6644018.114124453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747490",
+        "INSEE_COM": "71440",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Saint-Léger-sous-Beuvray",
+        "NOM_MAJUSC": "SAINT-LÉGER-SOUS-BEUVRAY",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217104405",
+        "SURF_HA": 3510.32,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 877.162,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783151.8817803883,
+          6647112.43856247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747253",
+        "INSEE_COM": "71313",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Monthelon",
+        "NOM_MAJUSC": "MONTHELON",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217103134",
+        "SURF_HA": 2470.38,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 563.258,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792886.4337673472,
+          6651678.945484251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747934",
+        "INSEE_COM": "71407",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Saint-Didier-sur-Arroux",
+        "NOM_MAJUSC": "SAINT-DIDIER-SUR-ARROUX",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217104074",
+        "SURF_HA": 2804.58,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 642.209,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783863.2492408929,
+          6637543.509109128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747018",
+        "INSEE_COM": "71376",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "Roussillon-en-Morvan",
+        "NOM_MAJUSC": "ROUSSILLON-EN-MORVAN",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217103761",
+        "SURF_HA": 3059.53,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 8368.425,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783901.0225028674,
+          6658494.65363733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747931",
+        "INSEE_COM": "71096",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "NOM": "La Chapelle-sous-Uchon",
+        "NOM_MAJUSC": "LA CHAPELLE-SOUS-UCHON",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "COM_SIREN": "217100965",
+        "SURF_HA": 1660.87,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "CHARTE": "2020-2035",
+        "cc": 501.346,
+        "NB_Chauf19": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794782.6216079447,
+          6637980.828161526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746526",
+        "INSEE_COM": "21023",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": null,
+        "NOM": "Arnay-le-Duc",
+        "NOM_MAJUSC": null,
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "COM_SIREN": null,
+        "SURF_HA": 1202.24,
+        "STATUT": "PARTENAIRE",
+        "CHARTE": "2020-2035",
+        "cc": 1625.852,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          812163.7228769279,
+          6670734.648314334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746254",
+        "INSEE_COM": "58083",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": null,
+        "NOM": "Corbigny",
+        "NOM_MAJUSC": null,
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "COM_SIREN": null,
+        "SURF_HA": 2018.18,
+        "STATUT": "PARTENAIRE",
+        "CHARTE": "2020-2035",
+        "cc": 1821.309,
+        "NB_Chauf19": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          752136.1349931872,
+          6684204.897704348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747030",
+        "INSEE_COM": "58065",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": null,
+        "NOM": "Châtillon-en-Bazois",
+        "NOM_MAJUSC": null,
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "COM_SIREN": null,
+        "SURF_HA": 1933.64,
+        "STATUT": "PARTENAIRE",
+        "CHARTE": "2020-2035",
+        "cc": 1324.848,
+        "NB_Chauf19": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          749964.4935507072,
+          6661880.146829396
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "619446f7873fb81f3e5506cd",
+    "dataset_name": "Chaufferies bois dans le PNR du Morvan",
+    "resource_id": "e080d369-2be3-4e56-9230-6e36f144ec44",
+    "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+    "layer": "energie/chaufferies-bois",
+    "fetched_at": "2026-03-12T21:07:49.823067+00:00"
+  }
+}

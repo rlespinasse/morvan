@@ -1,0 +1,571 @@
+{
+  "type": "FeatureCollection",
+  "name": "Lieux_Particuliers_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 1,
+        "NOM": "Colline de Vézelay",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=07",
+        "ENTITE": 3,
+        "TYPE": "belvédère",
+        "CoordX": 756483.9167972672,
+        "CoordY": 6707661.040036637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          756483.9167972672,
+          6707661.040036637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 2,
+        "NOM": "Eperon Saint André",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=04",
+        "ENTITE": 1,
+        "TYPE": "éperon",
+        "CoordX": 764693.4990167076,
+        "CoordY": 6699671.591818413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764693.4990167078,
+          6699671.591818413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 5,
+        "NOM": "Domaine de Drémont",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=08",
+        "ENTITE": 12,
+        "TYPE": "domaine",
+        "CoordX": 757499.3677558396,
+        "CoordY": 6692457.266868487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          757499.3677558396,
+          6692457.266868488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 3,
+        "NOM": "Confluence du Crescent",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=05",
+        "ENTITE": 1,
+        "TYPE": "lac",
+        "CoordX": 768641.952343274,
+        "CoordY": 6698439.288332266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768641.952343274,
+          6698439.288332266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 4,
+        "NOM": "Domaine de Vésigneux",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=06",
+        "ENTITE": 1,
+        "TYPE": "domaine",
+        "CoordX": 765957.5704042377,
+        "CoordY": 6695530.139819792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765957.5704042377,
+          6695530.139819792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 13,
+        "NOM": "Chapelle du Banquet",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=23",
+        "ENTITE": 4,
+        "TYPE": "belvédère",
+        "CoordX": 767118.0538479846,
+        "CoordY": 6678139.013202764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767118.0538479846,
+          6678139.013202764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 6,
+        "NOM": "Lac de Chaumeçon",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=12",
+        "ENTITE": 2,
+        "TYPE": "lac",
+        "CoordX": 769217.4279802524,
+        "CoordY": 6688586.760262043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769217.4279802525,
+          6688586.760262043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 7,
+        "NOM": "Eperon de Vieux-Dun",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=10",
+        "ENTITE": 2,
+        "TYPE": "éperon",
+        "CoordX": 774845.3374806433,
+        "CoordY": 6690417.118845373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774845.3374806433,
+          6690417.118845373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 8,
+        "NOM": "Lac de Saint Agnan",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=18",
+        "ENTITE": 6,
+        "TYPE": "lac",
+        "CoordX": 782954.5333187574,
+        "CoordY": 6691847.070729345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782954.5333187574,
+          6691847.070729345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 9,
+        "NOM": "Cuvette d'Eschamps",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=19",
+        "ENTITE": 6,
+        "TYPE": "cuvette",
+        "CoordX": 786342.0357059783,
+        "CoordY": 6687912.799665077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786342.0357059783,
+          6687912.799665077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 10,
+        "NOM": "Lac de Chamboux",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=03",
+        "ENTITE": 8,
+        "TYPE": "lac",
+        "CoordX": 790085.0103887841,
+        "CoordY": 6684132.15372776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790085.0103887841,
+          6684132.15372776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 11,
+        "NOM": "Vallée secrète du Ternin",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=09",
+        "ENTITE": 8,
+        "TYPE": "vallée",
+        "CoordX": 789370.0911847356,
+        "CoordY": 6676264.178374567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789370.0911847356,
+          6676264.178374567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 12,
+        "NOM": "Barrage des Settons",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=11",
+        "ENTITE": 7,
+        "TYPE": "lac",
+        "CoordX": 780173.7082500815,
+        "CoordY": 6677740.083689544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780173.7082500815,
+          6677740.083689544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 14,
+        "NOM": "Gorges de l'Yonne",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=25",
+        "ENTITE": 11,
+        "TYPE": "vallée",
+        "CoordX": 758600.3980645702,
+        "CoordY": 6675960.781746733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          758600.3980645703,
+          6675960.781746733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 15,
+        "NOM": "Vallée de l'Oussière",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=13",
+        "ENTITE": 11,
+        "TYPE": "vallée",
+        "CoordX": 770719.2019212489,
+        "CoordY": 6671953.668895492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770719.2019212489,
+          6671953.668895492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 16,
+        "NOM": "Maison-Comte",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=24",
+        "ENTITE": 11,
+        "TYPE": "belvédère",
+        "CoordX": 771619.4053713401,
+        "CoordY": 6670821.778364348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771619.4053713401,
+          6670821.778364348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 17,
+        "NOM": "Belvédère de Château-Chinon",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=14",
+        "ENTITE": 16,
+        "TYPE": "belvédère",
+        "CoordX": 770908.3421671976,
+        "CoordY": 6663623.450313874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770908.3421671976,
+          6663623.450313873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 18,
+        "NOM": "Confluence de la Petite-Verrière",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=15",
+        "ENTITE": 9,
+        "TYPE": "vallée",
+        "CoordX": 787926.5217075925,
+        "CoordY": 6661650.924837459
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787926.5217075925,
+          6661650.924837459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 19,
+        "NOM": "Col de l'Echenault",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=16",
+        "ENTITE": 14,
+        "TYPE": "col",
+        "CoordX": 778612.4811740202,
+        "CoordY": 6649385.64081354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778612.4811740201,
+          6649385.64081354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 20,
+        "NOM": "Sommet du Mont Beuvray",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=17",
+        "ENTITE": 14,
+        "TYPE": "belvédère",
+        "CoordX": 778876.392881233,
+        "CoordY": 6647256.538069297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778876.392881233,
+          6647256.538069296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 21,
+        "NOM": "Eperon de Larochemillay",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=20",
+        "ENTITE": 14,
+        "TYPE": "éperon",
+        "CoordX": 776266.6681036884,
+        "CoordY": 6642401.529298464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776266.6681036884,
+          6642401.529298464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 22,
+        "NOM": "Route de crète Ste-Péreuse",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=21",
+        "ENTITE": 16,
+        "TYPE": "belvédère",
+        "CoordX": 761372.0317061575,
+        "CoordY": 6664236.368759795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761372.0317061575,
+          6664236.368759795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 23,
+        "NOM": "Route de crète de la Justice",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=22",
+        "ENTITE": 19,
+        "TYPE": "belvédère",
+        "CoordX": 787007.8254167892,
+        "CoordY": 6638841.905663506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787007.8254167892,
+          6638841.905663506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 26,
+        "NOM": "Mont Saint Jean",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=02",
+        "ENTITE": 20,
+        "TYPE": "belvédère",
+        "CoordX": 805923.5321592838,
+        "CoordY": 6688880.057578001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          805923.5321592838,
+          6688880.057578001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 25,
+        "NOM": "butte de Thil",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=01",
+        "ENTITE": 20,
+        "TYPE": "butte",
+        "CoordX": 800791.336463363,
+        "CoordY": 6699301.822227323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800791.336463363,
+          6699301.822227323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 27,
+        "NOM": "Uchon : les rochers du Carnaval",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=26",
+        "ENTITE": 22,
+        "TYPE": "belvédère",
+        "CoordX": 795585.0486349901,
+        "CoordY": 6634802.341574634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795585.0486349901,
+          6634802.341574634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 28,
+        "NOM": "La Vallée du Cousin et les Terrasses d'Avallon",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=28",
+        "ENTITE": 23,
+        "TYPE": "vallée",
+        "CoordX": 768431.2547287231,
+        "CoordY": 6709583.91468764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768431.2547287232,
+          6709583.91468764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 29,
+        "NOM": "Montréal : village du Moyen-Age",
+        "NOM_FIC": "http://paysage.parcdumorvan.org/page.php?lg=fr&rub=03&srub=02&ssrub=27",
+        "ENTITE": 23,
+        "TYPE": "belvédère",
+        "CoordX": 777955.5399909541,
+        "CoordY": 6716453.430475687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777955.5399909541,
+          6716453.430475687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 30,
+        "NOM": "Autun, nouvelle capitale éduenne",
+        "NOM_FIC": null,
+        "ENTITE": 13,
+        "TYPE": "Ville",
+        "CoordX": 798748.3216261865,
+        "CoordY": 6651039.961093744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798748.3216261865,
+          6651039.961093744
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a7983d6728b95d201e",
+    "dataset_name": "Lieux particuliers du PNR du Morvan",
+    "resource_id": "dda81a1b-40f9-4166-b1a6-51cee6e38cbf",
+    "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+    "layer": "patrimoine-culture/lieux-particuliers",
+    "fetched_at": "2026-03-12T21:06:49.820732+00:00"
+  }
+}

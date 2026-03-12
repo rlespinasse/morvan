@@ -1,0 +1,1460 @@
+{
+  "type": "FeatureCollection",
+  "name": "Lieux_CineCyclo_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "INSEE_COM": "21403",
+        "NOM_MAJUSC": "MÉNESSAIRE",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "Grande Rue"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            786996.3888774118,
+            6671162.110424626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "INSEE_COM": "89058",
+        "NOM_MAJUSC": "BUSSIÈRES",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "Les Ruats"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            779298.8474282818,
+            6704845.15072407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "INSEE_COM": "89349",
+        "NOM_MAJUSC": "SAINT-LÉGER-VAUBAN",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "24 route du Bon Rupt"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            781204.0003299906,
+            6698873.514686707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "INSEE_COM": "58211",
+        "NOM_MAJUSC": "POIL",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "16 route de Champrobert"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            781764.2540386756,
+            6641362.124030453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "INSEE_COM": "58010",
+        "NOM_MAJUSC": "ARLEUF",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "2 allée de Sombreffe"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            777898.6647106669,
+            6661137.462972323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "INSEE_COM": "89306",
+        "NOM_MAJUSC": "PONTAUBERT",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "10 route de Cousin"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            765346.0545263704,
+            6710215.3945010835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "INSEE_COM": "58235",
+        "NOM_MAJUSC": "SAINT-BRISSON",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Maison du Parc"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            783075.3197816631,
+            6686711.658511048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "INSEE_COM": "89235",
+        "NOM_MAJUSC": "MAGNY",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "13 grande rue, Etrée"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            774856.2093402952,
+            6709450.662708201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "INSEE_COM": "58037",
+        "NOM_MAJUSC": "BRASSY",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "Lieu-dit Velotte"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            773453.0649467481,
+            6684369.0888367575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "INSEE_COM": "58140",
+        "NOM_MAJUSC": "LAROCHEMILLAY",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "19 route de Luzy"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776141.6654986434,
+            6641914.623576403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "INSEE_COM": "58235",
+        "NOM_MAJUSC": "SAINT-BRISSON",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "Maidon du Parc"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            783049.137478718,
+            6686698.683352246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "INSEE_COM": "58106",
+        "NOM_MAJUSC": "DUN-LES-PLACES",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Rue du 26 juin 44"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776792.2159814758,
+            6687656.765514746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "INSEE_COM": "58235",
+        "NOM_MAJUSC": "SAINT-BRISSON",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "Maison du Parc"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            783064.8187212016,
+            6686706.578715242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "INSEE_COM": "58106",
+        "NOM_MAJUSC": "DUN-LES-PLACES",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "Rue du 26 juin 44"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776796.4501035184,
+            6687656.640981741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "INSEE_COM": "58180",
+        "NOM_MAJUSC": "MONTSAUCHE-LES-SETTONS",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "L'Huis Gaumont"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            779270.6185815653,
+            6676418.017711588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "INSEE_COM": "58180",
+        "NOM_MAJUSC": "MONTSAUCHE-LES-SETTONS",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "L'Huis Gaumont"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            779267.7356986825,
+            6676403.603297174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "INSEE_COM": "58180",
+        "NOM_MAJUSC": "MONTSAUCHE-LES-SETTONS",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "L'Huis Gaumont"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            779256.2041671509,
+            6676410.810504381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "INSEE_COM": "58235",
+        "NOM_MAJUSC": "SAINT-BRISSON",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Maison du Parc"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            783091.6078896775,
+            6686709.815811056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "INSEE_COM": "71009",
+        "NOM_MAJUSC": "ANOST",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Place de la Bascule"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            783460.784386727,
+            6664718.451185278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "INSEE_COM": "71009",
+        "NOM_MAJUSC": "ANOST",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "Place de la Bascule"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            783463.8977117583,
+            6664719.322916286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "INSEE_COM": "71014",
+        "NOM_MAJUSC": "AUTUN",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "6 boulevard du Maréchal Leclerc"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            799492.9593675028,
+            6652249.006558539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "INSEE_COM": "71014",
+        "NOM_MAJUSC": "AUTUN",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "6 boulevard du Maréchal Leclerc"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            799489.5969764692,
+            6652251.9953505695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "INSEE_COM": "58226",
+        "NOM_MAJUSC": "SAINT-AGNAN",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "Les Gueniffets (Domaine du Bois du Loup)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            782843.893365012,
+            6693211.646658161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "INSEE_COM": "58226",
+        "NOM_MAJUSC": "SAINT-AGNAN",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Les Gueniffets (Domaine du Bois du Loup)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            782825.9606128327,
+            6693188.234453927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "INSEE_COM": "21584",
+        "NOM_MAJUSC": "SAULIEU",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "rue du Maréchal de Lattre de Tassigny (devant l'église)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            793168.4317169401,
+            6686963.170840007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "INSEE_COM": "58003",
+        "NOM_MAJUSC": "ALLIGNY-EN-MORVAN",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "47.20021478231548, 4.1790559356343815 (salle des fêtes)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            789255.2068814947,
+            6678430.994357461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "INSEE_COM": "58010",
+        "NOM_MAJUSC": "ARLEUF",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Les Bardiaux"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776513.5506596017,
+            6662556.846735133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "INSEE_COM": "58106",
+        "NOM_MAJUSC": "DUN-LES-PLACES",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Rue du 26 juin 44 (devant l’église)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776794.123511407,
+            6687652.737146089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "INSEE_COM": "58034",
+        "NOM_MAJUSC": "BLISMES",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Le Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            762142.332792959,
+            6670472.680701638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "INSEE_COM": "58010",
+        "NOM_MAJUSC": "ARLEUF",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Le Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            777648.7531353036,
+            6660904.555225017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "INSEE_COM": "58037",
+        "NOM_MAJUSC": "BRASSY",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Le Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            770774.5009459261,
+            6685048.4431712385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "INSEE_COM": "58037",
+        "NOM_MAJUSC": "BRASSY",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "Route de la Grande Borne (stade)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            770567.7988510076,
+            6685390.87151905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "INSEE_COM": "21403",
+        "NOM_MAJUSC": "MÉNESSAIRE",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "SIREN_EPCI": "200071173",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "6 grande rue"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            786838.7300978352,
+            6671109.806564105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "INSEE_COM": "58180",
+        "NOM_MAJUSC": "MONTSAUCHE-LES-SETTONS",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Lac des Settons"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            781151.5569969626,
+            6676677.054384775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "INSEE_COM": "58062",
+        "NOM_MAJUSC": "CHÂTEAU-CHINON (VILLE)",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "2 place Saint-Christophe"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            770858.3500088503,
+            6663298.39660239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "INSEE_COM": "89176",
+        "NOM_MAJUSC": "FONTENAY-PRÈS-VÉZELAY",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "48 grande rue"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            757519.3275570623,
+            6702504.102852917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "INSEE_COM": "89176",
+        "NOM_MAJUSC": "FONTENAY-PRÈS-VÉZELAY",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "48 grande rue"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            757519.701156066,
+            6702497.004471846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "INSEE_COM": "71172",
+        "NOM_MAJUSC": "DETTEY",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Le Bourg (Mairie)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            790257.4475243025,
+            6629949.578693848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "INSEE_COM": "58107",
+        "NOM_MAJUSC": "DUN-SUR-GRANDRY",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "SIREN_EPCI": "200067882",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "Le Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            759988.9412252881,
+            6665270.807581887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "INSEE_COM": "71165",
+        "NOM_MAJUSC": "CUSSY-EN-MORVAN",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Le Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            788226.7885504311,
+            6666059.909375158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "INSEE_COM": "89318",
+        "NOM_MAJUSC": "QUARRÉ-LES-TOMBES",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "47.32931459313696, 4.009510867190343"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776243.451721334,
+            6692535.314699372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "INSEE_COM": "89297",
+        "NOM_MAJUSC": "PIERRE-PERTHUIS",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "47.43212757023749, 3.7864088503145013 (près des deux ponts)"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            759253.5184411765,
+            6703789.935732998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "INSEE_COM": "71192",
+        "NOM_MAJUSC": "ÉTANG-SUR-ARROUX",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "46.865254653718864, 4.194888784171483"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            791023.8843235977,
+            6641254.77787332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "INSEE_COM": "71192",
+        "NOM_MAJUSC": "ÉTANG-SUR-ARROUX",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "46.865254653718864, 4.194888784171483"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            791018.4048715429,
+            6641251.290949285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "INSEE_COM": "89336",
+        "NOM_MAJUSC": "SAINT-BRANCHER",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "Champs de derrière"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            775247.8148403361,
+            6703212.957768359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "INSEE_COM": "58128",
+        "NOM_MAJUSC": "GLUX-EN-GLENNE",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2021",
+        "adresse": "46.95535961930204, 4.010638774990655"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            776853.955748549,
+            6651062.016374496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "INSEE_COM": "89349",
+        "NOM_MAJUSC": "SAINT-LÉGER-VAUBAN",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "1 Huis Saint-Benoît"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            781148.821823077,
+            6695782.737557018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "INSEE_COM": "71531",
+        "NOM_MAJUSC": "LA TAGNIÈRE",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "Le Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            792655.5746775648,
+            6632772.975278605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "INSEE_COM": "71349",
+        "NOM_MAJUSC": "LA PETITE-VERRIÈRE",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "Le Moulin"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            788415.4750511639,
+            6660766.001430534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "INSEE_COM": "71223",
+        "NOM_MAJUSC": "LA GRANDE-VERRIÈRE",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2022",
+        "adresse": "Les Vignes"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            784440.381651413,
+            6650093.523223809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "INSEE_COM": "58111",
+        "NOM_MAJUSC": "FÂCHIN",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "2 route de la Bourrade"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            774631.1662093211,
+            6657743.58549031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "INSEE_COM": "58129",
+        "NOM_MAJUSC": "GOULOUX",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "Lavault"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            781138.264590392,
+            6683035.739911231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "INSEE_COM": "58305",
+        "NOM_MAJUSC": "VAUCLAIX",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "SIREN_EPCI": "200067692",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2019",
+        "adresse": "carrefour de Vauclaix"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            762510.9918631191,
+            6681293.896822814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "INSEE_COM": "58128",
+        "NOM_MAJUSC": "GLUX-EN-GLENNE",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2023",
+        "adresse": "Les Courreaux"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            778146.1101694702,
+            6653764.1334355185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "INSEE_COM": "89349",
+        "NOM_MAJUSC": "SAINT-LÉGER-VAUBAN",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2020",
+        "adresse": "La Comme"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            779992.4364459333,
+            6699184.058715717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "INSEE_COM": "89025",
+        "NOM_MAJUSC": "AVALLON",
+        "INSEE_DEP": "89",
+        "NOM_DEPT": "Yonne",
+        "EPCI_NOM": "CC Avallon, Vézelay, Morvan",
+        "SIREN_EPCI": "200039758",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2024",
+        "adresse": "12 Rue Saint Martin"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            768161.9742543704,
+            6709617.5929253595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "INSEE_COM": "58145",
+        "NOM_MAJUSC": "LORMES",
+        "INSEE_DEP": "58",
+        "NOM_DEPT": "Nièvre",
+        "EPCI_NOM": "CC Morvan Sommets et Grands Lacs",
+        "SIREN_EPCI": "200067890",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2024",
+        "adresse": "15 avenue du 8 mai 1945"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            761994.8555794925,
+            6687452.393811861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "INSEE_COM": "71014",
+        "NOM_MAJUSC": "AUTUN",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": "200070530",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2024",
+        "adresse": "4 bis rue du Vieux Collège"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            798594.5303393076,
+            6650806.886291645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "INSEE_COM": "21525",
+        "NOM_MAJUSC": "LA-ROCHE-EN-BRENIL",
+        "INSEE_DEP": "21",
+        "NOM_DEPT": "Côte d'Or",
+        "EPCI_NOM": "CC de Saulieu",
+        "SIREN_EPCI": "242101442",
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2024",
+        "adresse": "2 quartier de la Gare"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            788380.7691276165,
+            6698957.210314098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "INSEE_COM": "71376",
+        "NOM_MAJUSC": "ROUSSILLON-EN-MORVAN",
+        "INSEE_DEP": "71",
+        "NOM_DEPT": "Saône et Loire",
+        "EPCI_NOM": "CC du Grand Autunois Morvan",
+        "SIREN_EPCI": null,
+        "STATUT": "ADHERENTE PNR MORVAN",
+        "annee": "2024",
+        "adresse": "Rue du Bourg"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            785099.064118849,
+            6659031.25438235
+          ]
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "66bd1a86f5e01cf658f29981",
+    "dataset_name": "Emplacements des projections Cinécyclo",
+    "resource_id": "ecfd040a-b4c1-4196-8264-38e7fe629f07",
+    "dataset_url": "https://www.data.gouv.fr/datasets/emplacements-des-projections-cinecyclo-dans-le-parc-naturel-regional-du-morvan",
+    "layer": "patrimoine-culture/cinecyclo",
+    "fetched_at": "2026-03-12T21:06:43.811372+00:00"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "links": [
+    {
+      "type": "contains",
+      "from": "administratif/departements",
+      "to": "administratif/communes",
+      "join_hint": "property:NOM_DEP"
+    },
+    {
+      "type": "contains",
+      "from": "administratif/epci",
+      "to": "administratif/communes",
+      "join_hint": "property:NOM_EPCI"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "demographie/population",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "demographie/logements",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "demographie/emplois",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "energie/enr-total",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "tourisme-economie/hebergements-touristiques",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "tourisme-economie/restauration",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "aggregates",
+      "from": "administratif/communes",
+      "to": "nature-environnement/forets-par-commune",
+      "join_hint": "property:INSEE_COM"
+    },
+    {
+      "type": "located_in",
+      "from": "patrimoine-culture/patrimoine-bati",
+      "to": "administratif/communes",
+      "join_hint": "property:NOM_COM"
+    },
+    {
+      "type": "located_in",
+      "from": "patrimoine-culture/ecomusee",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "located_in",
+      "from": "tourisme-economie/marque-valeurs-parc",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "located_in",
+      "from": "tourisme-economie/producteurs-cabrache",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "located_in",
+      "from": "demographie/etablissements-scolaires-ouverts",
+      "to": "administratif/communes",
+      "join_hint": "property:nom_commune"
+    },
+    {
+      "type": "located_in",
+      "from": "energie/chaufferies-bois",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "intersects",
+      "from": "nature-environnement/natura2000",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "intersects",
+      "from": "nature-environnement/rice-zone-coeur",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "covers",
+      "from": "paysages/entites-paysageres",
+      "to": "paysages/sous-entites-paysageres",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "within",
+      "from": "hydrographie/ct-aron-communes",
+      "to": "hydrographie/ct-aron-bassin",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "passes_through",
+      "from": "tourisme-economie/grandes-itinerances",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "within",
+      "from": "administratif/communes",
+      "to": "administratif/perimetre-parc",
+      "join_hint": "spatial"
+    },
+    {
+      "type": "passes_through",
+      "from": "tourisme-economie/chemins-ruraux-bibracte",
+      "to": "administratif/communes",
+      "join_hint": "spatial"
+    }
+  ]
+}

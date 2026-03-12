@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "name": "Communes_Partenaires_PNRM_2020_2035_P_R27",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009747030",
+        "INSEE_COM": "58065",
+        "INSEE_DEP": "58",
+        "SURFACE_HA": null,
+        "CODE_POST": "58110",
+        "NOM": "Châtillon-en-Bazois",
+        "SIREN_EPCI": "200067882",
+        "EPCI_NOM": "CC Bazois Loire Morvan",
+        "STATUT": "Commune partenaire du Parc naturel régional du Morvan",
+        "CHARTE": "2020-2035",
+        "SURF_HA": 1925.0,
+        "POP_2019": 897,
+        "URL_FICHE": "http://www.patrimoinedumorvan.org/par-commune/chatillon-en-bazois",
+        "URL_SITE": "https://partage.parcdumorvan.org/index.php/s/nz7oSf7qRAdeoqc",
+        "CIVILITE": "Monsieur",
+        "NOM_MAIRE": "MARIE",
+        "PRENOM": "Michel",
+        "TEL_MAIRI": "03.86.84.11.43",
+        "E_MAIRIE": "mairie.chatillon-en-bazois@orange.fr",
+        "LOGO_DPT": "https://partage.parcdumorvan.org/index.php/s/aa8G2TmCHxi2FZ2/preview",
+        "PHOTO_PAT": null,
+        "ILLU_PHOTO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          749746.0340457378,
+          6661492.49927001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746254",
+        "INSEE_COM": "58083",
+        "INSEE_DEP": "58",
+        "SURFACE_HA": null,
+        "CODE_POST": "58800",
+        "NOM": "Corbigny",
+        "SIREN_EPCI": "200067692",
+        "EPCI_NOM": "CC Tannay-Brinon-Corbigny",
+        "STATUT": "Commune partenaire du Parc naturel régional du Morvan",
+        "CHARTE": "2020-2035",
+        "SURF_HA": 2005.0,
+        "POP_2019": 1482,
+        "URL_FICHE": "http://www.patrimoinedumorvan.org/par-commune/corbigny",
+        "URL_SITE": "https://www.corbigny.fr/",
+        "CIVILITE": "Madame",
+        "NOM_MAIRE": "PELTIER",
+        "PRENOM": "Maryse",
+        "TEL_MAIRI": "03.86.20.11.98",
+        "E_MAIRIE": "accueil@corbigny.fr",
+        "LOGO_DPT": "https://partage.parcdumorvan.org/index.php/s/aa8G2TmCHxi2FZ2/preview",
+        "PHOTO_PAT": "https://partage.parcdumorvan.org/index.php/s/ne5F2jYJ52jWjTq/preview",
+        "ILLU_PHOTO": "© Laetitia Daget"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          751506.6212621359,
+          6684125.97033436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "COMMUNE_0000000009746526",
+        "INSEE_COM": "21023",
+        "INSEE_DEP": "21",
+        "SURFACE_HA": null,
+        "CODE_POST": "21230",
+        "NOM": "Arnay-le-Duc",
+        "SIREN_EPCI": "200071173",
+        "EPCI_NOM": "CC du Pays Arnay Liernais",
+        "STATUT": "Commune partenaire du Parc naturel régional du Morvan",
+        "CHARTE": "2020-2035",
+        "SURF_HA": 1200.0,
+        "POP_2019": 1425,
+        "URL_FICHE": "http://www.patrimoinedumorvan.org/par-commune/arnay-le-duc",
+        "URL_SITE": "http://www.arnay-le-duc.com/",
+        "CIVILITE": "Monsieur",
+        "NOM_MAIRE": "LEROUX",
+        "PRENOM": "Benjamin",
+        "TEL_MAIRI": "03.80.90.03.44",
+        "E_MAIRIE": "mairie-arnay-le-duc@wanadoo.fr",
+        "LOGO_DPT": "https://partage.parcdumorvan.org/index.php/s/aa8G2TmCHxi2FZ2/preview",
+        "PHOTO_PAT": "https://partage.parcdumorvan.org/index.php/s/Q4wDzs3SSGTTJMW/preview",
+        "ILLU_PHOTO": "La lenterne du château ( © Philippe Guilbert )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          812630.9071549752,
+          6671193.3533843905
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a9983d6728b95d2022",
+    "dataset_name": "Communes partenaires du PNR du Morvan (2020-2035)",
+    "resource_id": "d559b054-09e7-4ec9-829b-28589f104eda",
+    "dataset_url": "https://www.data.gouv.fr/datasets/communes-partenaires-du-parc-naturel-regional-du-morvan-charte-2020-2035",
+    "layer": "administratif/communes-partenaires",
+    "fetched_at": "2026-03-12T21:05:01.648911+00:00"
+  }
+}

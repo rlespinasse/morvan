@@ -1,0 +1,371 @@
+{
+  "type": "FeatureCollection",
+  "name": "Ecomusee_Morvan_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Musée de la Résistance en Morvan à Saint-Brisson",
+        "adress": "Maison du Parc Naturel Régional du Morvan",
+        "cp": "58230",
+        "site_inter": "http://www.museeresistancemorvan.fr",
+        "telephone": null,
+        "courriel": "museeresistance.morvan@orange.fr",
+        "commune": "SAINT-BRISSON",
+        "insee": "58235",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/le-musee-de-la-resistance-memorial-de-dun/",
+        "2016total": 6293,
+        "2017total": 6663,
+        "2018total": 7715,
+        "2019total": 7793,
+        "id": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782354.221058,
+          6686311.120272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Musée de l'Elevage et du Charolais (Réseau Ecomusée du Morvan)",
+        "adress": "4 Rue de la Mission",
+        "cp": "58290",
+        "site_inter": "http://www.ecomusee-elevagecharolais.org/",
+        "telephone": "03 86 84 26 17",
+        "courriel": "musee-elevage-charolais@mairie-moulins-engilbert.com",
+        "commune": "MOULINS-ENGILBERT",
+        "insee": "58182",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/le-musee-de-lelevage-et-du-charolais/",
+        "2016total": 1565,
+        "2017total": 877,
+        "2018total": 1186,
+        "2019total": 1722,
+        "id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761504.951379,
+          6654557.578458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Mémorial de Dun-les-Places",
+        "adress": "Rue du 11 Novembre 1918",
+        "cp": "58230",
+        "site_inter": "http://www.museeresistancemorvan.fr/fr/m%C3%A9morial-de-dun-les-places/informati",
+        "telephone": "03 86 78 44 74",
+        "courriel": "museeresistance.morvan@orange.fr",
+        "commune": "DUN-LES-PLACES",
+        "insee": "58106",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/le-musee-de-la-resistance-memorial-de-dun/",
+        "2016total": 3392,
+        "2017total": 2571,
+        "2018total": 3074,
+        "2019total": 2835,
+        "id": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777792.963125,
+          6679979.949527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Musée des nourrices et des enfants de l'Assistance publique",
+        "adress": "Le Bourg",
+        "cp": "58230",
+        "site_inter": "http://www.museedesnourrices.fr/",
+        "telephone": "03 86 78 44 05",
+        "courriel": "accueil@museedesnourrices.fr",
+        "commune": "ALLIGNY-EN-MORVAN",
+        "insee": "58003",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/le-musee-des-nourrices-et-des-enfants-de-lassistance-publique/",
+        "2016total": 5913,
+        "2017total": 4759,
+        "2018total": 4709,
+        "2019total": 7097,
+        "id": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789032.258103,
+          6678286.983689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Maison des Hommes et des Paysages",
+        "adress": "Maison Centre de l'Ecomusée du Morvan",
+        "cp": "58230",
+        "site_inter": "http://tourisme.parcdumorvan.org",
+        "telephone": "03 86 78 79 57",
+        "courriel": "contact@parcdumorvan.org",
+        "commune": "SAINT-BRISSON",
+        "insee": "58235",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/la-maison-des-hommes-et-des-paysages/",
+        "2016total": 4554,
+        "2017total": 3997,
+        "2018total": 5103,
+        "2019total": 5170,
+        "id": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783050.79725,
+          6686738.051387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Maison des Galvachers",
+        "adress": "Place Jules Basdevant",
+        "cp": "71550",
+        "site_inter": "http://www.anost.com",
+        "telephone": "03 85 82 78 16",
+        "courriel": "mairie@anost.fr",
+        "commune": "ANOST",
+        "insee": "71009",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/la-maison-des-galvachers/",
+        "2016total": 592,
+        "2017total": 502,
+        "2018total": 710,
+        "2019total": 589,
+        "id": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783383.548953,
+          6664740.974574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Maison du Patrimoine Oral de Bourgogne",
+        "adress": "2 Place de la Bascule",
+        "cp": "71550",
+        "site_inter": "http://www.mpo-bourgogne.org",
+        "telephone": "03 85 82 77 00",
+        "courriel": "contact@mpo-bourgogne.org",
+        "commune": "ANOST",
+        "insee": "71009",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/la-maison-du-patrimoine-oral-de-bourgogne/",
+        "2016total": 1063,
+        "2017total": 2202,
+        "2018total": 2527,
+        "2019total": 2662,
+        "id": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783451.526987,
+          6664719.138004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Musée Vauban",
+        "adress": "4, place Vauban",
+        "cp": "89630",
+        "site_inter": "http://www.vaubanecomusee.org",
+        "telephone": "03 86 32 26 30",
+        "courriel": "maison.vauban@wanadoo.fr",
+        "commune": "SAINT-LEGER-VAUBAN",
+        "insee": "89349",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/le-musee-de-vauban/",
+        "2016total": 2256,
+        "2017total": 2237,
+        "2018total": 1899,
+        "2019total": 1887,
+        "id": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778913.99789,
+          6698856.494814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Maison du seigle",
+        "adress": "RD106H",
+        "cp": "21430",
+        "site_inter": null,
+        "telephone": null,
+        "courriel": "mairiemenessaire@wanadoo.fr",
+        "commune": "MENESSAIRE",
+        "insee": "21403",
+        "nature": "Maison à thème",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/la-maison-du-seigle/",
+        "2016total": 69,
+        "2017total": 110,
+        "2018total": 75,
+        "2019total": 632,
+        "id": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787787.775375,
+          6671065.709209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Maison du vin et de la tonnellerie",
+        "adress": "Le Bourg – 58230 Ouroux-en-Morvan",
+        "cp": "58230",
+        "site_inter": "www.cavesbarbotte.com",
+        "telephone": "03 86 78 24 01",
+        "courriel": "cavesbarbotte@orange.fr",
+        "commune": "OUROUX-EN-MORVAN",
+        "insee": null,
+        "nature": "Site associé",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/les-sites-associes/",
+        "2016total": null,
+        "2017total": 0,
+        "2018total": null,
+        "2019total": null,
+        "id": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771557.4723252977,
+          6676643.170301987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Saboterie Marchand",
+        "adress": null,
+        "cp": null,
+        "site_inter": "www.saboterie-marchand.com",
+        "telephone": "03 86 78 73 90",
+        "courriel": "saboteriemarchand@wanadoo.fr",
+        "commune": "GOULOUX",
+        "insee": null,
+        "nature": "Site associé",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/les-sites-associes/",
+        "2016total": null,
+        "2017total": 1507,
+        "2018total": null,
+        "2019total": null,
+        "id": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782379.4814283465,
+          6680418.990452206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ma p'tite école",
+        "adress": null,
+        "cp": null,
+        "site_inter": null,
+        "telephone": null,
+        "courriel": null,
+        "commune": "MONTSAUCHE-LES-SETTONS",
+        "insee": null,
+        "nature": "Site associé",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/les-sites-associes/",
+        "2016total": 1577,
+        "2017total": 1507,
+        "2018total": 1586,
+        "2019total": 1940,
+        "id": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780666.5412139967,
+          6677911.234128312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "L'Ecomusée de l'Abeille",
+        "adress": null,
+        "cp": null,
+        "site_inter": null,
+        "telephone": null,
+        "courriel": null,
+        "commune": "CHATEAU-CHINON (CAMPAGNE)",
+        "insee": null,
+        "nature": "Site associé",
+        "url_pnrm": "https://www.parcdumorvan.org/le-parc-en-actions/ecomusee-et-patrimoine/les-sites-de-lecomusee/les-sites-associes/",
+        "2016total": null,
+        "2017total": 0,
+        "2018total": null,
+        "2019total": null,
+        "id": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771272.0890025902,
+          6666064.228414337
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "63cf1ff59de2dc233640440d",
+    "dataset_name": "Sites de l'écomusée du Morvan",
+    "resource_id": "7b2537ce-b09e-4904-b8ee-4a2e34e06857",
+    "dataset_url": "https://www.data.gouv.fr/datasets/ecomusee-du-morvan-dans-le-parc-naturel-regional-du-morvan",
+    "layer": "patrimoine-culture/ecomusee",
+    "fetched_at": "2026-03-12T21:06:42.812906+00:00"
+  }
+}

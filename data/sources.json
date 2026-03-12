@@ -1,0 +1,661 @@
+{
+  "layers": {
+    "administratif/departements": {
+      "name": "Départements du Parc naturel régional du Morvan",
+      "dataset_id": "600066a9f10b2dab055d2022",
+      "resource_id": "8f2852b4-76c7-40ae-b75b-9841a6cfee31",
+      "dataset_url": "https://www.data.gouv.fr/datasets/departements-du-parc-naturel-regional-du-morvan-perimetre-integral",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/8b95821b-64a1-4198-a78f-4529812d93ba/resource/8f2852b4-76c7-40ae-b75b-9841a6cfee31/download/departements_bourgogne_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "administratif"
+    },
+    "administratif/communes": {
+      "name": "Communes classées du PNR du Morvan (2020-2035)",
+      "dataset_id": "600066a7f10b2dab055d201e",
+      "resource_id": "864c5b85-ca3a-4ea4-9523-f9d330189d4c",
+      "dataset_url": "https://www.data.gouv.fr/datasets/communes-du-parc-naturel-regional-du-morvan-2020-2035",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/dd155d1b-5769-471b-9468-ebdfe5fc6db9/resource/864c5b85-ca3a-4ea4-9523-f9d330189d4c/download/communes_2020_2035_adminexpress_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "administratif"
+    },
+    "administratif/communes-partenaires": {
+      "name": "Communes partenaires du PNR du Morvan (2020-2035)",
+      "dataset_id": "600066a9983d6728b95d2022",
+      "resource_id": "d559b054-09e7-4ec9-829b-28589f104eda",
+      "dataset_url": "https://www.data.gouv.fr/datasets/communes-partenaires-du-parc-naturel-regional-du-morvan-charte-2020-2035",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/4dd146e0-8cfb-451c-ade8-fc3d3149ec2a/resource/d559b054-09e7-4ec9-829b-28589f104eda/download/communes_partenaires_2020_2035_p_r27.geojson",
+      "format": "geojson",
+      "category": "administratif"
+    },
+    "administratif/epci": {
+      "name": "Communautés de Communes du PNR du Morvan",
+      "dataset_id": "600066a8983d6728b95d2021",
+      "resource_id": "0bb200d3-2776-4ae7-b836-6ac1ea280294",
+      "dataset_url": "https://www.data.gouv.fr/datasets/communautes-de-communes-du-parc-naturel-regional-du-morvan-perimetres-entiers",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/c509ff73-4b00-4ce8-b64e-45ff5f5e0073/resource/0bb200d3-2776-4ae7-b836-6ac1ea280294/download/epci_pnrm_adminexpress_s_r27_2020_10_05.geojson",
+      "format": "geojson",
+      "category": "administratif"
+    },
+    "administratif/perimetre-parc": {
+      "name": "Périmètre du PNR du Morvan (Charte 2020-2035)",
+      "dataset_id": "600066a8f10b2dab055d2021",
+      "resource_id": "8456b108-a267-41a6-82e2-61cd64959f8b",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetre-du-parc-naturel-regional-du-morvan-2020-2035",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/1af6dcee-5631-4f24-afc9-77b7195d5fd9/resource/8456b108-a267-41a6-82e2-61cd64959f8b/download/pnrm_2020_2035_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "administratif"
+    },
+    "nature-environnement/natura2000": {
+      "name": "Entités des sites Natura 2000 du PNR du Morvan",
+      "dataset_id": "600066a7f10b2dab055d201f",
+      "resource_id": "b44096ad-efab-47c6-bc24-1cc32886cbcb",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-des-sites-natura-2000-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/c70712d5-256c-45ef-a583-d76f21170172/resource/b44096ad-efab-47c6-bc24-1cc32886cbcb/download/entites_sites_n2000_zsc_pnrm_s_r27.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/tourbieres-points": {
+      "name": "Sites de la Réserve Naturelle des Tourbières du Morvan (points)",
+      "dataset_id": "600066a69df0b1329b7d8b83",
+      "resource_id": "e499f6d6-242b-4665-9dbb-6cad5b5ea34a",
+      "dataset_url": "https://www.data.gouv.fr/datasets/sites-de-la-reserve-naturelle-regionale-des-tourbieres-du-morvan-entites-ponctuelles",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/151cf2bc-d18c-4468-9345-027d95bc9cec/resource/e499f6d6-242b-4665-9dbb-6cad5b5ea34a/download/sites_rnrtm_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/tourbieres-surfaces": {
+      "name": "Réserve Naturelle des Tourbières du Morvan (surfaces)",
+      "dataset_id": "600066a69df0b1329b7d8b83",
+      "resource_id": "cf27e1bf-b88d-40f7-908c-08dcc9681466",
+      "dataset_url": "https://www.data.gouv.fr/datasets/sites-de-la-reserve-naturelle-regionale-des-tourbieres-du-morvan-entites-ponctuelles",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/151cf2bc-d18c-4468-9345-027d95bc9cec/resource/cf27e1bf-b88d-40f7-908c-08dcc9681466/download/sites_rnrtm_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/forets-anciennes": {
+      "name": "Forêts anciennes du PNR du Morvan",
+      "dataset_id": "60398e5804a7b3eca57a57de",
+      "resource_id": "0687962d-8320-4253-a4d1-29fa1f3c57be",
+      "dataset_url": "https://www.data.gouv.fr/datasets/forets-anciennes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/09e47e0d-98b2-4572-97c9-c3c8ff5ee620/resource/0687962d-8320-4253-a4d1-29fa1f3c57be/download/fa_pnrm_n2000_s_r27.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/forets-recentes": {
+      "name": "Forêts récentes du PNR du Morvan",
+      "dataset_id": "60398e5804a7b3eca57a57de",
+      "resource_id": "50b9f38f-dfa6-4cac-bbc4-65bf93f99329",
+      "dataset_url": "https://www.data.gouv.fr/datasets/forets-anciennes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/09e47e0d-98b2-4572-97c9-c3c8ff5ee620/resource/50b9f38f-dfa6-4cac-bbc4-65bf93f99329/download/fr_pnrm_n2000_s_r27.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/forets-deboisees": {
+      "name": "Forêts anciennes déboisées du PNR du Morvan",
+      "dataset_id": "60398e5804a7b3eca57a57de",
+      "resource_id": "6aade998-fb4d-436f-b4aa-f69f6876aa3b",
+      "dataset_url": "https://www.data.gouv.fr/datasets/forets-anciennes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/09e47e0d-98b2-4572-97c9-c3c8ff5ee620/resource/6aade998-fb4d-436f-b4aa-f69f6876aa3b/download/deb_pnrm_n2000_s_r27.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/forets-par-commune": {
+      "name": "Surfaces forestières par communes du PNR du Morvan",
+      "dataset_id": "616a168384aaac2d3e2f28a0",
+      "resource_id": "47420bc6-f5ea-4d82-85c6-4b438b499ee2",
+      "dataset_url": "https://www.data.gouv.fr/datasets/donnees-communales-sur-les-surfaces-forestieres-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/a7bf8267-3209-45e2-a2a2-2e32421bbc7c/resource/47420bc6-f5ea-4d82-85c6-4b438b499ee2/download/forets_communes_ign_onf_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/rice-zone-coeur": {
+      "name": "Réserve Internationale de Ciel Étoilé - Zone cœur",
+      "dataset_id": "607e1b104b19e9fad1296bc5",
+      "resource_id": "eca38111-d4fe-46bf-a506-bed3f4b5ea60",
+      "dataset_url": "https://www.data.gouv.fr/datasets/reserve-internationale-de-ciel-etoile-rice-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/cdcc9895-fd9e-4e1e-81d5-c897c63b4993/resource/eca38111-d4fe-46bf-a506-bed3f4b5ea60/download/perimetre_zone_coeur_rice_bdtopo3_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "nature-environnement/rice-zone-tampon": {
+      "name": "Réserve Internationale de Ciel Étoilé - Zone tampon",
+      "dataset_id": "607e1b104b19e9fad1296bc5",
+      "resource_id": "ea46c928-a4cf-4508-ad5e-614965c4b3ec",
+      "dataset_url": "https://www.data.gouv.fr/datasets/reserve-internationale-de-ciel-etoile-rice-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/cdcc9895-fd9e-4e1e-81d5-c897c63b4993/resource/ea46c928-a4cf-4508-ad5e-614965c4b3ec/download/perimetre_tampon_rice_bdtopo3_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "nature-environnement"
+    },
+    "hydrographie/ct-aron-bassin": {
+      "name": "Bassin versant du contrat territorial Aron Morvan",
+      "dataset_id": "600066a7983d6728b95d201f",
+      "resource_id": "2db4a982-01d8-46fd-a6c4-4d572d25bce0",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetres-du-contrat-territorial-aron-morvan-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/a1d4a325-1745-4e48-a01c-0ff6b6ec321f/resource/2db4a982-01d8-46fd-a6c4-4d572d25bce0/download/bv_aron_topo_bdtopage_s_blb.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-aron-sous-bassins": {
+      "name": "Sous-bassins versants du contrat territorial Aron Morvan",
+      "dataset_id": "600066a7983d6728b95d201f",
+      "resource_id": "0a8bdce8-ab2a-4e2d-b91b-d4793081fd1b",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetres-du-contrat-territorial-aron-morvan-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/a1d4a325-1745-4e48-a01c-0ff6b6ec321f/resource/0a8bdce8-ab2a-4e2d-b91b-d4793081fd1b/download/sous_bv_aron_topo_bdtopage_s_blb.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-aron-cours-eau": {
+      "name": "Cours d'eau du contrat territorial Aron Morvan",
+      "dataset_id": "600066a7983d6728b95d201f",
+      "resource_id": "540368f3-1cdd-4d66-a2cc-01630805b1db",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetres-du-contrat-territorial-aron-morvan-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/a1d4a325-1745-4e48-a01c-0ff6b6ec321f/resource/540368f3-1cdd-4d66-a2cc-01630805b1db/download/ce_arron_allfuents_principaux_l_blb.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-aron-communes": {
+      "name": "Communes adhérentes au contrat territorial Aron Morvan",
+      "dataset_id": "600066a7983d6728b95d201f",
+      "resource_id": "770ecc8a-0244-4418-845d-07416e6d9071",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetres-du-contrat-territorial-aron-morvan-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/a1d4a325-1745-4e48-a01c-0ff6b6ec321f/resource/770ecc8a-0244-4418-845d-07416e6d9071/download/communes_adherentes_ct_aron_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-aron-cressonne": {
+      "name": "Contrat territorial Aron Cressonne (2022-2027)",
+      "dataset_id": "64bf146e9263e388e79f7201",
+      "resource_id": "25953402-9f51-4585-9073-73d451bf1764",
+      "dataset_url": "https://www.data.gouv.fr/datasets/contrat-territorial-aron-cressonne-2022-2027",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/a4f44816-6539-43a3-ab6d-325ca771050e/resource/25953402-9f51-4585-9073-73d451bf1764/download/ct_aron_cressonne_2022_2027_s_r27.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-cure-yonne-perimetre": {
+      "name": "Périmètre du CTEC Cure Yonne (2021-2024)",
+      "dataset_id": "605146e1bf218a338f71fa26",
+      "resource_id": "d043fd1f-1091-47ad-b2ab-3c85e5212b7f",
+      "dataset_url": "https://www.data.gouv.fr/datasets/contrat-territorial-eau-et-climat-cure-yonne-2021-2024",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/efc4a2c1-9b57-44b8-a8d9-4058668b2ae8/resource/d043fd1f-1091-47ad-b2ab-3c85e5212b7f/download/ctec_cure_yonne_2021_2024_s_r27.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-cure-yonne-communes": {
+      "name": "Communes du CTEC Cure Yonne (2021-2024)",
+      "dataset_id": "605146e1bf218a338f71fa26",
+      "resource_id": "007d19fc-4add-431d-b02f-49ea43075c79",
+      "dataset_url": "https://www.data.gouv.fr/datasets/contrat-territorial-eau-et-climat-cure-yonne-2021-2024",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/efc4a2c1-9b57-44b8-a8d9-4058668b2ae8/resource/007d19fc-4add-431d-b02f-49ea43075c79/download/communes_ctec_cure_yonne_2021_2024_s_r27.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-morvan-arroux-somme": {
+      "name": "Contrat territorial Morvan Arroux Somme (2022-2027)",
+      "dataset_id": "620d92721748ba3e65952885",
+      "resource_id": "cf059c6a-a374-45f5-9185-590509468ca1",
+      "dataset_url": "https://www.data.gouv.fr/datasets/contrat-territorial-morvan-arroux-somme-2022-2027",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/b58119ca-b47b-404b-aedd-c3c520b67f4f/resource/cf059c6a-a374-45f5-9185-590509468ca1/download/ct_mas_2022_2027_s_blb.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/ct-arroux-mesvrin-dree": {
+      "name": "Contrat territorial Arroux-Mesvrin-Drée (2015-2019)",
+      "dataset_id": "611da143ee251315e9ef6a59",
+      "resource_id": "7ce24a22-263e-4fdb-b34c-af3a20a8830a",
+      "dataset_url": "https://www.data.gouv.fr/datasets/contrat-territorial-arroux-mesvrin-dree-2015-2019",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/506bd057-e07c-4dd4-b6d7-3535b36bd511/resource/7ce24a22-263e-4fdb-b34c-af3a20a8830a/download/ct_arroux_2015_2019_s_blb.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/bassins-hydrographiques": {
+      "name": "Bassins hydrographiques",
+      "dataset_id": "611da143ee251315e9ef6a59",
+      "resource_id": "0879fb76-bbcc-48a7-87e2-40f46eb31a37",
+      "dataset_url": "https://www.data.gouv.fr/datasets/contrat-territorial-arroux-mesvrin-dree-2015-2019",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/506bd057-e07c-4dd4-b6d7-3535b36bd511/resource/0879fb76-bbcc-48a7-87e2-40f46eb31a37/download/bassins_hydrographiques_bdtopage_s_fr.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/gemapi-perimetre": {
+      "name": "Périmètre GEMAPI Yonne amont-Cure-Cousin",
+      "dataset_id": "600066a763975981377d8b81",
+      "resource_id": "0aa1bc55-1e99-4d26-979e-b5393e46645a",
+      "dataset_url": "https://www.data.gouv.fr/datasets/communes-gemapi-du-bassin-versant-yonne-amont-cure-cousin",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/953f83ac-3f1d-4613-96c7-8fcb8e2c1859/resource/0aa1bc55-1e99-4d26-979e-b5393e46645a/download/gemapi_ycc_bsn.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/gemapi-communes": {
+      "name": "Communes du périmètre GEMAPI Yonne amont-Cure-Cousin",
+      "dataset_id": "600066a763975981377d8b81",
+      "resource_id": "50717e4b-4218-49cd-a7ce-18629a120dfb",
+      "dataset_url": "https://www.data.gouv.fr/datasets/communes-gemapi-du-bassin-versant-yonne-amont-cure-cousin",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/953f83ac-3f1d-4613-96c7-8fcb8e2c1859/resource/50717e4b-4218-49cd-a7ce-18629a120dfb/download/communes_gemapi_2020_adminexpress_s_bsn.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "hydrographie/gemapi-epci": {
+      "name": "EPCI du périmètre GEMAPI Yonne amont-Cure-Cousin",
+      "dataset_id": "600066a763975981377d8b81",
+      "resource_id": "18daf080-acb5-48b4-b1fb-dafb154a4e84",
+      "dataset_url": "https://www.data.gouv.fr/datasets/communes-gemapi-du-bassin-versant-yonne-amont-cure-cousin",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/953f83ac-3f1d-4613-96c7-8fcb8e2c1859/resource/18daf080-acb5-48b4-b1fb-dafb154a4e84/download/epci_gemapi_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "hydrographie"
+    },
+    "paysages/entites-paysageres": {
+      "name": "Entités paysagères de l'atlas des paysages du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "d9226ec4-1a50-4031-b0d1-a834829cd48c",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/d9226ec4-1a50-4031-b0d1-a834829cd48c/download/entites_paysageres_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/sous-entites-paysageres": {
+      "name": "Sous-entités paysagères du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "c2038aa6-c22e-4a43-81b7-6768474b4b7a",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/c2038aa6-c22e-4a43-81b7-6768474b4b7a/download/sous_entites_paysageres_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/structures-paysageres": {
+      "name": "Structures paysagères du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "3e912031-d495-406f-9b71-b76474004adb",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/3e912031-d495-406f-9b71-b76474004adb/download/structures_paysageres_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/routes-interet-paysager": {
+      "name": "Routes d'intérêt paysager du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "d13d1929-e11e-453c-ae1b-0119578900c9",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/d13d1929-e11e-453c-ae1b-0119578900c9/download/routes_interets_paysagers_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/points-vue-remarquables": {
+      "name": "Points de vue remarquables du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "8f6d0b71-d8b3-4272-aba1-6eae0537b0bc",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/8f6d0b71-d8b3-4272-aba1-6eae0537b0bc/download/points_vues_remarquables_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/lignes-force": {
+      "name": "Lignes de force du paysage du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "c4be92d1-8753-414f-a847-dc3ad20aa9cb",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/c4be92d1-8753-414f-a847-dc3ad20aa9cb/download/lignes_force_paysage_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/limites-entites": {
+      "name": "Limites des entités paysagères du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "883957a8-5b11-4e28-b4fe-2327d60efc2e",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/883957a8-5b11-4e28-b4fe-2327d60efc2e/download/limites_entites_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/enjeux": {
+      "name": "Enjeux paysagers du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "a8c8bb41-bb92-4144-8392-a431891c02b7",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/a8c8bb41-bb92-4144-8392-a431891c02b7/download/enjeux_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/zones-sensibles": {
+      "name": "Zones sensibles des paysages du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "6e0f5ef8-5cbc-4bfe-a2a8-12ad66835267",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/6e0f5ef8-5cbc-4bfe-a2a8-12ad66835267/download/zones_sensibles_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/fronts-visuels": {
+      "name": "Fronts visuels du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "d100f4c3-687b-41a3-a6b3-b1c923762066",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/d100f4c3-687b-41a3-a6b3-b1c923762066/download/fronts_visuels_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "paysages/entrees-morvan": {
+      "name": "Entrées dans le Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "83aa706f-0e7a-40e7-9ee2-b48672894310",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/83aa706f-0e7a-40e7-9ee2-b48672894310/download/entrees_morvan_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "paysages"
+    },
+    "patrimoine-culture/patrimoine-bati": {
+      "name": "Inventaire du patrimoine historique bâti du PNR du Morvan",
+      "dataset_id": "600066a63733171fc27d8b81",
+      "resource_id": "15eec9ea-ec6a-4247-b098-be9935d3403a",
+      "dataset_url": "https://www.data.gouv.fr/datasets/inventaire-du-patrimoine-historique-bati-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/5260a55e-8eb5-46a5-a8ad-70dc375f295c/resource/15eec9ea-ec6a-4247-b098-be9935d3403a/download/inventaire_patrimoine_bati_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "patrimoine-culture/ecomusee": {
+      "name": "Sites de l'écomusée du Morvan",
+      "dataset_id": "63cf1ff59de2dc233640440d",
+      "resource_id": "7b2537ce-b09e-4904-b8ee-4a2e34e06857",
+      "dataset_url": "https://www.data.gouv.fr/datasets/ecomusee-du-morvan-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/afab40f4-c8a8-47bd-80d0-b815518d3bda/resource/7b2537ce-b09e-4904-b8ee-4a2e34e06857/download/ecomusee_morvan_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "patrimoine-culture/cinecyclo": {
+      "name": "Emplacements des projections Cinécyclo",
+      "dataset_id": "66bd1a86f5e01cf658f29981",
+      "resource_id": "ecfd040a-b4c1-4196-8264-38e7fe629f07",
+      "dataset_url": "https://www.data.gouv.fr/datasets/emplacements-des-projections-cinecyclo-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7b21d573-1e43-487b-9d36-1591cf434d63/resource/ecfd040a-b4c1-4196-8264-38e7fe629f07/download/lieux_cinecyclo_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "patrimoine-culture/chateaux": {
+      "name": "Châteaux du PNR du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "78e4b23a-0610-494e-8f76-5791e7f38567",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/78e4b23a-0610-494e-8f76-5791e7f38567/download/chateaux_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "patrimoine-culture/bourgs": {
+      "name": "Bourgs du PNR du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "d194d583-87f8-44e4-aa38-5f0429789a2a",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/d194d583-87f8-44e4-aa38-5f0429789a2a/download/bourgs_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "patrimoine-culture/hameaux": {
+      "name": "Hameaux du PNR du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "bf44197f-ff27-41f2-bc2f-18ac7119c523",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/bf44197f-ff27-41f2-bc2f-18ac7119c523/download/hameaux_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "patrimoine-culture/lieux-particuliers": {
+      "name": "Lieux particuliers du PNR du Morvan",
+      "dataset_id": "600066a7983d6728b95d201e",
+      "resource_id": "dda81a1b-40f9-4166-b1a6-51cee6e38cbf",
+      "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d11c6f79-638e-43a8-abba-9dd6ecf34974/resource/dda81a1b-40f9-4166-b1a6-51cee6e38cbf/download/lieux_particuliers_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "patrimoine-culture"
+    },
+    "tourisme-economie/marque-valeurs-parc": {
+      "name": "Bénéficiaires de la marque Valeurs Parc",
+      "dataset_id": "600066a6c47eaf3cb47d8b81",
+      "resource_id": "ffcab27b-e310-48fc-8f00-5eb79a88c378",
+      "dataset_url": "https://www.data.gouv.fr/datasets/prestataires-de-la-marque-valeurs-parcs-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7add8d00-2f29-481a-957f-4c88ae9dbe96/resource/ffcab27b-e310-48fc-8f00-5eb79a88c378/download/marque_parc_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/producteurs-cabrache": {
+      "name": "Producteurs de Cabrache du Morvan",
+      "dataset_id": "62f2f65931122d61170505d1",
+      "resource_id": "e4314be1-b8f9-4e8d-ad39-9a0dcef426ca",
+      "dataset_url": "https://www.data.gouv.fr/datasets/producteurs-de-cabrache-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/bc17d8b4-f2c1-416a-b86c-575c5bb764e1/resource/e4314be1-b8f9-4e8d-ad39-9a0dcef426ca/download/producteurs_cabrache_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/hebergements-touristiques": {
+      "name": "Hébergements touristiques par commune",
+      "dataset_id": "63e589d4e916a4f0c61a2e1b",
+      "resource_id": "0180c783-0a17-4bd5-9e58-656e35badaf9",
+      "dataset_url": "https://www.data.gouv.fr/datasets/donnees-sur-les-offres-touristiques-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7af1cf7c-1771-435a-8c6c-d8e7e847c29b/resource/0180c783-0a17-4bd5-9e58-656e35badaf9/download/hebergements_touristiques_communes_dd_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/capacite-hebergements": {
+      "name": "Capacité en hébergements touristiques par commune",
+      "dataset_id": "63e589d4e916a4f0c61a2e1b",
+      "resource_id": "13675294-7ab2-4cbd-9f8b-2c3f2fa78be9",
+      "dataset_url": "https://www.data.gouv.fr/datasets/donnees-sur-les-offres-touristiques-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7af1cf7c-1771-435a-8c6c-d8e7e847c29b/resource/13675294-7ab2-4cbd-9f8b-2c3f2fa78be9/download/capacite_hbgmts_touristiques_communes_dd_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/restauration": {
+      "name": "Restauration par commune",
+      "dataset_id": "63e589d4e916a4f0c61a2e1b",
+      "resource_id": "c3707582-08dd-46f6-9ce0-7300247c3583",
+      "dataset_url": "https://www.data.gouv.fr/datasets/donnees-sur-les-offres-touristiques-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7af1cf7c-1771-435a-8c6c-d8e7e847c29b/resource/c3707582-08dd-46f6-9ce0-7300247c3583/download/restauration_communes_dd_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/grandes-itinerances": {
+      "name": "Grandes itinérances du PNR du Morvan",
+      "dataset_id": "63cf1ff4888f4a60057304b6",
+      "resource_id": "4ae23088-3117-4545-8ce7-a86e5aca865e",
+      "dataset_url": "https://www.data.gouv.fr/datasets/grandes-itinerances-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/09c13d79-afaf-452a-b3c0-3f7c7ed7dc9f/resource/4ae23088-3117-4545-8ce7-a86e5aca865e/download/grandesitinerances_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/chemins-ruraux-bibracte": {
+      "name": "Chemins ruraux théoriques GSF Bibracte-Mont-Beuvray",
+      "dataset_id": "605a82134608871f01c598ad",
+      "resource_id": "47590908-74a3-4e48-9a94-9f89d670419d",
+      "dataset_url": "https://www.data.gouv.fr/datasets/chemins-ruraux-grand-site-de-france-bibracte-mont-beuvray",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7d3300d3-b320-487e-a366-9f373de71eba/resource/47590908-74a3-4e48-9a94-9f89d670419d/download/chemins_ruraux_gsf_bibracte_montbeuvray_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/chemins-reels-bibracte": {
+      "name": "Chemins ruraux réels GSF Bibracte-Mont-Beuvray (GPS)",
+      "dataset_id": "605a82134608871f01c598ad",
+      "resource_id": "5c2a83df-9af8-453c-9293-54a2936e8b2c",
+      "dataset_url": "https://www.data.gouv.fr/datasets/chemins-ruraux-grand-site-de-france-bibracte-mont-beuvray",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7d3300d3-b320-487e-a366-9f373de71eba/resource/5c2a83df-9af8-453c-9293-54a2936e8b2c/download/chemins_reels_gsf_bmb_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/voies-communales-bibracte": {
+      "name": "Voies communales GSF Bibracte-Mont-Beuvray",
+      "dataset_id": "605a82134608871f01c598ad",
+      "resource_id": "a2930388-4bfd-4563-9a2c-c3ff48ad9976",
+      "dataset_url": "https://www.data.gouv.fr/datasets/chemins-ruraux-grand-site-de-france-bibracte-mont-beuvray",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7d3300d3-b320-487e-a366-9f373de71eba/resource/a2930388-4bfd-4563-9a2c-c3ff48ad9976/download/vc_gsf_bibracte_montbeuvray_dgfip_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/routes-departementales-bibracte": {
+      "name": "Routes départementales GSF Bibracte-Mont-Beuvray",
+      "dataset_id": "605a82134608871f01c598ad",
+      "resource_id": "c520209d-8999-437e-b559-7087448f9ed9",
+      "dataset_url": "https://www.data.gouv.fr/datasets/chemins-ruraux-grand-site-de-france-bibracte-mont-beuvray",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7d3300d3-b320-487e-a366-9f373de71eba/resource/c520209d-8999-437e-b559-7087448f9ed9/download/rd_gsf_bibracte_montbeuvray_dgfip_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "tourisme-economie/tour-grand-site-bibracte": {
+      "name": "Tour du Grand Site Bibracte",
+      "dataset_id": "605a82134608871f01c598ad",
+      "resource_id": "e29b217a-3071-49ad-b780-1911a15a85ce",
+      "dataset_url": "https://www.data.gouv.fr/datasets/chemins-ruraux-grand-site-de-france-bibracte-mont-beuvray",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/7d3300d3-b320-487e-a366-9f373de71eba/resource/e29b217a-3071-49ad-b780-1911a15a85ce/download/tourgrandsitebibracte_2022_gsfbibracte_l_pnrm.geojson",
+      "format": "geojson",
+      "category": "tourisme-economie"
+    },
+    "programmes/leader-epci": {
+      "name": "EPCI LEADER du PNR du Morvan (2023-2027)",
+      "dataset_id": "600066a7157e34cdc87d8b82",
+      "resource_id": "bf67c8a7-1797-49c7-a919-a66622e5eb97",
+      "dataset_url": "https://www.data.gouv.fr/datasets/leader",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d4ad584d-8bdb-45af-af0b-ff7c46adf0bb/resource/bf67c8a7-1797-49c7-a919-a66622e5eb97/download/epci_leader_2023_2027_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "programmes"
+    },
+    "programmes/leader-communes": {
+      "name": "Communes des GAL LEADER du PNR du Morvan",
+      "dataset_id": "600066a7157e34cdc87d8b82",
+      "resource_id": "ab47afb1-675c-42da-b15c-14d7ae0984a6",
+      "dataset_url": "https://www.data.gouv.fr/datasets/leader",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/d4ad584d-8bdb-45af-af0b-ff7c46adf0bb/resource/ab47afb1-675c-42da-b15c-14d7ae0984a6/download/communes_gal_leader_pnrm_2014_2022_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "programmes"
+    },
+    "programmes/animation-enr-perimetre": {
+      "name": "Périmètre des animations ENR du PNR du Morvan",
+      "dataset_id": "600066a70339e66fc67d8b81",
+      "resource_id": "6dc425af-c859-4b87-be97-6f1227887b53",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetre-des-animations-sur-les-energies-renouvelables-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/170f3024-976f-4d16-9496-ef8937dd91f1/resource/6dc425af-c859-4b87-be97-6f1227887b53/download/perimetre_animation_enr_adminexpress_s_r27.prj.geojson",
+      "format": "geojson",
+      "category": "programmes"
+    },
+    "programmes/animation-enr-communes": {
+      "name": "Communes du périmètre des animations ENR",
+      "dataset_id": "600066a70339e66fc67d8b81",
+      "resource_id": "3f423cbb-272d-47a6-9536-db0b2908f4d0",
+      "dataset_url": "https://www.data.gouv.fr/datasets/perimetre-des-animations-sur-les-energies-renouvelables-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/170f3024-976f-4d16-9496-ef8937dd91f1/resource/3f423cbb-272d-47a6-9536-db0b2908f4d0/download/communes_animation_enr_adminexpress_s_r27.geojson",
+      "format": "geojson",
+      "category": "programmes"
+    },
+    "programmes/parcelles-acquises": {
+      "name": "Parcelles acquises par le PNR du Morvan",
+      "dataset_id": "610343eb1d39eb975f042cfd",
+      "resource_id": "63fbf0a3-93ae-4340-88ee-7e5337ab89e0",
+      "dataset_url": "https://www.data.gouv.fr/datasets/parcelles-acquises-par-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/2c5ab425-00db-46c4-aeef-8d5885e3a576/resource/63fbf0a3-93ae-4340-88ee-7e5337ab89e0/download/proprietes_foncieres_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "programmes"
+    },
+    "demographie/population": {
+      "name": "Population et structure de la population dans le PNR du Morvan",
+      "dataset_id": "6091e242d8c32220339bacce",
+      "resource_id": "c0e27e85-f3e0-4002-b3af-f55740586cb7",
+      "dataset_url": "https://www.data.gouv.fr/datasets/portrait-de-la-population-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/fd4f78d7-dce5-44f4-8ec7-840e502e9b63/resource/c0e27e85-f3e0-4002-b3af-f55740586cb7/download/population_communes_insee_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "demographie"
+    },
+    "demographie/logements": {
+      "name": "Logements par commune dans le PNR du Morvan",
+      "dataset_id": "6091e242d8c32220339bacce",
+      "resource_id": "817b5ecc-5282-498e-85f6-d481c6a5d8ee",
+      "dataset_url": "https://www.data.gouv.fr/datasets/portrait-de-la-population-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/fd4f78d7-dce5-44f4-8ec7-840e502e9b63/resource/817b5ecc-5282-498e-85f6-d481c6a5d8ee/download/logements_communes_insee_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "demographie"
+    },
+    "demographie/emplois": {
+      "name": "Emplois par commune dans le PNR du Morvan",
+      "dataset_id": "6091e242d8c32220339bacce",
+      "resource_id": "e6504bd2-4db8-4386-a7fa-f82a893aa929",
+      "dataset_url": "https://www.data.gouv.fr/datasets/portrait-de-la-population-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/fd4f78d7-dce5-44f4-8ec7-840e502e9b63/resource/e6504bd2-4db8-4386-a7fa-f82a893aa929/download/emplois_communes_insee_pnrm.geojson",
+      "format": "geojson",
+      "category": "demographie"
+    },
+    "demographie/etablissements-scolaires-ouverts": {
+      "name": "Établissements scolaires ouverts du PNR du Morvan",
+      "dataset_id": "600066a7dadd481d5a7d8b81",
+      "resource_id": "10dc5649-b4bd-416d-9e0c-89ed7c87fd25",
+      "dataset_url": "https://www.data.gouv.fr/datasets/etablissements-scolaires-et-nombre-denfants-scolarises-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/8aca89cd-5358-44a3-8ea6-908e4ffeecd5/resource/10dc5649-b4bd-416d-9e0c-89ed7c87fd25/download/etablissements_scolaires_ouverts_menj_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "demographie"
+    },
+    "demographie/etablissements-scolaires-fermes": {
+      "name": "Établissements scolaires fermés du PNR du Morvan",
+      "dataset_id": "600066a7dadd481d5a7d8b81",
+      "resource_id": "34bd1d84-6ee8-415b-8e72-567bae32a258",
+      "dataset_url": "https://www.data.gouv.fr/datasets/etablissements-scolaires-et-nombre-denfants-scolarises-dans-le-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/8aca89cd-5358-44a3-8ea6-908e4ffeecd5/resource/34bd1d84-6ee8-415b-8e72-567bae32a258/download/etablissements_scolaires_fermes_menj_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "demographie"
+    },
+    "energie/enr-total": {
+      "name": "Production totale d'EnR par commune",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "07c656b8-1ad4-4f5b-8cc3-f952db496acd",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/07c656b8-1ad4-4f5b-8cc3-f952db496acd/download/production_enrtotal_communes_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    },
+    "energie/enr-solaire": {
+      "name": "Production solaire d'EnR par commune",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "f4e6016e-78a3-4fe5-8cd3-303d4980dabf",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/f4e6016e-78a3-4fe5-8cd3-303d4980dabf/download/production_enrsolaire_communes_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    },
+    "energie/enr-hydroelectricite": {
+      "name": "Production hydroélectrique d'EnR par commune",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "9223a8db-5e2f-4fe6-81c8-56acba0c6768",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/9223a8db-5e2f-4fe6-81c8-56acba0c6768/download/production_enrhydroelectricite_communes_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    },
+    "energie/enr-methanisation": {
+      "name": "Production méthanisation d'EnR par commune",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "12aacca9-da98-47db-a0b4-db2e114216bb",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/12aacca9-da98-47db-a0b4-db2e114216bb/download/production_enrmethane_communes_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    },
+    "energie/enr-bois-menages": {
+      "name": "Production bois énergie des ménages par commune",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "72ae87f8-5717-4dad-968b-67f6f423c830",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/72ae87f8-5717-4dad-968b-67f6f423c830/download/production_enrboismenages_communes_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    },
+    "energie/installations-enr": {
+      "name": "Nombre d'installations EnR par commune",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "148d9162-2b44-4adf-9a4f-e6d3840c6589",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/148d9162-2b44-4adf-9a4f-e6d3840c6589/download/installations_enr_total_communes_s_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    },
+    "energie/chaufferies-bois": {
+      "name": "Chaufferies bois dans le PNR du Morvan",
+      "dataset_id": "619446f7873fb81f3e5506cd",
+      "resource_id": "e080d369-2be3-4e56-9230-6e36f144ec44",
+      "dataset_url": "https://www.data.gouv.fr/datasets/energies-renouvelables-dans-les-communes-du-parc-naturel-regional-du-morvan",
+      "resource_url": "https://trouver.ternum-bfc.fr/dataset/0d05aad8-3a06-466d-a2d3-8744e797fbaa/resource/e080d369-2be3-4e56-9230-6e36f144ec44/download/chaufferiesbois_communes_p_pnrm.geojson",
+      "format": "geojson",
+      "category": "energie"
+    }
+  }
+}

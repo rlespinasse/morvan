@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "name": "Sites_RNRTM_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-003",
+        "nom_site": "Montour et Vaucorniau",
+        "surf_site": 41.99,
+        "num_site": 3,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/DsWn4GNXZMmDD5X/preview",
+        "ILLUST": "© BLAYSAT - PNRM",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774252.6580674475,
+          6686258.8589045005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-002",
+        "nom_site": "Etang de la Chevrée",
+        "surf_site": 22.82,
+        "num_site": 2,
+        "acces_pub": "non",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/BsNDpASoYGkAwmi/preview",
+        "ILLUST": "© CORBEAUX - PNRM",
+        "acces_lib": "Site fermé au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783284.4182000011,
+          6691058.0868999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-001",
+        "nom_site": "Domaine des Grands Prés",
+        "surf_site": 6.61,
+        "num_site": 1,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/BkEQc2m46TJ7Q8d/preview",
+        "ILLUST": "© PERRENOUD - PNRM",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782770.0769999996,
+          6692819.127599999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-004",
+        "nom_site": "Etang Taureau",
+        "surf_site": 23.65,
+        "num_site": 4,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/8CpRCLQk6rbRL4H/preview",
+        "ILLUST": "© Olivier -BARDET",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782961.4593686432,
+          6686306.320473175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-005",
+        "nom_site": "Tourbière du Vernay - Prés Guiots",
+        "surf_site": 25.39,
+        "num_site": 5,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/jTQRDME4JX77w4F/preview",
+        "ILLUST": "© DODELIN - PNRM",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          781499.9263999984,
+          6685232.276700001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-006",
+        "nom_site": "Tourbière du Furtiau",
+        "surf_site": 14.12,
+        "num_site": 6,
+        "acces_pub": "non",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/Az5MdbJymas5JQy/preview",
+        "ILLUST": "© DODELIN - PNRM",
+        "acces_lib": "Site fermé au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778416.4453999996,
+          6681015.936299998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-007",
+        "nom_site": "Tourbière de Montbé",
+        "surf_site": 59.1,
+        "num_site": 7,
+        "acces_pub": "non",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/9jTyGTwbgPmEPDm/preview",
+        "ILLUST": "© DODELIN - PNRM",
+        "acces_lib": "Site fermé au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783874.2736942718,
+          6680000.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-008",
+        "nom_site": "Tourbière de Champgazon",
+        "surf_site": 21.09,
+        "num_site": 8,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/EBCSGyMe2fkZ7FF/preview",
+        "ILLUST": "© DODELIN - PNRM",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779468.9523836287,
+          6678712.763619394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-009",
+        "nom_site": "Prés des Vernois",
+        "surf_site": 15.18,
+        "num_site": 9,
+        "acces_pub": "non",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/fXamxKCtxK2TGtN/preview",
+        "ILLUST": "© DODELIN - PNRM",
+        "acces_lib": "Site fermé au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780449.3199546561,
+          6673855.651312486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-011",
+        "nom_site": "Tourbière de la Croisette",
+        "surf_site": 4.26,
+        "num_site": 11,
+        "acces_pub": "non",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/zRytkyfRLqMpg5s/preview",
+        "ILLUST": "© CORBEAUX - PNRM",
+        "acces_lib": "Site fermé au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782468.3038000017,
+          6655760.9384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-010",
+        "nom_site": "Tourbière et Etang de Préperny",
+        "surf_site": 7.61,
+        "num_site": 10,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/4HTff23CPaY5nLf/preview",
+        "ILLUST": "© DODELIN - PNRM",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778751.5781000033,
+          6656587.478799999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_site": "FR9300163-012",
+        "nom_site": "Tourbière du Port des Lamberts - Sources de l'Yonne",
+        "surf_site": 22.41,
+        "num_site": 12,
+        "acces_pub": "oui",
+        "acces_par": null,
+        "nom_rnr": "Tourbières du Morvan",
+        "surf_rnr": 266.0,
+        "date_crea": "2015-11-13",
+        "gest_site": "Syndicat Mixte du PNR Morvan",
+        "operateur": "Réserves naturelles de France",
+        "acte_deb": "FR930016320151026",
+        "url_fiche": "http://www.reserves-naturelles.org/tourbieres-du-morvan",
+        "id_mnhn": "FR9300163",
+        "id_local": "RNR00302",
+        "CONTACT": "Christine DODELIN",
+        "TELEPHONE": "03.86.78.79.00",
+        "PHOTO": "https://partage.parcdumorvan.org/index.php/s/wF94F2FGJt7oMnZ/preview",
+        "ILLUST": "© Olivier BARDET",
+        "acces_lib": "Site ouvert au public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776800.5644999966,
+          6651566.398200002
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a69df0b1329b7d8b83",
+    "dataset_name": "Sites de la Réserve Naturelle des Tourbières du Morvan (points)",
+    "resource_id": "e499f6d6-242b-4665-9dbb-6cad5b5ea34a",
+    "dataset_url": "https://www.data.gouv.fr/datasets/sites-de-la-reserve-naturelle-regionale-des-tourbieres-du-morvan-entites-ponctuelles",
+    "layer": "nature-environnement/tourbieres-points",
+    "fetched_at": "2026-03-12T21:05:06.440856+00:00"
+  }
+}

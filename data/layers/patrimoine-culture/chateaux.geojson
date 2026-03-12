@@ -1,0 +1,3026 @@
+{
+  "type": "FeatureCollection",
+  "name": "Chateaux_P_PNRM",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 1,
+        "NOM": "Château de Saint-Léger",
+        "COMMUNE": "SAINT-LEGER-DE-FOUGERET",
+        "ENTITE": 16,
+        "CoordX": 717349.3823691432,
+        "CoordY": 2225297.7500826055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766862.7553727056,
+          6657810.637229512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 2,
+        "NOM": "Château de Montalembert",
+        "COMMUNE": "LA ROCHE-EN-BRENIL",
+        "ENTITE": 6,
+        "CoordX": 739314.1403541802,
+        "CoordY": 2266734.049087901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789161.079427399,
+          6699025.9954579435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 3,
+        "NOM": "Château de Chastellux",
+        "COMMUNE": "CHASTELLUX-SUR-CURE",
+        "ENTITE": 1,
+        "CoordX": 717329.6767668115,
+        "CoordY": 2267069.158894995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767197.2108072584,
+          6699547.605547088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 4,
+        "NOM": "Château de Vauban",
+        "COMMUNE": "BAZOCHES",
+        "ENTITE": 3,
+        "CoordX": 709653.3135515254,
+        "CoordY": 2263186.6969658337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759494.1268752184,
+          6695733.387995247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 5,
+        "NOM": "Château de Besne",
+        "COMMUNE": "SAINT-PEREUSE",
+        "ENTITE": 16,
+        "CoordX": 711729.504978587,
+        "CoordY": 2230582.4030986126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761292.3520594696,
+          6663138.423382098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 6,
+        "NOM": "Château de Thard",
+        "COMMUNE": "ONLAY",
+        "ENTITE": 17,
+        "CoordX": 719301.7263768994,
+        "CoordY": 2217682.9095908785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768748.8381326573,
+          6650185.616309489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 7,
+        "NOM": "Château de Montjoux",
+        "COMMUNE": "PREPORCHE",
+        "ENTITE": 17,
+        "CoordX": 714893.1706924642,
+        "CoordY": 2219353.9904955863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764358.2188767706,
+          6651892.660178691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 8,
+        "NOM": "Château des Moines",
+        "COMMUNE": "VILLAPOURCON",
+        "ENTITE": 17,
+        "CoordX": 724743.565941738,
+        "CoordY": 2217935.759964983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774188.2738651386,
+          6650392.126077473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 9,
+        "NOM": "Château de Rivière",
+        "COMMUNE": "LAROCHEMILLAY",
+        "ENTITE": 14,
+        "CoordX": 724996.4163158427,
+        "CoordY": 2207656.5387300844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774353.6250975329,
+          6640119.383046745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 10,
+        "NOM": "Château d'Ettevaux",
+        "COMMUNE": "POIL",
+        "ENTITE": 14,
+        "CoordX": 728910.2697277884,
+        "CoordY": 2209118.763163568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778276.5828844167,
+          6641547.201568906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 11,
+        "NOM": "Château de Larochemillay",
+        "COMMUNE": "LAROCHEMILLAY",
+        "ENTITE": 14,
+        "CoordX": 726656.4987448308,
+        "CoordY": 2210097.1692328267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776033.0245420435,
+          6642543.924132841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 12,
+        "NOM": "Château de Machefer",
+        "COMMUNE": "LAROCHEMILLAY",
+        "ENTITE": 14,
+        "CoordX": 727634.9048140895,
+        "CoordY": 2209987.299043082
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777009.6520565443,
+          6642425.804554725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 13,
+        "NOM": "Château de Villette",
+        "COMMUNE": "POIL",
+        "ENTITE": 14,
+        "CoordX": 730768.2101522813,
+        "CoordY": 2209041.773833528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780132.2323855676,
+          6641454.477812622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 14,
+        "NOM": "Château de Thil",
+        "COMMUNE": "POIL",
+        "ENTITE": 19,
+        "CoordX": 730845.0849148659,
+        "CoordY": 2206908.9860834903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780190.9536981541,
+          6639322.830798795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 15,
+        "NOM": "Château de Gissy",
+        "COMMUNE": "SAINT-DIDIER-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 733373.7032233683,
+        "CoordY": 2206546.150952186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782714.2937693928,
+          6638938.846470294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 16,
+        "NOM": "Château de Saint-Didier",
+        "COMMUNE": "SAINT-DIDIER-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 735924.2039158551,
+        "CoordY": 2205325.8929845425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785252.2296756741,
+          6637697.907332171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 17,
+        "NOM": "Château de Vaux",
+        "COMMUNE": "ETANG-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 738100.9855687727,
+        "CoordY": 2205831.593732752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787431.4528826957,
+          6638184.678393135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 18,
+        "NOM": "Château des Porrots",
+        "COMMUNE": "COMELLE (LA)",
+        "ENTITE": 19,
+        "CoordX": 736188.0527656798,
+        "CoordY": 2209536.4761060174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785551.6803631485,
+          6641902.690401732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 19,
+        "NOM": "Château des Sanrats",
+        "COMMUNE": "COMELLE (LA)",
+        "ENTITE": 19,
+        "CoordX": 736254.0436199999,
+        "CoordY": 2209008.778406368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785613.0398666151,
+          6641374.877569139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 20,
+        "NOM": "Château de Fougerette",
+        "COMMUNE": "ETANG-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 742069.7167918631,
+        "CoordY": 2207843.3982498692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791413.841385609,
+          6640161.027094657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 21,
+        "NOM": "Château de La Chaume",
+        "COMMUNE": "ETANG-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 741025.3198682844,
+        "CoordY": 2207447.6822588597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790366.9744416106,
+          6639774.544147901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 22,
+        "NOM": "Château de Varillon",
+        "COMMUNE": "SAINT-DIDIER-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 737441.4207279386,
+        "CoordY": 2205062.0441347174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786765.8804803361,
+          6637421.339192844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 23,
+        "NOM": "Château du Jeu",
+        "COMMUNE": "COMELLE (LA)",
+        "ENTITE": 14,
+        "CoordX": 733406.6986505282,
+        "CoordY": 2211801.245564695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782791.9050797524,
+          6644189.117164273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 24,
+        "NOM": "Château de Concley",
+        "COMMUNE": "POIL",
+        "ENTITE": 14,
+        "CoordX": 731383.7810902353,
+        "CoordY": 2211845.239467575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780771.1124591238,
+          6644250.2759763235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 25,
+        "NOM": "Château de Pierrefitte",
+        "COMMUNE": "POIL",
+        "ENTITE": 14,
+        "CoordX": 728954.2636306685,
+        "CoordY": 2211900.11727872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778344.1605207832,
+          6644325.777884135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 26,
+        "NOM": "Château de Montaugé",
+        "COMMUNE": "SAINT-LEGER-SOUS-BEUVRAY",
+        "ENTITE": 14,
+        "CoordX": 736397.02380436,
+        "CoordY": 2214758.575291367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          785804.7728922023,
+          6647118.593820579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 27,
+        "NOM": "Château de la Rebondie",
+        "COMMUNE": "COMELLE (LA)",
+        "ENTITE": 19,
+        "CoordX": 737243.562732434,
+        "CoordY": 2210888.715782301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786617.7663228809,
+          6643244.772508411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 28,
+        "NOM": "Château de Maizières",
+        "COMMUNE": "LAIZY",
+        "ENTITE": 19,
+        "CoordX": 742894.2587684972,
+        "CoordY": 2212757.654682514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792279.5243347079,
+          6645064.139551266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 29,
+        "NOM": "Château de la Tour-du-Chapitre",
+        "COMMUNE": "BRION",
+        "ENTITE": 19,
+        "CoordX": 743268.0923755219,
+        "CoordY": 2213725.0622760523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792661.231940089,
+          6646027.541906173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 30,
+        "NOM": "Château de Savilly",
+        "COMMUNE": "GRANDE-VERRIERE (LA)",
+        "ENTITE": 14,
+        "CoordX": 738309.9566074528,
+        "CoordY": 2218408.4652860323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787747.1579876693,
+          6650749.14589833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 31,
+        "NOM": "Château de Vauteau",
+        "COMMUNE": "GRANDE-VERRIERE (LA)",
+        "ENTITE": 14,
+        "CoordX": 739068.5077297669,
+        "CoordY": 2217814.776732063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788499.9677968342,
+          6650149.496990514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 32,
+        "NOM": "Château de Bouton",
+        "COMMUNE": "GRANDE-VERRIERE (LA)",
+        "ENTITE": 13,
+        "CoordX": 740002.9198961456,
+        "CoordY": 2220651.1232258147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789457.6808144513,
+          6652975.460790023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 33,
+        "NOM": "Château des Roches de Glenne",
+        "COMMUNE": "GRANDE-VERRIERE (LA)",
+        "ENTITE": 14,
+        "CoordX": 735297.6345021811,
+        "CoordY": 2220541.25303607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784755.4362875599,
+          6652905.759698785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 34,
+        "NOM": "Château de Glux-en-Glenne",
+        "COMMUNE": "GLUX-EN-GLENNE",
+        "ENTITE": 14,
+        "CoordX": 729196.1155290531,
+        "CoordY": 2218496.4530917923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778641.752455269,
+          6650914.538803332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 35,
+        "NOM": "Château de Clinzeau",
+        "COMMUNE": "SAINT-LEGER-DE-FOUGERET",
+        "ENTITE": 16,
+        "CoordX": 718839.9049641147,
+        "CoordY": 2224092.271316711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768341.7847282963,
+          6656593.520626247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 36,
+        "NOM": "Château de Moulin-Engilbert",
+        "COMMUNE": "MOULINS-ENGILBERT",
+        "ENTITE": 16,
+        "CoordX": 711990.8333443926,
+        "CoordY": 2222245.329367938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761482.7693946403,
+          6654806.109317762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 37,
+        "NOM": "Château de Villaine",
+        "COMMUNE": "MOULINS-ENGILBERT",
+        "ENTITE": 17,
+        "CoordX": 713727.9051034208,
+        "CoordY": 2219441.863733891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763194.6437310489,
+          6651990.357534021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 38,
+        "NOM": "Château de Marry",
+        "COMMUNE": "MOULINS-ENGILBERT",
+        "ENTITE": 17,
+        "CoordX": 712837.3722724668,
+        "CoordY": 2217188.207318389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762285.7859412355,
+          6649746.10384311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 39,
+        "NOM": "Château de la Vaudelle",
+        "COMMUNE": "SERMAGES",
+        "ENTITE": 16,
+        "CoordX": 715102.0271636889,
+        "CoordY": 2225103.6728131296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764615.5921352841,
+          6657635.745775265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 40,
+        "NOM": "Château de Mouasse",
+        "COMMUNE": "SAINT-HILAIRE-EN-MORVAN",
+        "ENTITE": 16,
+        "CoordX": 716981.9645396218,
+        "CoordY": 2228039.0055883615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766518.9046582463,
+          6660552.645061985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 41,
+        "NOM": "Château de Saulières",
+        "COMMUNE": "SAINT-PEREUSE",
+        "ENTITE": 16,
+        "CoordX": 712848.3707481867,
+        "CoordY": 2229039.40860906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762397.2395931901,
+          6661587.235238523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 42,
+        "NOM": "Château de Champigny",
+        "COMMUNE": "SAINT-HILAIRE-EN-MORVAN",
+        "ENTITE": 16,
+        "CoordX": 716421.3859802678,
+        "CoordY": 2231557.0284418426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765988.6000812809,
+          6664072.4458357785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 43,
+        "NOM": "Château de Montbracon",
+        "COMMUNE": "DOMMARTIN",
+        "ENTITE": 16,
+        "CoordX": 715640.8379065137,
+        "CoordY": 2230578.6223725835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765200.3562233277,
+          6663101.481794477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 44,
+        "NOM": "Château de Moulinette",
+        "COMMUNE": "SAINT-HILAIRE-EN-MORVAN",
+        "ENTITE": 16,
+        "CoordX": 718905.8958184347,
+        "CoordY": 2231502.0360632422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768470.5613379928,
+          6663996.428864713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 45,
+        "NOM": "Château d'Argoulais",
+        "COMMUNE": "SAINT-HILAIRE-EN-MORVAN",
+        "ENTITE": 16,
+        "CoordX": 719422.5950423641,
+        "CoordY": 2232645.419268301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768996.5255332643,
+          6665134.48780364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 46,
+        "NOM": "Château de l'Huis-au-Roi",
+        "COMMUNE": "SAINT-HILAIRE-EN-MORVAN",
+        "ENTITE": 16,
+        "CoordX": 718290.3248804806,
+        "CoordY": 2233645.822289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767873.653531346,
+          6666143.653942455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 47,
+        "NOM": "Château de Neuvelle",
+        "COMMUNE": "CORANCY",
+        "ENTITE": 11,
+        "CoordX": 720434.1111062382,
+        "CoordY": 2234129.5260857693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770019.7672626369,
+          6666608.76476384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 48,
+        "NOM": "Château de Quincize",
+        "COMMUNE": "BLISMES",
+        "ENTITE": 11,
+        "CoordX": 710561.7189055245,
+        "CoordY": 2236229.4329761025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          760173.3813267953,
+          6668790.603380433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 49,
+        "NOM": "Château de Poussignol",
+        "COMMUNE": "BLISMES",
+        "ENTITE": 11,
+        "CoordX": 713255.085214916,
+        "CoordY": 2236790.0115354564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762869.2955704959,
+          6669327.912128503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 50,
+        "NOM": "Château de la Tournelle",
+        "COMMUNE": "ARLEUF",
+        "ENTITE": 15,
+        "CoordX": 727736.8698494105,
+        "CoordY": 2227581.8814412486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777260.9044311615,
+          6660004.677763275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 51,
+        "NOM": "Château de la Vévre",
+        "COMMUNE": "CELLE-EN-MORVAN (LA)",
+        "ENTITE": 13,
+        "CoordX": 740764.1060699342,
+        "CoordY": 2224920.594019374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790254.5264705077,
+          6657234.898468201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 52,
+        "NOM": "Château de la-Celle-en-Morvan",
+        "COMMUNE": "CELLE-EN-MORVAN (LA)",
+        "ENTITE": 13,
+        "CoordX": 739738.8419114101,
+        "CoordY": 2225262.3487388818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789232.9953000112,
+          6657585.030486059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 53,
+        "NOM": "Château de La-Grande-Verrière",
+        "COMMUNE": "GRANDE-VERRIERE (LA)",
+        "ENTITE": 14,
+        "CoordX": 737360.3069695036,
+        "CoordY": 2220067.745742833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786812.3634958947,
+          6652415.022563225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 54,
+        "NOM": "Château de La-Petite-Verrière",
+        "COMMUNE": "PETITE-VERRIERE (LA)",
+        "ENTITE": 9,
+        "CoordX": 738440.2198042616,
+        "CoordY": 2229076.184762249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          787967.896441838,
+          6661406.77154443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 55,
+        "NOM": "Château de Vareille",
+        "COMMUNE": "SOMMANT",
+        "ENTITE": 8,
+        "CoordX": 742472.8796674745,
+        "CoordY": 2229623.0152269527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792001.8585443026,
+          6661918.824849884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 56,
+        "NOM": "Château de Sommant",
+        "COMMUNE": "SOMMANT",
+        "ENTITE": 8,
+        "CoordX": 742869.2830632164,
+        "CoordY": 2229664.030375992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792398.2747755282,
+          6661956.420138614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 57,
+        "NOM": "Château de Montcelin",
+        "COMMUNE": "SOMMANT",
+        "ENTITE": 8,
+        "CoordX": 742800.8862923326,
+        "CoordY": 2229882.7396483826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792331.7912208253,
+          6662175.518774704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 58,
+        "NOM": "Château de Visigneux",
+        "COMMUNE": "LUCENAY-L'EVEQUE",
+        "ENTITE": 8,
+        "CoordX": 746669.4855593888,
+        "CoordY": 2234147.7423111806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796233.4171885636,
+          6666404.060440661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 59,
+        "NOM": "Château de la Ferrière",
+        "COMMUNE": "ANOST",
+        "ENTITE": 9,
+        "CoordX": 736663.0494358375,
+        "CoordY": 2229718.679052226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786197.647173516,
+          6662063.8412374575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 60,
+        "NOM": "Château du Guidon",
+        "COMMUNE": "CHISSEY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 743484.3957313487,
+        "CoordY": 2236622.0556458156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793072.011899545,
+          6668903.483423755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 61,
+        "NOM": "Château de Chissey-en-Morvan",
+        "COMMUNE": "CHISSEY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 743347.7167570365,
+        "CoordY": 2236813.383296361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792937.0519833344,
+          6669095.7861890765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 62,
+        "NOM": "Château de la Prée",
+        "COMMUNE": "CHISSEY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 742513.8948165138,
+        "CoordY": 2237428.610531949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792109.175510295,
+          6669717.562262553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 63,
+        "NOM": "Château de Buis",
+        "COMMUNE": "CHISSEY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 742445.4980456299,
+        "CoordY": 2239233.0479547624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792056.1703174956,
+          6671521.041147883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 64,
+        "NOM": "Château de Montot",
+        "COMMUNE": "BRAZEY-EN-MORVAN",
+        "ENTITE": 10,
+        "CoordX": 745876.6787679051,
+        "CoordY": 2242800.793083894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          795514.8605076611,
+          6675056.705607895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 65,
+        "NOM": "Château de la Ferrière",
+        "COMMUNE": "ALLIGNY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 741119.4943166368,
+        "CoordY": 2244427.536383356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790775.4200601212,
+          6676722.499903568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 66,
+        "NOM": "Château d'Alligny-en-Morvan",
+        "COMMUNE": "ALLIGNY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 739123.7292432777,
+        "CoordY": 2246068.0277774683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788795.2067844769,
+          6678378.604794737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 67,
+        "NOM": "Château de Ménessaire",
+        "COMMUNE": "MENESSAIRE",
+        "ENTITE": 8,
+        "CoordX": 737114.2160752686,
+        "CoordY": 2238522.1568939015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786723.2582221639,
+          6670856.150747579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 68,
+        "NOM": "Château de la Chaux",
+        "COMMUNE": "ALLIGNY-EN-MORVAN",
+        "ENTITE": 7,
+        "CoordX": 736403.4395818632,
+        "CoordY": 2248733.668762649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          786099.7910792556,
+          6681065.210200458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 69,
+        "NOM": "Château de Champcommeau",
+        "COMMUNE": "ALLIGNY-EN-MORVAN",
+        "ENTITE": 8,
+        "CoordX": 739233.0265957452,
+        "CoordY": 2248132.189621711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788921.9576246255,
+          6680440.164753494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 70,
+        "NOM": "Château de Vizaine",
+        "COMMUNE": "OUROUX-EN-MORVAN",
+        "ENTITE": 11,
+        "CoordX": 719466.3598103332,
+        "CoordY": 2245029.130091749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769145.2976214562,
+          6677507.491340201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 71,
+        "NOM": "Château de Chassy",
+        "COMMUNE": "MONTREUILLON",
+        "ENTITE": 11,
+        "CoordX": 713465.2019281504,
+        "CoordY": 2242007.9862924106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763123.4470767205,
+          6674539.7919550855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 72,
+        "NOM": "Château de Marcilly",
+        "COMMUNE": "CERVON",
+        "ENTITE": 12,
+        "CoordX": 703158.0262341301,
+        "CoordY": 2247257.352532149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          752869.2144006789,
+          6679872.175174682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 73,
+        "NOM": "Château de Lantilly",
+        "COMMUNE": "CERVON",
+        "ENTITE": 12,
+        "CoordX": 704648.09055928,
+        "CoordY": 2249389.79657982
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          754376.1507099526,
+          6681990.201126475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 74,
+        "NOM": "Château de Pontot",
+        "COMMUNE": "CERVON",
+        "ENTITE": 12,
+        "CoordX": 707286.349922616,
+        "CoordY": 2252274.1468373914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          757036.61887692,
+          6684849.782425554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 75,
+        "NOM": "Château de Suzy",
+        "COMMUNE": "CERVON",
+        "ENTITE": 12,
+        "CoordX": 709323.2447124699,
+        "CoordY": 2251741.0644673374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759067.3349947787,
+          6684299.961357201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 76,
+        "NOM": "Château de Raffigny",
+        "COMMUNE": "GACOGNE",
+        "ENTITE": 4,
+        "CoordX": 715638.6611248609,
+        "CoordY": 2248638.004937376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765351.3483038875,
+          6681145.8714574035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 77,
+        "NOM": "Château de Saugny",
+        "COMMUNE": "GACOGNE",
+        "ENTITE": 4,
+        "CoordX": 714216.9935705948,
+        "CoordY": 2251262.6307735173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763953.0629764304,
+          6683780.363407226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 78,
+        "NOM": "Château de Conforgien",
+        "COMMUNE": "SAINT-MARTIN-DE-LA-MER",
+        "ENTITE": 10,
+        "CoordX": 741857.7669993421,
+        "CoordY": 2249731.5512993285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791558.1972778407,
+          6682015.933371265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 79,
+        "NOM": "Château de Mâcon",
+        "COMMUNE": "SAINT-MARTIN-DE-LA-MER",
+        "ENTITE": 10,
+        "CoordX": 744208.920319404,
+        "CoordY": 2251754.697994532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793924.5723449358,
+          6684017.378263642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 80,
+        "NOM": "Château de Villargoix",
+        "COMMUNE": "VILLARGOIX",
+        "ENTITE": 10,
+        "CoordX": 748118.5347354994,
+        "CoordY": 2256880.9042196977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797874.5864181501,
+          6689106.120093514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 81,
+        "NOM": "Château d'Arcenay",
+        "COMMUNE": "LACOUR-D'ARCENAY",
+        "ENTITE": 20,
+        "CoordX": 744919.8113802647,
+        "CoordY": 2264330.9967105356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794741.8477076545,
+          6696577.312988973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 82,
+        "NOM": "Château de Lacour d'Arcenay",
+        "COMMUNE": "LACOUR-D'ARCENAY",
+        "ENTITE": 20,
+        "CoordX": 744345.7138611715,
+        "CoordY": 2265096.5364476303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794174.7196711805,
+          6697347.068522792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 83,
+        "NOM": "Château de Juillenay",
+        "COMMUNE": "JUILLENAY",
+        "ENTITE": 20,
+        "CoordX": 746355.1124617254,
+        "CoordY": 2263989.356558483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796173.0874595969,
+          6696223.789658274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 84,
+        "NOM": "Château d'Aizy-sous-Thil",
+        "COMMUNE": "AISY-SOUS-THIL",
+        "ENTITE": 20,
+        "CoordX": 747134.4002934698,
+        "CoordY": 2267789.5590546555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796984.0910810716,
+          6700014.265339806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 85,
+        "NOM": "Château de Villars-Dompierre",
+        "COMMUNE": "DOMPIERRE-EN-MORVAN",
+        "ENTITE": 20,
+        "CoordX": 744140.6381159757,
+        "CoordY": 2267803.19258185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793992.8034141014,
+          6700053.306420399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 86,
+        "NOM": "Château de Précy-sous-Thil",
+        "COMMUNE": "PRECY-SOUS-THIL",
+        "ENTITE": 20,
+        "CoordX": 748542.3197530858,
+        "CoordY": 2268076.66509793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798393.3063554743,
+          6700289.159588517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 87,
+        "NOM": "Château de Saint-Andeux",
+        "COMMUNE": "SAINT-ANDEUX",
+        "ENTITE": 1,
+        "CoordX": 732944.8772377435,
+        "CoordY": 2268555.09879175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782812.4524389396,
+          6700899.715133413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 88,
+        "NOM": "Château de Ruères",
+        "COMMUNE": "SAINT-LEGER-VAUBAN",
+        "ENTITE": 1,
+        "CoordX": 731085.7911386965,
+        "CoordY": 2267051.4009394054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780942.0742479656,
+          6699413.0282238955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 89,
+        "NOM": "Château de Quarré-les-Tombes",
+        "COMMUNE": "QUARRE-LES-TOMBES",
+        "ENTITE": 1,
+        "CoordX": 725166.6635545918,
+        "CoordY": 2264508.8054013425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          775006.1555733214,
+          6696922.759006788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 90,
+        "NOM": "Château de Vermot",
+        "COMMUNE": "DUN-LES-PLACES",
+        "ENTITE": 2,
+        "CoordX": 723225.5471574665,
+        "CoordY": 2256443.4856749168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772998.1101409253,
+          6688880.554741426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 91,
+        "NOM": "Château de Villarnoux",
+        "COMMUNE": "BUSSIERES",
+        "ENTITE": 1,
+        "CoordX": 728136.481133904,
+        "CoordY": 2271647.9618181796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778034.1696801028,
+          6704030.942193215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 92,
+        "NOM": "Château de Saint-Léger-Vauban",
+        "COMMUNE": "SAINT-LEGER-VAUBAN",
+        "ENTITE": 1,
+        "CoordX": 728483.162253995,
+        "CoordY": 2266727.977012764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778338.819150571,
+          6699111.991516801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 93,
+        "NOM": "Château de Railly",
+        "COMMUNE": "SAINT-GERMAIN-DES-CHAMPS",
+        "ENTITE": 1,
+        "CoordX": 720628.8757804467,
+        "CoordY": 2265902.862198853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770483.8538808024,
+          6698354.251208274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 94,
+        "NOM": "Château de Vésigneux",
+        "COMMUNE": "SAINT-MARTIN-DU-PUY",
+        "ENTITE": 1,
+        "CoordX": 716242.202479996,
+        "CoordY": 2263124.6014049975
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766077.1514373873,
+          6695615.450331224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 95,
+        "NOM": "Château d'Island",
+        "COMMUNE": "ISLAND",
+        "ENTITE": 0,
+        "CoordX": 714163.719703826,
+        "CoordY": 2275940.002400456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764108.9944048603,
+          6708438.101731535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 96,
+        "NOM": "Château de Domecy-sur-Cure",
+        "COMMUNE": "DOMECY-SUR-CURE",
+        "ENTITE": 3,
+        "CoordX": 710320.2107095061,
+        "CoordY": 2269088.410296715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          760210.494693309,
+          6701624.641295806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 97,
+        "NOM": "Château de Bazoches",
+        "COMMUNE": "BAZOCHES",
+        "ENTITE": 3,
+        "CoordX": 710079.9627554972,
+        "CoordY": 2265662.6142448443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759941.4572285705,
+          6698203.656120464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 98,
+        "NOM": "Château de Fraifontaine",
+        "COMMUNE": "LORMES",
+        "ENTITE": 4,
+        "CoordX": 713560.5220510571,
+        "CoordY": 2253544.2416481413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763316.4385825172,
+          6686065.653392544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 99,
+        "NOM": "Château de Champien",
+        "COMMUNE": "AVALLON",
+        "ENTITE": 0,
+        "CoordX": 716747.215823473,
+        "CoordY": 2278724.4498369037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766714.0399203029,
+          6711198.33503167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 100,
+        "NOM": "Château des Alleux",
+        "COMMUNE": "AVALLON",
+        "ENTITE": 0,
+        "CoordX": 717802.4966553163,
+        "CoordY": 2277407.9552067104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767757.3285118357,
+          6709874.034687327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 101,
+        "NOM": "Château de l'Hospice",
+        "COMMUNE": "AVALLON",
+        "ENTITE": 0,
+        "CoordX": 718230.8643711194,
+        "CoordY": 2276937.77036968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          768181.3970806338,
+          6709400.576675437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 102,
+        "NOM": "Château du Moulin des Templiers",
+        "COMMUNE": "PONTAUBERT",
+        "ENTITE": 0,
+        "CoordX": 715744.1777512996,
+        "CoordY": 2277846.8631284116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          765704.3998657402,
+          6710330.053953869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 103,
+        "NOM": "Château des Pannats",
+        "COMMUNE": "AVALLON",
+        "ENTITE": 0,
+        "CoordX": 719693.66164188,
+        "CoordY": 2275767.578380054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          769633.0983107724,
+          6708218.901495363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 104,
+        "NOM": "Château de Montmartin",
+        "COMMUNE": "LAVAULT-DE-FRETOY",
+        "ENTITE": 15,
+        "CoordX": 726759.7240221613,
+        "CoordY": 2236048.187261633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776356.3702334501,
+          6668472.176729209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 105,
+        "NOM": "Chateau de Villemolin",
+        "COMMUNE": "ANTHIEN",
+        "ENTITE": 12,
+        "CoordX": 704577.0587369216,
+        "CoordY": 2254979.4281621464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          754352.550270228,
+          6687575.816660539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 106,
+        "NOM": "Château de Presles",
+        "COMMUNE": "CUSSY-LES-FORGES",
+        "ENTITE": 1,
+        "CoordX": 727869.8826651493,
+        "CoordY": 2274616.0608856604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777792.9849973854,
+          6706998.907760337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 107,
+        "NOM": "Château de Marrault",
+        "COMMUNE": "MAGNY",
+        "ENTITE": 1,
+        "CoordX": 721440.3570671632,
+        "CoordY": 2273426.5069960686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771358.5330739099,
+          6705864.86044912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 108,
+        "NOM": "Château de Bourbilly",
+        "COMMUNE": "VIC-DE-CHASSENAY",
+        "ENTITE": 20,
+        "CoordX": 743067.9430309089,
+        "CoordY": 2274455.7810155326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792977.5311814414,
+          6706709.634177636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 109,
+        "NOM": "Château de Bierre-les-Semur",
+        "COMMUNE": "BIERRE-LES-SEMUR",
+        "ENTITE": 20,
+        "CoordX": 748126.3253224677,
+        "CoordY": 2271040.410602105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798002.8542902203,
+          6703253.991228299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 110,
+        "NOM": "Château de Thaveneau",
+        "COMMUNE": "MOURON-SUR-YONNE",
+        "ENTITE": 12,
+        "CoordX": 704908.0441156205,
+        "CoordY": 2245331.931876416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          754601.4684043346,
+          6677933.443789714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 111,
+        "NOM": "Château de Coulon",
+        "COMMUNE": "MOURON-SUR-YONNE",
+        "ENTITE": 12,
+        "CoordX": 706203.0000641956,
+        "CoordY": 2245986.1120468453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          755900.9441528111,
+          6678576.136094868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 112,
+        "NOM": "Château de Niault",
+        "COMMUNE": "CHOUGNY",
+        "ENTITE": 16,
+        "CoordX": 709471.7241346899,
+        "CoordY": 2234580.578157745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759070.3134349614,
+          6667152.408955569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 113,
+        "NOM": "Château de Chenizot",
+        "COMMUNE": "CHOUGNY",
+        "ENTITE": 16,
+        "CoordX": 708315.7385095352,
+        "CoordY": 2231980.355189607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          757893.2387088673,
+          6664564.165828027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 114,
+        "NOM": "Château d'Abon",
+        "COMMUNE": "MAUX",
+        "ENTITE": 16,
+        "CoordX": 706940.0125048914,
+        "CoordY": 2227472.011251504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          756480.4817157077,
+          6660071.1811934365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 115,
+        "NOM": "Château du Charmois",
+        "COMMUNE": "MAUX",
+        "ENTITE": 16,
+        "CoordX": 709615.7354261487,
+        "CoordY": 2225105.735027327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          759133.8993962839,
+          6657684.215177822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 116,
+        "NOM": "Château de la Bussière",
+        "COMMUNE": "SEMELAY",
+        "ENTITE": 18,
+        "CoordX": 718206.3469356602,
+        "CoordY": 2208160.7501013735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          767573.5999364246,
+          6640680.873319313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 117,
+        "NOM": "Château du Martray",
+        "COMMUNE": "SEMELAY",
+        "ENTITE": 18,
+        "CoordX": 717283.8497846448,
+        "CoordY": 2207123.4563600305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          766643.0820746431,
+          6639652.269940699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 118,
+        "NOM": "Château de Saint-Michel",
+        "COMMUNE": "REMILLY",
+        "ENTITE": 0,
+        "CoordX": 712435.0113690433,
+        "CoordY": 2206959.395763874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          761796.9979997701,
+          6639529.3825006215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 119,
+        "NOM": "Château du Plessis",
+        "COMMUNE": "SEMELAY",
+        "ENTITE": 18,
+        "CoordX": 713873.1766368892,
+        "CoordY": 2206428.261040562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          763229.4755868661,
+          6638986.553172811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 120,
+        "NOM": "Château de la Montagne",
+        "COMMUNE": "SAINT-HONORE-LES-BAINS",
+        "ENTITE": 18,
+        "CoordX": 714926.5098219905,
+        "CoordY": 2211824.1590557783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764327.6464000286,
+          6644368.954928504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 121,
+        "NOM": "Château de Champlevrier",
+        "COMMUNE": "CHIDDES",
+        "ENTITE": 18,
+        "CoordX": 722240.610743249,
+        "CoordY": 2208618.5616532187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          771608.344931837,
+          6641104.061041776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 122,
+        "NOM": "Château de Rémilly",
+        "COMMUNE": "REMILLY",
+        "ENTITE": 18,
+        "CoordX": 712736.0946418784,
+        "CoordY": 2203463.713564199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          762068.199768005,
+          6636034.108741151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 123,
+        "NOM": "Château des Hérards",
+        "COMMUNE": "MILLAY",
+        "ENTITE": 21,
+        "CoordX": 725342.5245986566,
+        "CoordY": 2203783.929602089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          774666.5593603067,
+          6636247.130079194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 124,
+        "NOM": "Château des Moindrots",
+        "COMMUNE": "LUZY",
+        "ENTITE": 21,
+        "CoordX": 722740.0102814104,
+        "CoordY": 2201225.8674575444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          772044.5847112336,
+          6633713.403874308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 125,
+        "NOM": "Château de Mazille",
+        "COMMUNE": "LUZY",
+        "ENTITE": 21,
+        "CoordX": 726745.2885227788,
+        "CoordY": 2201215.4418191016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          776046.3523717525,
+          6633668.9012941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 126,
+        "NOM": "Château de la Chaise",
+        "COMMUNE": "LUZY",
+        "ENTITE": 21,
+        "CoordX": 730049.4139369968,
+        "CoordY": 2202692.7891567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          779360.1367768999,
+          6635116.973497554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 127,
+        "NOM": "Château de la Planche",
+        "COMMUNE": "MILLAY",
+        "ENTITE": 21,
+        "CoordX": 729404.0554606345,
+        "CoordY": 2203843.733813816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778725.1672728646,
+          6636272.37811336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 128,
+        "NOM": "Château de Magny",
+        "COMMUNE": "MILLAY",
+        "ENTITE": 21,
+        "CoordX": 729195.3135568652,
+        "CoordY": 2205809.482213856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          778533.2389774816,
+          6638238.283163706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 129,
+        "NOM": "Château des Jouleaux",
+        "COMMUNE": "SAINT-DIDIER-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 732692.7142683712,
+        "CoordY": 2203909.8392355917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782011.487117056,
+          6636310.474411735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 130,
+        "NOM": "Château de Souve",
+        "COMMUNE": "THIL-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 732747.7066469713,
+        "CoordY": 2202674.2292289226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          782055.9444621693,
+          6635075.458183043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 131,
+        "NOM": "Château du Vieux-Bourg",
+        "COMMUNE": "THIL-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 734714.3715866546,
+        "CoordY": 2201861.4877001964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          784014.038787375,
+          6634246.734409473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 132,
+        "NOM": "Château des Rondeaux",
+        "COMMUNE": "SAINT-NIZIER-SUR-ARROUX",
+        "ENTITE": 19,
+        "CoordX": 739141.945468689,
+        "CoordY": 2202553.4751309133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788443.5945707223,
+          6634900.527193864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 133,
+        "NOM": "Château de Montleurton",
+        "COMMUNE": "TAGNIERE (LA)",
+        "ENTITE": 19,
+        "CoordX": 741094.0603415343,
+        "CoordY": 2201291.4000420426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          790383.3802991204,
+          6633622.917817867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 134,
+        "NOM": "Château de Bussière",
+        "COMMUNE": "TAGNIERE (LA)",
+        "ENTITE": 19,
+        "CoordX": 741940.5992696085,
+        "CoordY": 2204479.8123262897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          791256.2547490619,
+          6636801.394015117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 135,
+        "NOM": "Château de Valotte",
+        "COMMUNE": "TAGNIERE (LA)",
+        "ENTITE": 0,
+        "CoordX": 744004.1882765744,
+        "CoordY": 2202206.794010822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793298.7657872317,
+          6634512.800843676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 136,
+        "NOM": "Château de la Tagnière",
+        "COMMUNE": "TAGNIERE (LA)",
+        "ENTITE": 0,
+        "CoordX": 744467.1553639133,
+        "CoordY": 2201462.9075228013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793755.0456593375,
+          6633765.605213347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 137,
+        "NOM": "Château de Champignolle",
+        "COMMUNE": "TAGNIERE (LA)",
+        "ENTITE": 0,
+        "CoordX": 742963.228376658,
+        "CoordY": 2201250.9577302807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792250.529098389,
+          6633566.669000026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 138,
+        "NOM": "Château des Champs",
+        "COMMUNE": "AUTUN",
+        "ENTITE": 13,
+        "CoordX": 747663.129100218,
+        "CoordY": 2220816.329496525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797112.8108360118,
+          6653075.376989518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 139,
+        "NOM": "Château des Moreaux",
+        "COMMUNE": "AUTUN",
+        "ENTITE": 13,
+        "CoordX": 747437.6603479579,
+        "CoordY": 2220184.2608449915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796882.2263088141,
+          6652445.826710497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 140,
+        "NOM": "Château de Monthelon (nord)",
+        "COMMUNE": "MONTHELON",
+        "ENTITE": 13,
+        "CoordX": 743727.0496019213,
+        "CoordY": 2219703.4212346077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793170.5724362964,
+          6651996.890320538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 141,
+        "NOM": "Château de Monthelon (sud)",
+        "COMMUNE": "MONTHELON",
+        "ENTITE": 13,
+        "CoordX": 743712.2704001726,
+        "CoordY": 2219057.489920968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793150.3931401636,
+          6651351.6596384905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 142,
+        "NOM": "Château des Rivaux",
+        "COMMUNE": "AUTUN",
+        "ENTITE": 13,
+        "CoordX": 748910.3104198843,
+        "CoordY": 2217292.8074051845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798328.9888806916,
+          6649544.239865773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 143,
+        "NOM": "Château Saint-Blaise",
+        "COMMUNE": "AUTUN",
+        "ENTITE": 13,
+        "CoordX": 749500.5619501912,
+        "CoordY": 2217321.4492690386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798919.0326779087,
+          6649567.794251764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 144,
+        "NOM": "Château de Chantal",
+        "COMMUNE": "MONTHELON",
+        "ENTITE": 13,
+        "CoordX": 742724.011529748,
+        "CoordY": 2221478.9876586557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792183.5160033631,
+          6653779.524185257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 145,
+        "NOM": "Château de la Comaille",
+        "COMMUNE": "TAVERNAY",
+        "ENTITE": 13,
+        "CoordX": 744861.7256803685,
+        "CoordY": 2222955.3038891554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          794331.9647799743,
+          6655236.404880575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 146,
+        "NOM": "Château de Grand-Millery",
+        "COMMUNE": "SAINT-FORGEOT",
+        "ENTITE": 13,
+        "CoordX": 747671.7216593742,
+        "CoordY": 2222255.6404389255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797133.6444000553,
+          6654513.392423752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 147,
+        "NOM": "Château de Lovernay",
+        "COMMUNE": "TAVERNAY",
+        "ENTITE": 13,
+        "CoordX": 744248.6752264336,
+        "CoordY": 2224710.0190363177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793734.400734525,
+          6656994.843950685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 148,
+        "NOM": "Château de Tavernay",
+        "COMMUNE": "TAVERNAY",
+        "ENTITE": 13,
+        "CoordX": 744003.5008718418,
+        "CoordY": 2225517.2613271843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793496.2704865092,
+          6657803.5510765705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 149,
+        "NOM": "Château des Panneaux",
+        "COMMUNE": "TAVERNAY",
+        "ENTITE": 13,
+        "CoordX": 743462.7424822749,
+        "CoordY": 2225839.768714182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792958.6671561849,
+          6658130.379117898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 150,
+        "NOM": "Château de la Cour de Sommant",
+        "COMMUNE": "TAVERNAY",
+        "ENTITE": 13,
+        "CoordX": 742902.2784903764,
+        "CoordY": 2227440.161498898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          792412.3431081556,
+          6659734.201818764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 151,
+        "NOM": "Château de Morcoux",
+        "COMMUNE": "TAVERNAY",
+        "ENTITE": 13,
+        "CoordX": 744433.816234387,
+        "CoordY": 2227188.6859342586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          793940.4184403773,
+          6659469.889547711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 152,
+        "NOM": "Château de Veullerot",
+        "COMMUNE": "LIERNAIS",
+        "ENTITE": 10,
+        "CoordX": 748884.5327424156,
+        "CoordY": 2246915.36867773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          798555.1746770367,
+          6679142.32256749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 153,
+        "NOM": "Château de la Buchère",
+        "COMMUNE": "LIERNAIS",
+        "ENTITE": 10,
+        "CoordX": 746931.5013299268,
+        "CoordY": 2247362.9837260433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          796607.5896254514,
+          6679606.160430831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 154,
+        "NOM": "Château de Voudenay",
+        "COMMUNE": "VOUDENAY",
+        "ENTITE": 20,
+        "CoordX": 755613.4231014054,
+        "CoordY": 2235647.4303025855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          805182.6179779394,
+          6667826.42066927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 155,
+        "NOM": "Château de Cherchilly",
+        "COMMUNE": "MARCHESEUIL",
+        "ENTITE": 20,
+        "CoordX": 752763.3285130038,
+        "CoordY": 2241819.6373957056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          802387.4157029513,
+          6674017.742264619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 156,
+        "NOM": "Château des Granges",
+        "COMMUNE": "CENSEREY",
+        "ENTITE": 20,
+        "CoordX": 750651.7357422183,
+        "CoordY": 2245900.6447251043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800312.2847718893,
+          6678113.32998459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 157,
+        "NOM": "Château de Thoisy-la-Berchère",
+        "COMMUNE": "THOISY-LA-BERCHERE",
+        "ENTITE": 20,
+        "CoordX": 751962.501999641,
+        "CoordY": 2253246.137129147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          801684.5227619117,
+          6685441.611136664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 158,
+        "NOM": "Château de La-Motte-Ternant",
+        "COMMUNE": "LA MOTTE-TERNANT",
+        "ENTITE": 10,
+        "CoordX": 750686.1059788434,
+        "CoordY": 2260574.1007125108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800471.530997019,
+          6692774.451334825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 159,
+        "NOM": "Château de Missery",
+        "COMMUNE": "MISSERY",
+        "ENTITE": 20,
+        "CoordX": 753865.582001568,
+        "CoordY": 2258674.343166791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          803632.2811534184,
+          6690849.158868297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 160,
+        "NOM": "Château de Moissy",
+        "COMMUNE": "MOISSY-MOULINOT",
+        "ENTITE": 12,
+        "CoordX": 702823.7183992242,
+        "CoordY": 2259776.023818078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          752641.1800514912,
+          6692383.327195708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 161,
+        "NOM": "Château de Réconfort",
+        "COMMUNE": "SAIZY",
+        "ENTITE": 0,
+        "CoordX": 700847.200658375,
+        "CoordY": 2261510.1168232653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          750680.9352421768,
+          6694132.721359965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 162,
+        "NOM": "Château de la Baume",
+        "COMMUNE": "AUNAY-EN-BAZOIS",
+        "ENTITE": 0,
+        "CoordX": 705926.6633617305,
+        "CoordY": 2238687.248597157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          755563.0408754607,
+          6671285.612501883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 163,
+        "NOM": "Château d'Achun",
+        "COMMUNE": "ACHUN",
+        "ENTITE": 0,
+        "CoordX": 701848.6347861725,
+        "CoordY": 2237166.021924134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          751475.4233809623,
+          6669800.192730249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 164,
+        "NOM": "Château d'Aulnay-en-Bazois",
+        "COMMUNE": "AUNAY-EN-BAZOIS",
+        "ENTITE": 0,
+        "CoordX": 703406.4084774737,
+        "CoordY": 2236262.3138358067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          753024.2862477511,
+          6668884.062108381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 165,
+        "NOM": "Château de Montagnerot",
+        "COMMUNE": "FONTANGY",
+        "ENTITE": 20,
+        "CoordX": 754735.3781230918,
+        "CoordY": 2262462.057810323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          804533.629499483,
+          6694626.454501416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 166,
+        "NOM": "Château de Thil",
+        "COMMUNE": "VIC-SOUS-THIL",
+        "ENTITE": 20,
+        "CoordX": 750986.0435771244,
+        "CoordY": 2266992.1695649554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          800825.8162402223,
+          6699184.757384979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NUMERO": 167,
+        "NOM": "Château de Ste-Magnance",
+        "COMMUNE": "SAINTE-MAGNANCE",
+        "ENTITE": 1,
+        "CoordX": 730747.7025777617,
+        "CoordY": 2273886.609897022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          780662.2958414035,
+          6706245.5607952215
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "dataset_id": "600066a7983d6728b95d201e",
+    "dataset_name": "Châteaux du PNR du Morvan",
+    "resource_id": "78e4b23a-0610-494e-8f76-5791e7f38567",
+    "dataset_url": "https://www.data.gouv.fr/datasets/entites-paysageres-de-latlas-des-paysages-du-morvan",
+    "layer": "patrimoine-culture/chateaux",
+    "fetched_at": "2026-03-12T21:06:44.676937+00:00"
+  }
+}
