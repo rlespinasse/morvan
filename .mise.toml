@@ -1,4 +1,5 @@
 [tools]
 python = "3"
+node = "22"
 just = "latest"
 "npm:markdownlint-cli" = "latest"

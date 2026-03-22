@@ -1,2 +1,6 @@
 .venv/
 __pycache__/
+site/node_modules/
+site/dist/
+site/public/data/
+site/src/generated-config.js
