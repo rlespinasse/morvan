@@ -2,4 +2,8 @@
 python = "3"
 node = "22"
 just = "latest"
+uv = "latest"
 "npm:markdownlint-cli" = "latest"
+
+[env]
+_.python.venv = { path = ".venv", create = true }
