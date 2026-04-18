@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "leaflet": "^1.9.4",
-    "leaflet-atlas": "file:../../leaflet-atlas"
+    "leaflet-atlas": "^0.2.0"
   },
   "devDependencies": {
     "vite": "^6.0.0"
