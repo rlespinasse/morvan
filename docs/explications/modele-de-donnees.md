@@ -96,16 +96,19 @@ Ce rôle central reflète la réalité administrative française : la commune es
 ## Cycle de vie des données
 
 ```text
-1. sources.json    →  Définit quoi télécharger
-2. just fetch      →  Télécharge et enrichit avec _source
-3. just validate   →  Vérifie intégrité + cohérence avec links.json
-4. data/layers/    →  Données prêtes à l'emploi
+1. sources.json       →  Définit quoi télécharger
+2. just fetch         →  Télécharge et enrichit avec _source
+3. just validate      →  Vérifie intégrité + cohérence avec links.json
+4. data/layers/       →  Données brutes (EPSG:2154), source de vérité
+5. just prepare       →  Reprojette + génère configuration du site
+6. site/public/data/  →  Artefacts dérivés (WGS84) consommés par le navigateur
 ```
 
-Les données ne sont pas transformées au-delà de l'injection `_source`. Le GeoJSON original est préservé tel quel, ce qui garantit la fidélité aux sources et simplifie le diagnostic en cas de problème.
+Les données brutes ne sont pas transformées au-delà de l'injection `_source`. Le GeoJSON original est préservé tel quel, ce qui garantit la fidélité aux sources et simplifie le diagnostic. La version reprojetée est régénérable à volonté depuis la source — voir [Le pipeline en deux étapes](pipeline-deux-etapes.md).
 
 ## Voir aussi
 
 - [Sources de données](sources-de-donnees.md) — d'où viennent les données
+- [Le pipeline en deux étapes](pipeline-deux-etapes.md) — pourquoi brut et reprojeté coexistent
 - [Référence sources.json](../reference/sources-json.md) — schéma complet
 - [Référence links.json](../reference/links-json.md) — schéma des liens
