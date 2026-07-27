@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches-ignore:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          lfs: true
+      - uses: jdx/mise-action@v4
+      - run: uv pip install -r requirements.txt
+      - run: just prepare
+      - run: just site-setup
+      - run: cd site && npm run lint
+      - run: cd site && npm run build
