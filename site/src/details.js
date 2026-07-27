@@ -32,8 +32,11 @@ function communeDetail(helpers) {
         ].filter(([, v]) => v != null && v !== ''),
       },
     ];
-    return helpers.buildDetail(props.NOM || 'Commune', layerId || 'administratif--communes',
-      withReverseLinks(helpers, layerId || 'administratif--communes', featureIndex, groups));
+    return helpers.buildDetail(
+      props.NOM || 'Commune',
+      layerId || 'administratif--communes',
+      withReverseLinks(helpers, layerId || 'administratif--communes', featureIndex, groups)
+    );
   };
 }
 
@@ -54,8 +57,11 @@ function patrimoineBatiDetail(helpers) {
         ].filter(([, v]) => v != null && v !== ''),
       },
     ];
-    return helpers.buildDetail(props.Nom || 'Patrimoine bâti', lid,
-      withReverseLinks(helpers, lid, featureIndex, groups));
+    return helpers.buildDetail(
+      props.Nom || 'Patrimoine bâti',
+      lid,
+      withReverseLinks(helpers, lid, featureIndex, groups)
+    );
   };
 }
 
@@ -72,8 +78,11 @@ function marqueValeursParcDetail(helpers) {
         ].filter(([, v]) => v != null && v !== ''),
       },
     ];
-    return helpers.buildDetail(props.NOM_ETBS || 'Marque Valeurs Parc', lid,
-      withReverseLinks(helpers, lid, featureIndex, groups));
+    return helpers.buildDetail(
+      props.NOM_ETBS || 'Marque Valeurs Parc',
+      lid,
+      withReverseLinks(helpers, lid, featureIndex, groups)
+    );
   };
 }
 
@@ -90,8 +99,11 @@ function natura2000Detail(helpers) {
         ].filter(([, v]) => v != null && v !== ''),
       },
     ];
-    return helpers.buildDetail(props.NOM || 'Natura 2000', lid,
-      withReverseLinks(helpers, lid, featureIndex, groups));
+    return helpers.buildDetail(
+      props.NOM || 'Natura 2000',
+      lid,
+      withReverseLinks(helpers, lid, featureIndex, groups)
+    );
   };
 }
 
@@ -101,8 +113,11 @@ function genericDetail(helpers) {
       .filter(([, v]) => v != null && v !== '')
       .map(([k, v]) => [k, renderValue(v)]);
     const groups = [{ label: 'Propriétés', rows: entries }];
-    return helpers.buildDetail('Détails', layerId,
-      withReverseLinks(helpers, layerId, featureIndex, groups));
+    return helpers.buildDetail(
+      'Détails',
+      layerId,
+      withReverseLinks(helpers, layerId, featureIndex, groups)
+    );
   };
 }
 
