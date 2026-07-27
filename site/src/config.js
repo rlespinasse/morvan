@@ -9,11 +9,11 @@ const perimetreParc = {
 };
 
 // Remove perimetre-parc from layerGroups (it becomes a contextLayer)
-const filteredLayerGroups = layerGroups.map(group => {
+const filteredLayerGroups = layerGroups.map((group) => {
   if (group.id !== 'administratif') return group;
   return {
     ...group,
-    layers: group.layers.filter(l => l.id !== 'administratif--perimetre-parc'),
+    layers: group.layers.filter((l) => l.id !== 'administratif--perimetre-parc'),
   };
 });
 
@@ -30,10 +30,11 @@ export const config = {
   },
 
   baseLayers: {
-    'CyclOSM': {
+    CyclOSM: {
       url: 'https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png',
       options: {
-        attribution: '&copy; <a href="https://www.cyclosm.org/">CyclOSM</a> &amp; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        attribution:
+          '&copy; <a href="https://www.cyclosm.org/">CyclOSM</a> &amp; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         maxZoom: 18,
         subdomains: 'abc',
       },
@@ -55,7 +56,7 @@ export const config = {
       },
     },
 
-    'OpenStreetMap': {
+    OpenStreetMap: {
       url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
       options: {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -64,10 +65,11 @@ export const config = {
       },
     },
 
-    'OpenTopoMap': {
+    OpenTopoMap: {
       url: 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
       options: {
-        attribution: '&copy; <a href="https://opentopomap.org/">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+        attribution:
+          '&copy; <a href="https://opentopomap.org/">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
         maxZoom: 17,
         subdomains: 'abc',
       },
@@ -138,6 +140,33 @@ export const config = {
 
   legalPages: [
     {
+      id: 'about',
+      label: 'À propos',
+      content: `
+        <h3>L'Atlas du Morvan</h3>
+        <p>Cet atlas cartographie <strong>73 jeux de données géospatiales</strong> relatifs au
+        <strong>Parc naturel régional du Morvan</strong> (Bourgogne-Franche-Comté), organisées
+        en 9 catégories thématiques :</p>
+        <ul>
+          <li>Administratif</li>
+          <li>Nature &amp; Environnement</li>
+          <li>Hydrographie</li>
+          <li>Paysages</li>
+          <li>Patrimoine &amp; Culture</li>
+          <li>Tourisme &amp; Économie</li>
+          <li>Programmes &amp; Projets</li>
+          <li>Démographie</li>
+          <li>Énergie</li>
+        </ul>
+        <p>Les données proviennent majoritairement de
+        <a href="https://www.data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a> et de
+        <a href="https://trouver.ternum-bfc.fr/" target="_blank" rel="noopener">TerNum BFC</a>
+        (Territoire Numérique Bourgogne-Franche-Comté). Elles ne sont pas rafraîchies en continu :
+        la mise à jour se fait manuellement, à la demande. Voir l'onglet
+        « Sources de données » pour le détail des licences et fonds de carte.</p>
+      `,
+    },
+    {
       id: 'mentions',
       label: 'Mentions légales',
       content: `
@@ -160,35 +189,78 @@ export const config = {
       content: `
         <h3>Origine des données</h3>
         <p>Les données géographiques affichées sur cette carte proviennent de jeux de données
-        ouverts publiés par le <strong>Parc naturel régional du Morvan</strong> sur les plateformes :</p>
+        ouverts publiés majoritairement par le <strong>Parc naturel régional du Morvan</strong>,
+        avec des contributions de l'<strong>INSEE</strong> (démographie), du
+        <strong>Ministère de l'Éducation nationale</strong> (établissements scolaires),
+        de l'<strong>IGN</strong> et de l'<strong>ONF</strong> (données forestières), et
+        d'<strong>Admin Express</strong> (limites administratives). Elles sont diffusées sur les
+        plateformes :</p>
         <ul>
           <li><a href="https://www.data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a></li>
           <li><a href="https://trouver.ternum-bfc.fr/" target="_blank" rel="noopener">TerNum BFC</a> (Territoire Numérique Bourgogne-Franche-Comté)</li>
         </ul>
         <h3>Fonds de carte</h3>
         <ul>
-          <li><a href="https://opentopomap.org/" target="_blank" rel="noopener">OpenTopoMap</a> — carte topographique © OpenTopoMap (CC-BY-SA)</li>
-          <li><a href="https://www.cyclosm.org/" target="_blank" rel="noopener">CyclOSM</a> — carte cyclable et outdoor © CyclOSM &amp; OpenStreetMap</li>
-          <li><a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> — © les contributeurs OpenStreetMap</li>
-          <li><a href="https://www.ign.fr/" target="_blank" rel="noopener">IGN</a> — Plan IGN et Photographies aériennes © IGN</li>
+          <li><a href="https://opentopomap.org/" target="_blank" rel="noopener">OpenTopoMap</a> — carte topographique © OpenTopoMap (<a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC-BY-SA</a>)</li>
+          <li><a href="https://www.cyclosm.org/" target="_blank" rel="noopener">CyclOSM</a> — carte cyclable et outdoor © CyclOSM &amp; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> (<a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener">ODbL</a>)</li>
+          <li><a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> — © les contributeurs OpenStreetMap (<a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener">ODbL</a>)</li>
+          <li><a href="https://www.ign.fr/" target="_blank" rel="noopener">IGN</a> — Plan IGN et Photographies aériennes © IGN (<a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/" target="_blank" rel="noopener">Licence Ouverte / Open Licence 2.0</a>)</li>
         </ul>
         <h3>Licence des données</h3>
         <p>Les jeux de données sont diffusés sous
         <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/" target="_blank" rel="noopener">Licence Ouverte / Open Licence 2.0</a>
-        (Etalab), sauf mention contraire.</p>
+        (Etalab), sauf mention contraire. Consultez la page source de chaque jeu de données sur
+        data.gouv.fr pour la licence précise et le producteur.</p>
+        <h3>Fréquence de mise à jour</h3>
+        <p>Les données ne sont <strong>pas rafraîchies automatiquement</strong> : elles sont
+        téléchargées à nouveau manuellement (script <code>just fetch</code>) à l'initiative du
+        mainteneur du site, sans calendrier fixe. La date de dernier téléchargement de chaque
+        couche est disponible dans les métadonnées internes du projet.</p>
       `,
     },
     {
-      id: 'licence',
-      label: 'Licence du site',
+      id: 'confidentialite',
+      label: 'Confidentialité',
       content: `
-        <h3>Licence MIT</h3>
-        <p>Copyright © 2026 Romain Lespinasse</p>
-        <p>L'ensemble du code source de ce site est distribué sous licence MIT.
-        Vous êtes libre de l'utiliser, le copier, le modifier et le distribuer,
-        sous réserve d'inclure l'avis de copyright ci-dessus.</p>
-        <p>Le texte complet de la licence est disponible dans le
-        <a href="https://github.com/rlespinasse/morvan" target="_blank" rel="noopener">dépôt GitHub</a> du projet.</p>
+        <h3>Mesure d'audience</h3>
+        <p>Ce site utilise <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a>,
+        un outil de statistiques open source et respectueux de la vie privée, pour mesurer :</p>
+        <ul>
+          <li>le nombre de visites,</li>
+          <li>les pages consultées,</li>
+          <li>la durée de visite.</li>
+        </ul>
+        <h3>Aucune donnée personnelle</h3>
+        <p>Ce site n'utilise <strong>aucun cookie</strong> et ne collecte
+        <strong>aucune donnée personnelle</strong>. Les adresses IP publiques ne sont
+        <strong>pas stockées</strong>. Les requêtes provenant de <code>localhost</code> ou de
+        réseaux privés sont ignorées par la mesure d'audience.</p>
+        <h3>Aucun suivi</h3>
+        <p>Les visiteurs ne sont pas suivis entre les sites et aucun profil individuel n'est
+        constitué.</p>
+      `,
+    },
+    {
+      id: 'credits',
+      label: 'Crédits',
+      content: `
+        <h3>Technologies</h3>
+        <ul>
+          <li><a href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet</a> — bibliothèque cartographique JavaScript</li>
+          <li><a href="https://github.com/rlespinasse/leaflet-atlas" target="_blank" rel="noopener">leaflet-atlas</a> — composant d'atlas interactif au-dessus de Leaflet</li>
+          <li><a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> — outil de build du site</li>
+          <li>Scripts Python de téléchargement des données (fetch, reprojection, validation)</li>
+        </ul>
+        <h3>Code source</h3>
+        <p>Le code de ce projet est disponible sur
+        <a href="https://github.com/rlespinasse/morvan" target="_blank" rel="noopener">github.com/rlespinasse/morvan</a>.</p>
+        <h3>Licences</h3>
+        <ul>
+          <li>Code du site : <strong>MIT</strong></li>
+          <li>Données géographiques : <strong>Licence Ouverte / Open Licence 2.0</strong> (Etalab), sauf mention contraire</li>
+        </ul>
+        <h3>Auteur</h3>
+        <p><a href="https://github.com/rlespinasse" target="_blank" rel="noopener">Romain Lespinasse</a></p>
       `,
     },
   ],
