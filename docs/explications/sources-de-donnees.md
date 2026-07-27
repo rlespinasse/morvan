@@ -63,7 +63,7 @@ Le pipeline n'effectue aucune transformation sur les données au-delà de l'inje
 
 ## Limites
 
-- **Pas de mise à jour automatique** : les données ne sont pas rafraîchies en continu. Il faut relancer `just fetch` manuellement.
+- **Mise à jour hebdomadaire par PR** : un workflow planifié (`refresh-data.yml`, tous les jeudis) relance `just fetch` et `just validate`, puis ouvre une pull request avec les jeux de données actualisés. La PR doit être relue et fusionnée manuellement avant que les changements soient déployés.
 - **Dépendance aux portails** : si une URL de téléchargement change, la couche concernée doit être mise à jour dans `sources.json`.
 - **Pas de vérification de licence** : les licences des jeux de données ne sont pas vérifiées automatiquement. Consultez la page `dataset_url` de chaque couche pour connaître la licence applicable.
 

@@ -161,8 +161,9 @@ export const config = {
         <p>Les données proviennent majoritairement de
         <a href="https://www.data.gouv.fr/" target="_blank" rel="noopener">data.gouv.fr</a> et de
         <a href="https://trouver.ternum-bfc.fr/" target="_blank" rel="noopener">TerNum BFC</a>
-        (Territoire Numérique Bourgogne-Franche-Comté). Elles ne sont pas rafraîchies en continu :
-        la mise à jour se fait manuellement, à la demande. Voir l'onglet
+        (Territoire Numérique Bourgogne-Franche-Comté). Elles sont actualisées automatiquement
+        chaque semaine (tous les jeudis) par un pipeline de mise à jour qui re-télécharge et
+        valide les jeux de données sources. Voir l'onglet
         « Sources de données » pour le détail des licences et fonds de carte.</p>
       `,
     },
